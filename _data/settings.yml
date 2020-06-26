@@ -39,11 +39,8 @@ disqus:
 #-------------------------------
 # About Section
 
-about: >
-  ## About Me
-  
+about: >  
   <img src="/assets/img/bio-photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 40%;"/>
-  <img src="/assets/img/bio-photo.jpeg" align="right" alt="Drawing" style="width: 40%;"/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
