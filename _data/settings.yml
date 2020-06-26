@@ -43,6 +43,9 @@ about: >
   # About Me
   
   <img src="/assets/img/bio-photo.jpeg" alt="Drawing" style="width: 26.6%;"/>
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
 
   Driven Computer Science and Political Science student at the University of Massachusetts Amherst. Excited about the intersectionality of Computer Science and Politics to create a better world. Especially interested in AI and machine learning ethics, data privacy, mobile computing, and human interface design, as well as advocacy around social, racial, educational, and environmental justice. 
 
