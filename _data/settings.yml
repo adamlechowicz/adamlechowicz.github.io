@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: 'pages/blog.html'}
+- {name: 'Projects', url: 'pages/projects.html'}
 - {name: 'Portfolio', url: 'pages/blog.html'}
 - {name: 'Résumé', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
