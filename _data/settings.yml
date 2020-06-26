@@ -39,7 +39,7 @@ disqus:
 #-------------------------------
 # About Section
 
-about:
+about: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
