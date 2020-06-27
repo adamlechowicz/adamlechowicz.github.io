@@ -57,10 +57,13 @@ contact: >
   You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
  
 portfolio: >
-  A selected collection of my graphic design and UI work.
+  ##### A selected collection of my graphic design and UI work.
 
   #### @umass Instagram Story Funding Sheets
-
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
   <img src="/assets/img/portfolio/funding3.png" alt="Instagram Story Sheet" style="width: 45%;"/>
   <img src="/assets/img/portfolio/funding5.png" align="right" alt="Instagram Story Sheet" style="width: 45%;"/>
   
@@ -70,6 +73,15 @@ portfolio: >
   A collection of informational sheets published on the @umass Instagram story in February 2020.  Designed in harmony with university brand guidelines, I made use of a subtle gradient centered on the university maroon color, in conjunction with the official typeface Frutiger and an assortment of background patterns to create sheets that are clearly related, but not entirely monotonous and "cookie-cutter". 
 
   #### UMass Dorm Icons
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/brett.png" align="center" alt="An icon of Brett House at UMass" style="width: 90%;"/>
+  <img src="/assets/img/portfolio/greenough.png" align="center" alt="An icon of Greenough House at UMass" style="width: 90%;"/>
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
 
   An assortment of simple, distilled icons that depict dormitory buildings on the UMass Amherst campus.  Designing these, I constrained myself by using a low-res pixel art format, shedding extraneous features and focusing on distinctive features that make each building recognizable.  After a base image constructed in pixel-art, I scaled up the image to add color, shadow, and replace jagged roofline edges with smooth diagonal lines, resulting in crisp, simple icons.
 
