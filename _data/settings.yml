@@ -105,8 +105,8 @@ portfolio: >
 # Work Section
 
 projects:
-- {name: 'Beton3', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'UMass BRUT', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: ' ', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: ' ', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: ' ', folder: 'proj-3', file: 'projects/proj-3.html'}
 
 #-------------------------------
