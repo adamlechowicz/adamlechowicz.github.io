@@ -44,7 +44,7 @@ about: >
   </p>
   
   <img src="/assets/img/bio-photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%;"/>
-  <img src="/assets/img/500x300.png" align="right" alt="Drawing" style="width: 45.2%;"/>
+  <img src="/assets/img/500x300.png" align="right" alt="Old Chapel at UMass Amherst" style="width: 45.2%;"/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
@@ -55,6 +55,34 @@ contact: >
   # Contact
 
   You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+ 
+portfolio: >
+  # Portfolio
+
+  A selected collection of my graphic design and UI work.
+
+  ## @umass Instagram Story Funding Sheets
+
+  <img src="/assets/img/portfolio/funding3.png" alt="Instagram Story Sheet" style="width: 33%;"/>
+  <img src="/assets/img/portfolio/funding5.png" align="right" alt="Instagram Story Sheet" style="width: 33%;"/>
+
+  A collection of informational sheets published on the @umass Instagram story in February 2020.  Designed in harmony with university brand guidelines, I made use of a subtle gradient centered on the university maroon color, in conjunction with the official typeface Frutiger and an assortment of background patterns to create sheets that are clearly related, but not entirely monotonous and "cookie-cutter". 
+
+  ## UMass Dorm Icons
+
+  An assortment of simple, distilled icons that depict dormitory buildings on the UMass Amherst campus.  Designing these, I constrained myself by using a low-res pixel art format, shedding extraneous features and focusing on distinctive features that make each building recognizable.  After a base image constructed in pixel-art, I scaled up the image to add color, shadow, and replace jagged roofline edges with smooth diagonal lines, resulting in crisp, simple icons.
+
+  ## Student Government Association Work
+
+  Loosely organized work that I've completed for the Student Government Association throughout my tenure as a Senator and Secretary of Technology.
+
+  ## Drawings
+
+  A small collection of detailed drawings of locations across the UMass campus, completed digitally in Photoshop.
+
+  ## Miscellaneous Work
+
+  Some additional, completely unorganized work that I've done in Photoshop and Illustrator, generally for my Redbubble store or just as a manifestation of some spontaneous idea. 
 
 #-------------------------------
 # Work Section
