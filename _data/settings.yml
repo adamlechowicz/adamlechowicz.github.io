@@ -94,8 +94,8 @@ portfolio: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <img src="/assets/img/portfolio/bakerdrawing.png" align="center" alt="An icon of Brett House at UMass" style="width: 66%;"/>
-  <img src="/assets/img/portfolio/librarydrawing.png" align="center" alt="An icon of Greenough House at UMass" style="width: 33%;"/>
+  <img src="/assets/img/portfolio/ucardposter.png" align="center" alt="A poster telling students to vote." style="width: 33%;"/>
+  <img src="/assets/img/portfolio/splash.png" align="center" alt="A title image" style="width: 66%;"/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
@@ -109,8 +109,8 @@ portfolio: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <img src="/assets/img/portfolio/ucardposter.png" align="center" alt="An icon of Brett House at UMass" style="width: 33%;"/>
-  <img src="/assets/img/portfolio/splash.png" align="center" alt="An icon of Greenough House at UMass" style="width: 66%;"/>
+  <img src="/assets/img/portfolio/bakerdrawing.png" align="center" alt="A drawing of Baker House at UMass" style="width: 66%;"/>
+  <img src="/assets/img/portfolio/librarydrawing.png" align="center" alt="A drawing of Du Bois Library at UMass" style="width: 33%;"/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
