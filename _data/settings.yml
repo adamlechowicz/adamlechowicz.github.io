@@ -76,14 +76,8 @@ portfolio: >
 
   #### UMass Dorm Icons
   
-  <p class="lead" style="font-variant:small-caps">
-  </p>
-  
   <img src="/assets/img/portfolio/brett.png" align="center" alt="An icon of Brett House at UMass" style="width: 90%;"/>
   <img src="/assets/img/portfolio/greenough.png" align="center" alt="An icon of Greenough House at UMass" style="width: 90%;"/>
-  
-  <p class="lead" style="font-variant:small-caps">
-  </p>
 
   An assortment of simple, distilled icons that depict dormitory buildings on the UMass Amherst campus.  Designing these, I constrained myself by using a low-res pixel art format, shedding extraneous features and focusing on distinctive features that make each building recognizable.  After a base image constructed in pixel-art, I scaled up the image to add color, shadow, and replace jagged roofline edges with smooth diagonal lines, resulting in crisp, simple icons.
 
@@ -95,9 +89,6 @@ portfolio: >
   </p>
   
   Loosely organized work that I've completed for the Student Government Association throughout my tenure as a Senator and Secretary of Technology.
-  
-  <p class="lead" style="font-variant:small-caps">
-  </p>
 
   <img src="/assets/img/portfolio/ucardposter.png" align="center" alt="A poster telling students to vote." style="width: 60%;"/>
   
