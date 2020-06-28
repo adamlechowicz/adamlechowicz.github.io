@@ -79,8 +79,8 @@ portfolio: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <img src="/assets/img/portfolio/brett.png" align="center" alt="An icon of Brett House at UMass" style="width: 80%;"/>
-  <img src="/assets/img/portfolio/greenough.png" align="center" alt="An icon of Greenough House at UMass" style="width: 80%;"/>
+  <img src="/assets/img/portfolio/brett.png" align="center" alt="An icon of Brett House at UMass" style="width: 90%;"/>
+  <img src="/assets/img/portfolio/greenough.png" align="center" alt="An icon of Greenough House at UMass" style="width: 90%;"/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
@@ -90,8 +90,19 @@ portfolio: >
   <p><a href="portfolio.html">See more Dorm Icons ></a></p>
 
   #### Student Government Association Work
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/ucardposter.png" align="center" alt="An icon of Brett House at UMass" style="width: 33%;"/>
+  <img src="/assets/img/portfolio/splash.png" align="center" alt="An icon of Greenough House at UMass" style="width: 66%;"/>
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
 
   Loosely organized work that I've completed for the Student Government Association throughout my tenure as a Senator and Secretary of Technology.
+  
+  <p><a href="portfolio.html">See more Dorm Icons ></a></p>
 
   #### Drawings
 
