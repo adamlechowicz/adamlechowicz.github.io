@@ -94,13 +94,17 @@ portfolio: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <img src="/assets/img/portfolio/ucardposter.png" align="center" alt="A poster telling students to vote." style="width: 50%;"/>
-  <img src="/assets/img/portfolio/splash.png" align="center" alt="A title image" style="width: 80%;"/>
+  Loosely organized work that I've completed for the Student Government Association throughout my tenure as a Senator and Secretary of Technology.
   
   <p class="lead" style="font-variant:small-caps">
   </p>
 
-  Loosely organized work that I've completed for the Student Government Association throughout my tenure as a Senator and Secretary of Technology.
+  <img src="/assets/img/portfolio/ucardposter.png" align="center" alt="A poster telling students to vote." style="width: 60%;"/>
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/splash.png" align="center" alt="A title image" style="width: 80%;"/>
   
   <p><a href="portfolio.html">See more SGA Work ></a></p>
 
@@ -109,13 +113,20 @@ portfolio: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
+  A small collection of detailed drawings of locations across the UMass campus, completed digitally in Photoshop.
+
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
   <img src="/assets/img/portfolio/bakerdrawing.png" align="center" alt="A drawing of Baker House at UMass" style="width: 80%;"/>
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
   <img src="/assets/img/portfolio/studentunion.png" align="center" alt="A drawing of the Student Union at UMass" style="width: 80%;"/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
-
-  A small collection of detailed drawings of locations across the UMass campus, completed digitally in Photoshop.
   
   <p><a href="portfolio.html">See more Drawings ></a></p>
 
