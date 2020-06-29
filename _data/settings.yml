@@ -159,14 +159,17 @@ portfolio: >
   <p><a href="portfolio.html">See Miscellaneous Work ></a></p>
   
 stories: >
+
+  ## @umass Instagram Story Funding Sheets
+
   <p class="lead" style="font-variant:small-caps">
   </p>
   
   <img src="/assets/img/portfolio/funding.png" alt="Instagram Story Sheet" style="width: 30%;"/>
-  <img src="/assets/img/portfolio/funding2.png" align="center" alt="Instagram Story Sheet" style="width: 30%;"/>
+  <img src="/assets/img/portfolio/funding2.png" align="right" alt="Instagram Story Sheet" style="width: 30%;"/>
   <img src="/assets/img/portfolio/funding3.png" align="right" alt="Instagram Story Sheet" style="width: 30%;"/>
-  <img src="/assets/img/portfolio/funding4.png" align="right" alt="Instagram Story Sheet" style="width: 45%;"/>
-  <img src="/assets/img/portfolio/funding5.png" align="right" alt="Instagram Story Sheet" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/funding4.png" align="right" alt="Instagram Story Sheet" style="width: 30%;"/>
+  <img src="/assets/img/portfolio/funding5.png" align="right" alt="Instagram Story Sheet" style="width: 30%;"/>
 
   <p class="lead" style="font-variant:small-caps">
   </p>
