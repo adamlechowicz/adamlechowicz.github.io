@@ -159,17 +159,11 @@ portfolio: >
   <p><a href="portfolio.html">See Miscellaneous Work ></a></p>
   
 stories: >
-  <p class="lead" style="font-variant:small-caps">
-  </p>
-  
   <img src="/assets/img/portfolio/funding.png" alt="Instagram Story Sheet" style="width: 30%;"/>
   <img src="/assets/img/portfolio/funding2.png" alt="Instagram Story Sheet" style="width: 30%;"/>
   <img src="/assets/img/portfolio/funding3.png" alt="Instagram Story Sheet" style="width: 30%;"/>
   <img src="/assets/img/portfolio/funding4.png" alt="Instagram Story Sheet" style="width: 30%;"/>
   <img src="/assets/img/portfolio/funding5.png" alt="Instagram Story Sheet" style="width: 30%;"/>
-
-  <p class="lead" style="font-variant:small-caps">
-  </p>
   
 dorms: >
   <p class="lead" style="font-variant:small-caps">
@@ -190,11 +184,11 @@ dorms: >
   <img src="/assets/img/portfolio/vanmeter.png" alt="Van Meter House" style="width: 45%;"/>
   <img src="/assets/img/portfolio/wheeler.png" align="center" alt="Wheeler House" style="width: 45%;"/>
   
-  <img src="/assets/img/portfolio/JQA.png" align="right" alt="John Quincy Adams Tower" style="width: 30%;"/>
-  <img src="/assets/img/portfolio/coolidge.png" align="right" alt="Coolidge Tower" style="width: 30%;"/>
-  <img src="/assets/img/portfolio/johnadams.png" align="right" alt="John Adams Tower" style="width: 30%;"/>
-  <img src="/assets/img/portfolio/kennedy.png" align="right" alt="Kennedy Tower" style="width: 30%;"/>
-  <img src="/assets/img/portfolio/washington.png" align="right" alt="Washington Tower" style="width: 30%;"/>
+  <img src="/assets/img/portfolio/JQA.png" align="right" alt="John Quincy Adams Tower" style="width: 20%;"/>
+  <img src="/assets/img/portfolio/coolidge.png" align="right" alt="Coolidge Tower" style="width: 20%;"/>
+  <img src="/assets/img/portfolio/johnadams.png" align="right" alt="John Adams Tower" style="width: 20%;"/>
+  <img src="/assets/img/portfolio/kennedy.png" align="right" alt="Kennedy Tower" style="width: 20%;"/>
+  <img src="/assets/img/portfolio/washington.png" align="right" alt="Washington Tower" style="width: 20%;"/>
 
   <p class="lead" style="font-variant:small-caps">
   </p>
