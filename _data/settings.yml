@@ -157,6 +157,19 @@ portfolio: >
   Some additional, completely unorganized work that I've done in Photoshop and Illustrator, generally for my Redbubble store or just as a manifestation of some spontaneous idea.
   
   <p><a href="portfolio.html">See Miscellaneous Work ></a></p>
+  
+stories: >
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/funding.png" alt="Instagram Story Sheet" style="width: 30%;"/>
+  <img src="/assets/img/portfolio/funding2.png" align="center" alt="Instagram Story Sheet" style="width: 30%;"/>
+  <img src="/assets/img/portfolio/funding3.png" align="right" alt="Instagram Story Sheet" style="width: 30%;"/>
+  <img src="/assets/img/portfolio/funding4.png" align="right" alt="Instagram Story Sheet" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/funding5.png" align="right" alt="Instagram Story Sheet" style="width: 45%;"/>
+
+  <p class="lead" style="font-variant:small-caps">
+  </p>
 
 #-------------------------------
 # Work Section
