@@ -91,7 +91,7 @@ portfolio: >
 
   <img src="/assets/img/portfolio/greenough.png" align="center" alt="An icon of Greenough House at UMass" style="width: 90%;"/>
 
-  <p><a href="portfolio.html">See more Dorm Icons ></a></p>
+  <p><a href="dorms.html">See more Dorm Icons ></a></p>
 
   <p class="lead" style="font-variant:small-caps">
   </p>
@@ -167,6 +167,34 @@ stories: >
   <img src="/assets/img/portfolio/funding3.png" align="right" alt="Instagram Story Sheet" style="width: 30%;"/>
   <img src="/assets/img/portfolio/funding4.png" align="right" alt="Instagram Story Sheet" style="width: 45%;"/>
   <img src="/assets/img/portfolio/funding5.png" align="right" alt="Instagram Story Sheet" style="width: 45%;"/>
+
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+dorms: >
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/baker.png" alt="Baker House" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/butterfield.png" align="center" alt="Butterfield House" style="width: 45%;"/>
+  
+  <img src="/assets/img/portfolio/brett.png" alt="Brett House" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/brooks.png" align="center" alt="Brooks House" style="width: 45%;"/>
+  
+  <img src="/assets/img/portfolio/chadbourne.png" alt="Chadbourne House" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/greenough.png" align="center" alt="Greenough House" style="width: 45%;"/>
+  
+  <img src="/assets/img/portfolio/johnson.png" alt="Johnson House" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/thatcher.png" align="center" alt="Thatcher House" style="width: 45%;"/>
+  
+  <img src="/assets/img/portfolio/vanmeter.png" alt="Van Meter House" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/wheeler.png" align="center" alt="Wheeler House" style="width: 45%;"/>
+  
+  <img src="/assets/img/portfolio/JQA.png" align="right" alt="John Quincy Adams Tower" style="width: 20%;"/>
+  <img src="/assets/img/portfolio/coolidge.png" align="right" alt="Coolidge Tower" style="width: 20%;"/>
+  <img src="/assets/img/portfolio/johnadams.png" align="right" alt="John Adams Tower" style="width: 20%;"/>
+  <img src="/assets/img/portfolio/kennedy.png" align="right" alt="Kennedy Tower" style="width: 20%;"/>
+  <img src="/assets/img/portfolio/washington.png" align="right" alt="Washington Tower" style="width: 20%;"/>
 
   <p class="lead" style="font-variant:small-caps">
   </p>
