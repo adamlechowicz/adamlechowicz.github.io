@@ -138,7 +138,7 @@ portfolio: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <p><a href="portfolio.html">See more Drawings ></a></p>
+  <p><a href="drawings.html">See more Drawings ></a></p>
 
   <p class="lead" style="font-variant:small-caps">
   </p>
@@ -198,6 +198,32 @@ dorms: >
 
   <p class="lead" style="font-variant:small-caps">
   </p>
+  
+drawings: >
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+
+  <img src="/assets/img/portfolio/butterfielddrawing.png" align="center" alt="A drawing of Butterfield House at UMass" style="width: 80%;"/>
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/librarydrawing.png" align="center" alt="A drawing of the Du Bois Library at UMass" style="width: 80%;"/>
+
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/bakerdrawing.png" align="center" alt="A drawing of Baker House at UMass" style="width: 80%;"/>
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/studentunion.png" align="center" alt="A drawing of the Student Union at UMass" style="width: 80%;"/>
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/shirtdesigncontest.png" align="center" alt="Entry for a T-Shirt Design Contest" style="width: 80%;"/>
 
 #-------------------------------
 # Work Section
