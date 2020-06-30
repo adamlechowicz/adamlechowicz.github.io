@@ -159,11 +159,11 @@ portfolio: >
   <p><a href="portfolio.html">See Miscellaneous Work ></a></p>
   
 stories: >
-  <img src="/assets/img/portfolio/funding.png" align="left" alt="Instagram Story Sheet" style="width: 30%;"/>
-  <img src="/assets/img/portfolio/funding2.png" align="left" alt="Instagram Story Sheet" style="width: 30%;"/>
-  <img src="/assets/img/portfolio/funding3.png" align="left" alt="Instagram Story Sheet" style="width: 30%;"/>
-  <img src="/assets/img/portfolio/funding4.png" align="left" alt="Instagram Story Sheet" style="width: 30%;"/>
-  <img src="/assets/img/portfolio/funding5.png" align="left" alt="Instagram Story Sheet" style="width: 30%;"/>
+  <img src="/assets/img/portfolio/funding.png" alt="Instagram Story Sheet" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/funding2.png" align="right" alt="Instagram Story Sheet" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/funding3.png" alt="Instagram Story Sheet" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/funding4.png" align="right" alt="Instagram Story Sheet" style="width: 45%;"/>
+  <img src="/assets/img/portfolio/funding5.png" alt="Instagram Story Sheet" style="width: 45%;"/>
   
 dorms: >
   <p class="lead" style="font-variant:small-caps">
