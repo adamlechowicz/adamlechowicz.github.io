@@ -19,4 +19,4 @@ Finally, three Cherry MX-compatible switches provide a basis for programmable ma
 
 *Link to YouTube - Béton3 interface demo*
 
-All the CAD part files, source code, and build instructions are hosted on my GitHub, linked on the first picture at the top of this page.
+CAD part files, source code, and build instructions are hosted on my GitHub, linked on the first picture at the top of this page.
