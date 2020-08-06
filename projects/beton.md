@@ -7,7 +7,7 @@ title: 'Béton3'
 
 Béton3 is an open-source macro pad design based around the QMK-compatible Pro Micro platform, MX-mount keyswitches and a commonly available, clickable rotary encoder design.
 
-![A definition](https://raw.githubusercontent.com/adamlechowicz/Beton3/master/Picture%20Gallery/0002.jpeg)
+![A definition](https://camo.githubusercontent.com/bbb8544bcfb6d5c1cbdc390aa84ad528d830603b/68747470733a2f2f6164616d6c6563686f7769637a2e6769746875622e696f2f6173736574732f696d672f70726f6a656374732f70726f6a2d312f646566696e6974696f6e312e706e67)
 
 The defining feature of Béton3 is the cast concrete rotary encoder knob, created using a 3D printed mold that results in a distinct, weighty knob with luxurious inertia and precise steps, much like a premium stereo system. Using the Béton3 stock firmware, the smooth rotary encoder performs three volume control functions: volume up, volume down, and mute/unmute.
 
