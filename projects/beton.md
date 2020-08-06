@@ -16,6 +16,7 @@ Below the rotary encoder, the 0.91" OLED screen is a bright, programmable canvas
 Finally, three Cherry MX-compatible switches provide a basis for programmable macros, supporting large, 1.25u and 1.5u keycaps for easy muscle memory access. Using the Béton3 stock firmware, three switches perform five media control functions: play/pause, forward, back, fast-forward, and rewind.
 
 [![A video of the Béton3 interface](https://img.youtube.com/vi/9jtD4WeTKok/0.jpg)](https://www.youtube.com/watch?v=9jtD4WeTKok)
+
 *Link to YouTube - Béton3 interface demo*
 
 All the CAD part files, source code, and build instructions are hosted on my GitHub, linked on the first picture at the top of this page.
