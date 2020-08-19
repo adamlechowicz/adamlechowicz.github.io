@@ -318,6 +318,7 @@ misc: >
 # Work Section
 
 projects:
+- {name: ' ', folder: 'proj-4', file: 'projects/umasstour.html'}
 - {name: ' ', folder: 'proj-1', file: 'projects/beton.html'}
 - {name: ' ', folder: 'proj-2', file: 'projects/ub.html'}
 - {name: ' ', folder: 'proj-3', file: 'projects/uca.html'}
