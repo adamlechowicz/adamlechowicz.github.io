@@ -4,7 +4,7 @@
 menu:
 - {name: 'Projects', url: 'pages/projects.html'}
 - {name: 'Portfolio', url: 'pages/portfolio.html'}
-- {name: 'Résumé', url: 'pages/blog.html'}
+- {name: 'Résumé', url: 'Adam Lechowicz Résumé.pdf'}
 # - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
