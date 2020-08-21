@@ -13,7 +13,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Adam Lechowicz is a Computer Science and Political Science student at the University of Massachusetts Amherst.'
+  description: 'Adam Lechowicz is a computer science and political science student at the University of Massachusetts Amherst.'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
@@ -56,7 +56,7 @@ about: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  Hello, my name is Adam, and I'm a driven Computer Science and Political Science student at the University of Massachusetts Amherst.  I'm excited about the potential to create a better world at the intersection of computer science and public policy. Especially interested in AI and machine learning ethics, data privacy, mobile computing, and human interface design, as well as advocacy around social, racial, educational, and environmental justice. 
+  Hello, my name is Adam, and I'm a driven computer science and political science student at the University of Massachusetts Amherst.  I'm excited about the potential to create a better world at the intersection of computer science and public policy. Especially interested in AI and machine learning ethics, data privacy, mobile computing, and human interface design, as well as advocacy around social, racial, educational, and environmental justice. 
   
   <p class="lead" style="font-variant:small-caps">
   </p>
