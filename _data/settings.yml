@@ -17,6 +17,7 @@ seo:
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
   og:image: '/assets/img/500x300.png'
+  og:description: 'Adam Lechowicz is a computer science and political science student at the University of Massachusetts Amherst.'
 
 #-------------------------------
 # Google Analytics Section
