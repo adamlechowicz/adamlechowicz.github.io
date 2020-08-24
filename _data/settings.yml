@@ -40,6 +40,8 @@ disqus:
 # About Section
 
 about: >
+  <meta property="og:image" content="/assets/img/500x300.png" />
+  
   <p class="lead" style="font-variant:small-caps">
   </p>
   
