@@ -4,7 +4,7 @@
 menu:
 - {name: 'Projects', url: 'pages/projects.html'}
 - {name: 'Portfolio', url: 'pages/portfolio.html'}
-- {name: 'Résumé', url: 'pages/blog.html'}
+- {name: 'Résumé', url: 'Adam%20Lechowicz%20Résumé.pdf'}
 # - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
@@ -13,9 +13,11 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Adam Lechowicz is a Computer Science and Political Science student at the University of Massachusetts Amherst.'
+  description: 'Adam Lechowicz is a computer science and political science student at the University of Massachusetts Amherst.'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
+  og:image: '/assets/img/500x300.png'
+  og:description: 'Adam Lechowicz is a computer science and political science student at the University of Massachusetts Amherst.'
 
 #-------------------------------
 # Google Analytics Section
@@ -40,19 +42,32 @@ disqus:
 # About Section
 
 about: >
+  
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <img src="/assets/img/bio-photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%;"/>
   <img src="/assets/img/500x300.png" align="right" alt="Old Chapel at UMass Amherst" style="width: 45.2%;"/>
+  <img src="/assets/img/bio-photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%;"/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
-
-  Hello! My name is Adam, and I am a driven Computer Science and Political Science student at the University of Massachusetts Amherst. 
   
-  I'm excited about the intersectionality of Computer Science and Politics to create a better world. Especially interested in AI and machine learning ethics, data privacy, mobile computing, and human interface design, as well as advocacy around social, racial, educational, and environmental justice. 
- 
+  #### Adam Lechowicz
+  
+  **Computer Science and Political Science Student**
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  Hello, my name is Adam, and I'm a driven computer science and political science student at the University of Massachusetts Amherst.  I'm excited about the potential to create a better world at the intersection of computer science and public policy. Especially interested in AI and machine learning ethics, data privacy, mobile computing, and human interface design, as well as advocacy around social, racial, educational, and environmental justice. 
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  email: **[alechowicz@umass.edu](mailto:alechowicz@umass.edu)**    <br/>
+  phone: **[+1 (774) 994-6908](tel:17749946908)**    <br/>
+  linkedin: **[Adam Lechowicz on LinkedIn](https://www.linkedin.com/in/adamlechowicz/)**
+  
 portfolio: >
   A selected collection of my graphic design work.
   
@@ -306,7 +321,7 @@ misc: >
 # Work Section
 
 projects:
-- {name: ' ', folder: "proj-4", file: 'projects/umasstour.html'}
+- {name: ' ', folder: 'proj-4', file: 'projects/umasstour.html'}
 - {name: ' ', folder: 'proj-1', file: 'projects/beton.html'}
 - {name: ' ', folder: 'proj-2', file: 'projects/ub.html'}
 - {name: ' ', folder: 'proj-3', file: 'projects/uca.html'}
@@ -315,7 +330,7 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/adam-lechowicz-58703a154/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/adamlechowicz'}
 - {icon: 'instagram', link: 'https://www.instagram.com/adamlechowicz/'}
 - {icon: 'github', link: 'https://github.com/adamlechowicz/'}
 - {icon: 'envelope', link: 'mailto:adamlechowicz921@gmail.com'}
