@@ -13,5 +13,5 @@ The headline feature of the app is a slick, guided and narrated tour, which uses
 
 UMass Campus Tour also includes a fast and intuitive building search feature that provides walking or driving directions to any building or point of interest on campus - a lifesaver for first-year and transfer students unfamiliar with the campus layout.
 
-This project is currently in development, and I anticipate substantial completion in Sep-Oct of 2020.
+This project is currently in development, and I anticipate substantial completion in Dec 2020-Jan 2021.
 
