@@ -79,12 +79,12 @@ portfolio: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <img src="/assets/img/portfolio/sgastyleguide.png" alt="SGA Style Guide" style="width: 90%;"/>
+  <img src="/assets/img/portfolio/sgastyleguide.png" alt="SGA Style Guide" style="width: 100%;"/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
 
-  A comprehensive branding guide created for the UMass Student Government Association in Fall 2020.  Designed in parallel with university brand guidelines, I constructed a graphic identity for the organization that uses color and type to implicitly associate the SGA with the university, while still maintaining an independent and professional look and feel.
+  A comprehensive branding guide created for the UMass Student Government Association in Fall 2020.  Designed in parallel with university brand guidelines, I constructed a graphic identity for the organization that uses color and type to implicitly associate the SGA with the university, while still maintaining an independently professional look and feel.
   
   <p><a href="https://adamlechowicz.github.io/UMass%20SGA%20Branding%20Guide.pdf">See the Branding Guide></a></p>
 
@@ -259,6 +259,11 @@ drawings: >
   
   <img src="/assets/img/portfolio/shirtdesigncontest.png" align="center" alt="Entry for a T-Shirt Design Contest" style="width: 100%;"/>
   
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/goessmann.png" align="center" alt="A drawing of Goessmann Laboratory at UMass" style="width: 100%;"/>
+  
 sga: >
   <p class="lead" style="font-variant:small-caps">
   </p>
@@ -295,6 +300,11 @@ misc: >
   </p>
 
   <img src="/assets/img/portfolio/helvumb.png" align="center" alt="" style="width: 100%;"/>
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  <img src="/assets/img/portfolio/umasssign.png" align="center" alt="A digital drawing of the welcome sign at UMass" style="width: 100%;"/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
