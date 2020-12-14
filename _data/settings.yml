@@ -236,14 +236,9 @@ dorms: >
 drawings: >
   <p class="lead" style="font-variant:small-caps">
   </p>
-
-  <img src="/assets/img/portfolio/butterfielddrawing.png" align="center" alt="A drawing of Butterfield House at UMass" style="width: 100%;"/>
   
-  <p class="lead" style="font-variant:small-caps">
-  </p>
+  <img src="/assets/img/portfolio/goessmann.png" align="center" alt="A drawing of Goessmann Laboratory at UMass" style="width: 100%;"/>
   
-  <img src="/assets/img/portfolio/librarydrawing.png" align="center" alt="A drawing of the Du Bois Library at UMass" style="width: 100%;"/>
-
   <p class="lead" style="font-variant:small-caps">
   </p>
   
@@ -257,12 +252,15 @@ drawings: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <img src="/assets/img/portfolio/shirtdesigncontest.png" align="center" alt="Entry for a T-Shirt Design Contest" style="width: 100%;"/>
+  <img src="/assets/img/portfolio/butterfielddrawing.png" align="center" alt="A drawing of Butterfield House at UMass" style="width: 100%;"/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <img src="/assets/img/portfolio/goessmann.png" align="center" alt="A drawing of Goessmann Laboratory at UMass" style="width: 100%;"/>
+  <img src="/assets/img/portfolio/librarydrawing.png" align="left" alt="A drawing of the Du Bois Library at UMass" style="width: 45%;"/>
+  
+  <img src="/assets/img/portfolio/shirtdesigncontest.png" align="right" alt="Entry for a T-Shirt Design Contest" style="width: 45%;"/>
+  
   
 sga: >
   <p class="lead" style="font-variant:small-caps">
