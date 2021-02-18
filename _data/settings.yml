@@ -358,7 +358,6 @@ projects:
 
 social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/adamlechowicz'}
-- {icon: 'twitter', link: 'https://www.twitter.com/adamlechowicz'}
 - {icon: 'instagram', link: 'https://www.instagram.com/adamlechowicz/'}
 - {icon: 'github', link: 'https://github.com/adamlechowicz/'}
 - {icon: 'envelope', link: 'mailto:adamlechowicz921@gmail.com'}
