@@ -3,6 +3,28 @@ layout: post
 title: 'Backtrack'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+{% include image.html url="https://apps.apple.com/us/app/backtrack-location-logging/id1582748126" image="projects/proj-5/backtrack.jpg" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/backtrack.jpg" %}
+Backtrack is a privacy-centric, open-source location logging solution that provides you with a history of location data for your device.
+
+[Backtrack Source on GitHub](https://github.com/adamlechowicz/Backtrack)
+
+Backtrack provides an alternative to “Location History” solutions offered by many web mapping platforms, without selling your data or even sharing it with any third party.
+
+Your data is your property, and Backtrack respects this by saving your collected data directly to spaces that you have full control over.
+
+Pausing and resuming your location history is just one tap away, and you can view all of your collected data right in the app.
+
+## Key Features
+* Deep iOS integration that passively collects location data from your device with minimal impact on battery life
+  * App offers configurable parameters to fine tune how often the location engine collects data points
+
+* Easy, one-tap control to pause and resume location collection
+
+* Choose whether to log data locally on device storage, or directly to a private iCloud Drive folder
+  * Data is only ever handled in locations which are fully controlled by the user - never uploaded to third party servers or shared with anyone
+
+* All location data is written directly to a human-readable CSV (comma-separated values) file on device storage or in a private iCloud Drive folder
+  * Location history for specific days can be viewed directly in the app, overlayed on an Apple Maps satellite view
+  * CSV file is accessible through native Files app on iOS, and can be easily exported for storage or visualization using other tools
+
