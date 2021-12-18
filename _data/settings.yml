@@ -371,7 +371,7 @@ projects:
 - {name: ' ', folder: 'proj-4', file: 'projects/umasstour.html'}
 - {name: ' ', folder: 'proj-1', file: 'projects/beton.html'}
 - {name: ' ', folder: 'proj-3', file: 'projects/uca.html'}
-- {name: 'Portfolio', folder: 'proj-6', file: 'pages/portfolio.html'}
+- {name: 'Portfolio', folder: 'port', file: 'pages/portfolio.html'}
 
 #-------------------------------
 # Contact Section
