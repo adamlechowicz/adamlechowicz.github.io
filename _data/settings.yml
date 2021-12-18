@@ -4,7 +4,6 @@
 menu:
 #- {name: 'CS 389', url: '389S22/index.html'}
 - {name: 'Projects', url: 'pages/projects.html'}
-#- {name: 'Portfolio', url: 'pages/portfolio.html'}
 - {name: 'CV', url: 'AdamLechowiczCurriculumVitae.pdf'}
 # - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -371,7 +370,7 @@ projects:
 - {name: ' ', folder: 'proj-4', file: 'projects/umasstour.html'}
 - {name: ' ', folder: 'proj-1', file: 'projects/beton.html'}
 - {name: ' ', folder: 'proj-3', file: 'projects/uca.html'}
-- {name: 'Portfolio', folder: 'port', file: 'pages/portfolio.html'}
+- {name: ' ', folder: 'port', file: 'pages/portfolio.html'}
 
 #-------------------------------
 # Contact Section
