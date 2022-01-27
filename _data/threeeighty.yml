@@ -16,11 +16,11 @@ index: >
     
     <div>
     <br>
-    <p><span style="color: #3366ff;"><strong><a style="color: #0000ff;" href="https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf">A Super Brief, Yet Super Awesome, LaTeX Cheat Sheet</a></strong></span> - Richard Freedman &amp; Philip Thomas</p>
-    <p><span style="color: #3366ff;"><a style="color: #0000ff;" href="https://www.overleaf.com/"><strong>Overleaf - A free-to-use, online collaborative LaTeX environment</strong></a></span></p>
-    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/read/jjwrmfzcqqpz">Interactive LaTeX Cheat Sheet (Overleaf Template)</a></span></p>
-    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes">&ldquo;Learn LaTeX in 30 minutes&rdquo;</a></span></p>
-    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/learn/latex/Tutorials">Tutorials for Overleaf and LaTeX</a></span></p>
+    <p><span style="color: #3366ff;"><strong><a style="color: #0000ff;" href="https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf" target="_blank" rel="noopener noreferrer">A Super Brief, Yet Super Awesome, LaTeX Cheat Sheet</a></strong></span> - Richard Freedman &amp; Philip Thomas</p>
+    <p><span style="color: #3366ff;"><a style="color: #0000ff;" href="https://www.overleaf.com/" target="_blank" rel="noopener noreferrer"><strong>Overleaf - A free-to-use, online collaborative LaTeX environment</strong></a></span></p>
+    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/read/jjwrmfzcqqpz" target="_blank" rel="noopener noreferrer">Interactive LaTeX Cheat Sheet (Overleaf Template)</a></span></p>
+    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes" target="_blank" rel="noopener noreferrer">&ldquo;Learn LaTeX in 30 minutes&rdquo;</a></span></p>
+    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/learn/latex/Tutorials" target="_blank" rel="noopener noreferrer">Tutorials for Overleaf and LaTeX</a></span></p>
     </div>
 
   </details>
