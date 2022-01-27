@@ -12,17 +12,15 @@ index: >
   #### Resources _(click on whatever you need!)_
   
   <details>
-    <summary>**Getting Started with LaTeX for 389</summary>
+    <summary>**Getting Started with LaTeX for 389**</summary>
     
-    **[A Super Brief, Yet Super Awesome, LaTeX Cheat Sheet](https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf)** - Richard Freedman & Philip Thomas 
-    
-    [**Overleaf - A free-to-use, online collaborative LaTeX environment**](https://www.overleaf.com/) 
-    
-    [Interactive LaTeX Cheat Sheet (Overleaf Template)](https://www.overleaf.com/read/jjwrmfzcqqpz) 
-    
-    ["Learn LaTeX in 30 minutes"](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) 
-    
-    [Tutorials for Overleaf and LaTeX](https://www.overleaf.com/learn/latex/Tutorials)
+    <div>
+    <p><span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf">A Super Brief, Yet Super Awesome, LaTeX Cheat Sheet</a></strong></span> - Richard Freedman &amp; Philip Thomas</p>
+    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/"><strong>Overleaf - A free-to-use, online collaborative LaTeX environment</strong></a></span></p>
+    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/read/jjwrmfzcqqpz">Interactive LaTeX Cheat Sheet (Overleaf Template)</a></span></p>
+    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes">&ldquo;Learn LaTeX in 30 minutes&rdquo;</a></span></p>
+    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/learn/latex/Tutorials">Tutorials for Overleaf and LaTeX</a></span></p>
+    </div>
 
   </details>
 
