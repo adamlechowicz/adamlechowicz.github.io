@@ -68,9 +68,9 @@ about: >
   
   #### Academic Papers
   
-  **[FlowSense: Monitoring Airflow in Building Ventilation Systems Using Audio Sensing](https://arxiv.org/abs/2202.11136)**  <br/>
-  Bhawana Chhaglani, Camellia Zakaria, Adam Lechowicz, Prashant Shenoy, Jeremy Gummeson  <br/>
-  ACM IMWUT'22, to appear.  
+  **[FlowSense: Monitoring Airflow in Building Ventilation Systems Using Audio Sensing](https://dl.acm.org/doi/10.1145/3517258)**  <br/>
+  Bhawana Chhaglani, Camellia Zakaria, Adam Lechowicz, Jeremy Gummeson, Prashant Shenoy  <br/>
+  ACM IMWUT'22.  
   
   <p class="lead" style="font-variant:small-caps">
   </p>
