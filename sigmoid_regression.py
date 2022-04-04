@@ -58,3 +58,20 @@ class BudgetTool:
                 print("{:.4f}".format(self.percents[i]))
             return
     print("error")
+    
+  def getCut(self, value):
+    if (value > self.cutoffs[-1]):
+        print("{:.4f}".format(self.percents[-1]))
+        return self.percents[-1]
+    prev = 0.0
+    for i in range(self.length):
+        if value >= prev and value < self.cutoffs[i]:
+            if value >= self.buffers[i]:
+                popt = self.sigmoids[i]
+                sigResult = sigmoid(value, *popt)
+                print("{:.4f}".format(sigResult))
+                return sigResult
+            else:
+                print("{:.4f}".format(self.percents[i]))
+                return self.percents[i]
+    print("error")
