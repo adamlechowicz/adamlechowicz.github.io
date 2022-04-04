@@ -44,7 +44,7 @@ class BudgetTool:
       self.sigmoids = sigmoids
 
   def getCutPercent(self, value):
-    if (value > self.cutoffs[-1]):
+    if (value >= self.cutoffs[-1]):
         print("{:.4f}".format(self.percents[-1]))
         return
     prev = 0.0
@@ -60,7 +60,7 @@ class BudgetTool:
     print("error")
     
   def getCut(self, value):
-    if (value > self.cutoffs[-1]):
+    if (value >= self.cutoffs[-1]):
         print("{:.4f}".format(self.percents[-1]))
         return self.percents[-1]
     prev = 0.0
