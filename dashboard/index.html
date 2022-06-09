@@ -5,7 +5,45 @@ title: Today
 <iframe src="https://free.timeanddate.com/clock/i8d3qjjg/n5605/fs48/ftb/pa7/th2/ts1" frameborder="0" width="289" height="69"></iframe>
 <iframe src="https://free.timeanddate.com/clock/i8d3rhf4/n5605/fs28/ftb/pt20/pb16/tt1/tw1/tm1" frameborder="0" width="289" height="69"></iframe>
 
-<a class="weatherwidget-io" href="https://forecast7.com/en/42d33n72d64/northampton/?unit=us" data-label_1="NORTHAMPTON" data-label_2="Massachusetts" data-font="Arial Rounded MT Bold" data-days="3" data-theme="pure" data-shadow="rgba(211, 210, 211, 0.26)" data-textcolor="#000000" data-highcolor="#000000" data-lowcolor="#3c3c3c" data-suncolor="#000000" data-mooncolor="#000000" data-cloudcolor="#000000" data-raincolor="#000000" data-snowcolor="#000000" >NORTHAMPTON Massachusetts</a>
+
 <script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
+        (function(d, s, id) {
+            if (d.getElementById(id)) {
+                if (window.__TOMORROW__) {
+                    window.__TOMORROW__.renderWidget();
+                }
+                return;
+            }
+            const fjs = d.getElementsByTagName(s)[0];
+            const js = d.createElement(s);
+            js.id = id;
+            js.src = "https://www.tomorrow.io/v1/widget/sdk/sdk.bundle.min.js";
+
+            fjs.parentNode.insertBefore(js, fjs);
+        })(document, 'script', 'tomorrow-sdk');
+        </script>
+
+        <div class="tomorrow"
+           data-location-id="123134"
+           data-language="EN"
+           data-unit-system="IMPERIAL"
+           data-skin="light"
+           data-widget-type="aqiMini"
+           style="padding-bottom:22px;position:relative;"
+        >
+          <a
+            href="https://www.tomorrow.io/weather/"
+            rel="nofollow noopener noreferrer"
+            target="_blank"
+            style="position: absolute; bottom: 0; transform: translateX(-50%); left: 50%;"
+          >
+            <img
+              alt="Powered by Tomorrow.io"
+              src="https://weather-website-client.tomorrow.io/img/powered-by-tomorrow.svg"
+              width="140"
+              height="15"
+            />
+          </a>
+        </div>
+
+
