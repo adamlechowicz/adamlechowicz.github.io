@@ -1,55 +1,5 @@
 index: >
-  
-  <img src="/assets/img/threeeightheader.jpg" align="center" alt="MNIST dataset numbers reading '389'" style="width: 85%;"/>
-  
-  #### Dashboard -- University of Massachusetts
     
-  <p class="lead" style="font-variant:small-caps">
-  </p>
-  
-  Adam's Office Hours: **3:00 - 4:00 pm on Tuesdays -- CS Building USpace (room 144)**
-  
-  #### Resources _(click on whatever you need!)_
-    
-  <details>
-    <summary><span style="font-size:18pt; color: #881c1c;"><strong>Getting Started with LaTeX for 389</strong></span></summary>
-    
-    <div>
-    <br>
-    <p><span style="color: #3366ff;"><strong><a style="color: #0000ff;" href="https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf" target="_blank" rel="noopener noreferrer">A Super Brief, Yet Super Awesome, LaTeX Cheat Sheet</a></strong></span> - Richard Freedman &amp; Philip Thomas</p>
-    <p><span style="color: #3366ff;"><a style="color: #0000ff;" href="https://www.overleaf.com/" target="_blank" rel="noopener noreferrer"><strong>Overleaf - A free-to-use, online collaborative LaTeX environment</strong></a></span></p>
-    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/read/jjwrmfzcqqpz" target="_blank" rel="noopener noreferrer">Interactive LaTeX Cheat Sheet (Overleaf Template)</a></span></p>
-    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes" target="_blank" rel="noopener noreferrer">&ldquo;Learn LaTeX in 30 minutes&rdquo;</a></span></p>
-    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.overleaf.com/learn/latex/Tutorials" target="_blank" rel="noopener noreferrer">Tutorials for Overleaf and LaTeX</a></span></p>
-    </div>
-
-  </details>
-  
-  <br>
-  
-  <details>
-    <summary><span style="font-size:18pt; color: #881c1c;"><strong>Python / Jupyter / PyTorch Setup Guides for Homeworks</strong></span></summary>
-    
-    <div>
-    <br>
-    <p><span style="color: #3366ff;"><a style="color: #0000ff;" href="https://youtu.be/V60o4VO5cyM" target="_blank" rel="noopener noreferrer"><strong>Adam's Tutorial Video for Install/Setup of Python & Jupyter Notebook</strong></a></span></p>
-    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html" target="_blank" rel="noopener noreferrer">&ldquo;Installing Miniconda on Windows&rdquo;</a></span></p>
-    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://code.visualstudio.com/docs/datascience/jupyter-notebooks" target="_blank" rel="noopener noreferrer">&ldquo;Working with Jupyter Notebooks in VS Code&rdquo;</a></span></p>
-    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://towardsdatascience.com/setting-up-a-new-pytorch-deep-learning-environment-313d8d1c2df0" target="_blank" rel="noopener noreferrer">(supplemental) &ldquo;Setting Up a New PyTorch Environment&rdquo;</a></span></p>
-    </div>
-
-  </details>
-  
-  <br>
-  
-  <details>
-    <summary><span style="font-size:18pt; color: #881c1c;"><strong>Homework 6 RL Agent Pong Tournament</strong></span></summary>
-    
-    <div>
-    <br>
-    <p><span style="color: #3366ff;"><a style="color: #0000ff;" href="https://challonge.com/sncp84xc" target="_blank" rel="noopener noreferrer"><strong>Tournament Bracket (online)</strong></a></span></p>
-    <p><span style="color: #3366ff;"><a style="color: #3366ff;" href="https://drive.google.com/drive/folders/1gN7LB3YH3CYjFNIcNZrCmclruTQy3SUW?usp=sharing" target="_blank" rel="noopener noreferrer">Video Replays of Agent Matchups</a></span></p>
-    </div>
-
-  </details>
+  <script src="https://cdn.logwork.com/widget/text.js"></script>
+  <a href="https://logwork.com/current-time-in-boston-united-states-massachusetts" class="clock-widget-text" data-timezone="America/New_York" data-language="en" data-textcolor="#000000" data-background="#ffffff" data-digitscolor="#000000">Northampton, Massachusetts</a>
 
