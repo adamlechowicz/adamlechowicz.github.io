@@ -1,5 +1,4 @@
 index: >
     
-  <script src="https://cdn.logwork.com/widget/text.js"></script>
-  <a href="https://logwork.com/current-time-in-boston-united-states-massachusetts" class="clock-widget-text" data-timezone="America/New_York" data-language="en" data-textcolor="#000000" data-background="#ffffff" data-digitscolor="#000000">Northampton, Massachusetts</a>
-
+    <div class="cleanslate w24tz-current-time w24tz-large" style="display: inline-block !important; visibility: hidden !important; min-width:300px !important; min-height:145px !important;"><p><a href="//24timezones.com/Boston/time" style="text-decoration: none" class="clock24" id="tz24-1654738096-c143-eyJob3VydHlwZSI6IjEyIiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIwIiwiY29udGFpbmVyX2lkIjoiY2xvY2tfYmxvY2tfY2I2MmExNGNiMGQ5OTVkIiwidHlwZSI6ImRiIiwibGFuZyI6ImVuIn0=" title="Boston Time" target="_blank">Northampton, Mass.</a></p><div id="clock_block_cb62a14cb0d995d"></div></div>
+    <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
