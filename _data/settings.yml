@@ -12,11 +12,11 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Adam Lechowicz is a computer science and political science student at the University of Massachusetts Amherst.'
+  description: 'Adam Lechowicz is a computer science doctoral student at the University of Massachusetts Amherst.'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
   og:image: '/assets/img/5x3.jpeg'
-  og:description: 'Adam Lechowicz is a computer science and political science student at the University of Massachusetts Amherst.'
+  og:description: 'Adam Lechowicz is a computer science doctoral student at the University of Massachusetts Amherst.'
 
 #-------------------------------
 # Google Analytics Section
@@ -58,7 +58,7 @@ about: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  I'm an undergraduate computer science and political science student at the University of Massachusetts Amherst.  I'm excited about applications of computing that serve the public good.  I’m interested in studying how to build robust automated systems that can perform useful tasks with minimal human intervention.  I'm particularly interested in tackling problems with potential future applications serving a societal interest.  In the context of societal inequities, I'm also particularly interested in designing these systems with inbuilt constraints that prevent undesirable behavior and misuse, while ideally helping to alleviate inequalities.
+  I am a first-year PhD student in the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu) at the University of Massachusetts Amherst.  I'm excited about applications of computing that serve the public good.  I’m interested in studying how to build robust automated systems that can perform useful tasks with minimal human intervention.  I'm particularly interested in tackling problems with potential future applications serving a societal interest.  In the context of societal inequities, I'm also particularly interested in designing these systems with inbuilt constraints that prevent undesirable behavior and misuse, while ideally helping to alleviate inequalities.
   
   <p class="lead" style="font-variant:small-caps">
   </p>
@@ -79,7 +79,7 @@ about: >
   
   #### Contact
   
-  email: **[alechowicz@umass.edu](mailto:alechowicz@umass.edu)**    <br/>
+  email: **[alechowicz [at] umass [dot] edu](mailto:alechowicz@umass.edu)**    <br/>
   phone: **[+1 (774) 994-6908](tel:17749946908)**    <br/>
   linkedin: **[Adam Lechowicz on LinkedIn](https://www.linkedin.com/in/adamlechowicz/)**
   
