@@ -2,6 +2,7 @@
 # General Site Settings
 
 menu:
+- {name: 'Publications', url: '#publications'}
 - {name: 'Projects', url: 'pages/projects.html'}
 - {name: 'CV', url: 'AdamLechowiczCurriculumVitae.pdf'}
 # - {name: 'Contact', url: 'pages/contact.html'}
@@ -59,6 +60,9 @@ about: >
   </p>
   
   Through my research, I strive to advance ideals of social, racial, economic, and environmental justice. 
+  
+  <p class="lead" id="publications" style="font-variant:small-caps">
+  </p>
   
   #### Publications
   
