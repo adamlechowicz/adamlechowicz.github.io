@@ -8,4 +8,12 @@
   ga('create', '{{ site.data.settings.google-analytics-ua }}', 'auto');
   ga('send', 'pageview');
 </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YXKSP560GD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YXKSP560GD');
+</script>
 {% endif %}
