@@ -61,12 +61,12 @@ about: >
   
   I am a first-year PhD student in the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu) at the University of Massachusetts Amherst, where I am advised by [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/index.html).  
   
-  <p class="lead" style="font-variant:small-caps">
+  <p class="small" style="font-variant:small-caps">
   </p>
   
   I work at the intersection of theory and systems, with an emphasis on problems that hold implications for energy, equity, and climate change.  From a theoretical perspective, I am interested in designing algorithms for online optimization, particularly of the learning-augmented or provably fair types.  On the application side, I am especially interested in efforts which promote the decarbonization of energy systems and computing infrastructure.
   
-  <p class="lead" style="font-variant:small-caps">
+  <p class="small" style="font-variant:small-caps">
   </p>
   
   Through my research, I strive to advance ideals of social, racial, economic, and environmental justice.
