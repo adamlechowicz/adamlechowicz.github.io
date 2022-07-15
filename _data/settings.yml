@@ -49,15 +49,12 @@ about: >
   <a href="https://www.umass.edu"><img src="/assets/img/5x3.jpeg" align="right" alt="Campus of UMass Amherst" style="width: 47.8%;"/></a>
   <img src="/assets/img/bio_photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%;"/>
   
-  <p class="lead" style="font-variant:small-caps;line-height:75%;">
+  <p style="font-variant:small-caps;">
   </p>
   
   #### Adam Lechowicz
   
   ***he/they***
-  
-  <p class="lead" style="font-variant:small-caps;line-height:75%;">
-  </p>
   
   I am a first-year PhD student in the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu) at the University of Massachusetts Amherst, where I am advised by [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/index.html).  
   
@@ -69,7 +66,12 @@ about: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  Through my research, I strive to advance ideals of social, racial, economic, and environmental justice. 
+  Through my research, I strive to advance ideals of social, racial, economic, and environmental justice.
+  
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+  
+  **I am currently serving as the interim Student Trustee for the Amherst campus on the [UMass Board of Trustees](https://www.umassp.edu/bot) -- please contact me at [studenttrustee@umass.edu](mailto:studenttrustee@umass.edu).**
   
   <p class="lead" id="publications" style="font-variant:small-caps">
   </p>
