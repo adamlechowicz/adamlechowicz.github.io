@@ -3,7 +3,7 @@ layout: post
 title: 'Venti'
 ---
 
-{% include image.html url="https://github.com/adamlechowicz/venti" image="projects/proj-4/thumb.jpg" %}
+{% include image.html url="https://github.com/adamlechowicz/venti" image="projects/proj-6/thumb.jpg" %}
 
 Venti is a carbon-aware battery management tool for Apple Silicon MacBooks.
 
