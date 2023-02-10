@@ -3,7 +3,7 @@ layout: post
 title: 'UMass Campus Tour'
 ---
 
-{% include image.html url="https://adamlechowicz.github.io/projects/umasstour.html" image="projects/proj-4/thumb-2.jpg" %}
+{% include image.html url="https://adamlechowicz.github.io/projects/umasstour.html" image="projects/proj-4/thumb.jpg" %}
 
 Working with University Relations and Admissions, I am currently collaborating with the University of Massachusetts Amherst on a guided tour experience app for iOS.
 
