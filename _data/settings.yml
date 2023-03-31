@@ -77,7 +77,7 @@ about: >
   #### Publications
   
   **[The Online Pause and Resume Problem: Optimal Algorithms and An Application to Carbon-Aware Load Shifting](https://arxiv.org/abs/2303.17551)**  <br/>
-  Adam Lechowicz, Nicolas Christianson, Jinhang Zuo, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy  <br/>
+  Adam Lechowicz, Nicolas Christianson, Jinhang Zuo, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy, <span class="more-authors" title="click to view 1 more author" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '1 more author' ? 'Prashant Shenoy' : '1 more author'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">1 more author</span>  <br/>
   
   <p class="lead" style="font-variant:small-caps">
   </p>
