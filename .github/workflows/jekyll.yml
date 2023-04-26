@@ -1,0 +1,97 @@
+on:
+   # Runs on pushes targeting the default branch
+   push:
+     branches: ["main"]
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+name: Generate Website and Deploy
+# Performs the following steps:
+#   - Install all dependencies (and caches them for future runs)
+#   - Builds the website
+#   - Compresses the generated website
+#   - Packages the generated website
+#   - Creates a release based on the originating tag
+#   - Attaches the package to the release
+jobs:
+  build:
+    name: Generate Website
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          lfs: true
+
+      - name: Setup Ruby, Bundler and Jekyll
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2.1'
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+      - name: Build website
+        run: |
+          bundle exec jekyll build -d _site/
+      - name: Install Minify
+        run: |
+          sudo apt-get update
+          sudo apt-get install minify
+      - name: Compress entire website
+        run: |
+          minify --all --html-keep-document-tags --html-keep-end-tags -r -o _site/ _site/
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+
+      - name: Install PurgeCSS
+        run: |
+          npm install -g purgecss
+      - name: Compress CSS with PurgeCSS
+        run: |
+          purgecss --config purgecss.config.js
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v1
+#       - name: Package generated website
+#         run: |
+#           cd _site/
+#           zip -r ../website.zip *
+#           cd ../
+#       - name: Create Release
+#         id: create_release
+#         uses: actions/create-release@v1
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         with:
+#           tag_name: ${{ github.ref }}
+#           release_name: Release ${{ github.ref }}
+#           draft: false
+#           prerelease: false
+
+#       - name: Upload zipped Website as Release Asset
+#         uses: actions/upload-release-asset@v1
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         with:
+#           upload_url: ${{ steps.create_release.outputs.upload_url }}
+#           asset_path: ./website.zip
+#           asset_name: website.zip
+#           asset_content_type: application/zip
+          
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
