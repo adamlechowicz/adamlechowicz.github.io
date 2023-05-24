@@ -46,8 +46,8 @@ about: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <a href="https://www.umass.edu"><img src="/assets/img/5x3.jpeg" align="right" alt="Campus of UMass Amherst" style="width: 47.8%;"/></a>
-  <img src="/assets/img/bio_photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%;"/>
+  <a href="https://www.umass.edu"><img src="/assets/img/5x3.jpeg" align="right" alt="Campus of UMass Amherst" style="width: 47.8%; border-radius: 25px;"/></a>
+  <img src="/assets/img/bio_photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%; border-radius: 25px;"/>
   
   <p class="small" style="font-variant:small-caps">
   </p>
