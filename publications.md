@@ -4,7 +4,7 @@ title: 'Publications'
 ---
 ***full list***
 
-publications in reverse chronological order.  (α-β) denotes alphabetical author list.
+publications in reverse chronological order.  *(α-β)* denotes alphabetical author list.
 
 #### 2024
 
@@ -45,7 +45,7 @@ ACM e-Energy 2023. ([Slides](https://drive.google.com/file/d/15THywHT1sZXHZGaaIW
 </p>
 
 **[Local Edge Dynamics and Opinion Polarization](https://arxiv.org/abs/2111.14020)**  <br/>
-Nikita Bhalla, Adam Lechowicz, Cameron Musco  (α-β) <br/>
+Nikita Bhalla, Adam Lechowicz, Cameron Musco  *(α-β)* <br/>
 ACM WSDM 2023. ([Slides](https://drive.google.com/file/d/1-4MGgvfCO8j_KpKpoNZEjdSCyPbE3IvX/view?usp=share_link), [Recorded Talk](https://www.youtube.com/watch?v=nGhN00sH-dE&list=PLn0nrSd4xjjaL3eKbJfrBuwm97ynTQzLJ&index=10))
 
 <p class="lead" style="font-variant:small-caps">
