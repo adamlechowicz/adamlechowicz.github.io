@@ -74,8 +74,15 @@ about: >
   
   <p class="lead" id="publications" style="font-variant:small-caps">
   </p>
-  
-  #### Selected Publications
+
+  <div style="display: flex;">
+  <div>
+    <h4 id="selected-publications">Selected Publications</h4> 
+  </div>
+  <a style="margin-top: auto; margin-left: auto; margin-bottom: 0.75em;" href="publications.html">
+    full list →
+  </a>
+  </div>
 
   **[Online Conversion with Switching Costs: *Robust and Learning-Augmented Algorithms*](https://arxiv.org/abs/2310.20598)**  <br/>
   Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>  
@@ -108,8 +115,6 @@ about: >
   **[Local Edge Dynamics and Opinion Polarization](https://arxiv.org/abs/2111.14020)**  <br/>
   Nikita Bhalla, Adam Lechowicz, Cameron Musco  <br/>
   ACM WSDM 2023. ([Slides](https://drive.google.com/file/d/1-4MGgvfCO8j_KpKpoNZEjdSCyPbE3IvX/view?usp=share_link), [Recorded Talk](https://www.youtube.com/watch?v=nGhN00sH-dE&list=PLn0nrSd4xjjaL3eKbJfrBuwm97ynTQzLJ&index=10))  
-  
-  [*full list →*](publications.html). 
 
   #### Contact
   
