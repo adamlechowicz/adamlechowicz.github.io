@@ -71,16 +71,13 @@ about: >
   </p>
   
   Through my research, I strive to advance ideals of social, racial, economic, and environmental justice.
-  
-  <p class="lead" id="publications" style="font-variant:small-caps">
-  </p>
 
   <div style="display: flex;">
   <div>
-    <h4 id="selected-publications">Selected Publications</h4> 
+    <h4 id="selected-publications" style="margin-bottom:0.5em;">Selected Publications</h4>
   </div>
-  <a style="margin-top: auto; margin-left: auto; margin-bottom: 0.75em;" href="publications.html">
-    full list →
+  <a style="margin-top: auto; margin-left: auto; margin-bottom: 1em; margin-right: 0.75em;" href="publications.html">
+    <em>full list →</em>
   </a>
   </div>
 
