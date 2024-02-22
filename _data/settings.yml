@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Publications', url: '/publications'}
+- {name: 'Publications', url: 'publications'}
 # - {name: 'Projects', url: 'pages/projects.html'}
 - {name: 'CV', url: 'AdamLechowiczCurriculumVitae.pdf'}
 # - {name: 'Contact', url: 'pages/contact.html'}
