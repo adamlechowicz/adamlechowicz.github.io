@@ -8,7 +8,7 @@ publications in reverse chronological order.  *(α-β)* denotes alphabetical aut
 
 #### 2024
 
-**<tt>LACS</tt>: Learning-Augmented Algorithms for Carbon-Aware Resource Scaling with Uncertain Demand**  <br/>
+**<tt>LACS</tt>: Learning-augmented Algorithms for Carbon-aware Resource Scaling with Uncertain Demand**  <br/>
 Roozbeh Bostandoost, Adam Lechowicz, Walid A. Hanafy, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Mohammad Hajiesmaili, Prashant&nbsp;Shenoy' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
 ACM e-Energy 2024. 
 
@@ -21,7 +21,7 @@ Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-au
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-**[Online Conversion with Switching Costs: *Robust and Learning-Augmented Algorithms*](https://arxiv.org/abs/2310.20598)**  <br/>
+**[Online Conversion with Switching Costs: *Robust and Learning-augmented Algorithms*](https://arxiv.org/abs/2310.20598)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
 ACM SIGMETRICS / IFIP Performance 2024 *(to appear)*.
 
@@ -37,14 +37,14 @@ ICLR 2024 *(to appear)*. ([workshop version](https://learning-augmented-algorith
 
 #### 2023
 
-**[The Online Pause and Resume Problem: <br/> *Optimal Algorithms and An Application to Carbon-Aware Load Shifting*](https://arxiv.org/abs/2303.17551)**  <br/>
+**[The Online Pause and Resume Problem: <br/> *Optimal Algorithms and An Application to Carbon-aware Load Shifting*](https://arxiv.org/abs/2303.17551)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Jinhang Zuo, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
 ACM SIGMETRICS / IFIP Performance 2024 *(to appear)*.  Also in ACM POMACS, Dec. 2023.
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-**[Equitable Network-Aware Decarbonization of Residential Heating at City Scale](https://arxiv.org/abs/2301.04747)**  <br/>
+**[Equitable Network-aware Decarbonization of Residential Heating at City Scale](https://arxiv.org/abs/2301.04747)**  <br/>
 Adam Lechowicz, Noman Bashir, John Wamburu, Mohammad Hajiesmaili, Prashant Shenoy  <br/>
 ACM e-Energy 2023. ([Slides](https://drive.google.com/file/d/15THywHT1sZXHZGaaIW3LfboftIIu1gnj/view?usp=sharing))
 
