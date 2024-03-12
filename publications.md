@@ -8,6 +8,13 @@ publications in reverse chronological order.  *(α-β)* denotes alphabetical aut
 
 #### 2024
 
+**LACS: Learning-Augmented Algorithms for Carbon-Aware Resource Scaling with Uncertain Demand**  <br/>
+Roozbeh Bostandoost, Adam Lechowicz, Walid A. Hanafy, Noman Bashir, Prashant Shenoy, and Mohammad Hajiesmaili<br/>
+ACM e-Energy 2024. 
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 **[Chasing Convex Functions with Long-term Constraints](https://arxiv.org/abs/2402.14012)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
 
