@@ -44,17 +44,17 @@ jobs:
       - name: Compress entire website
         run: |
           minify --all --html-keep-document-tags --html-keep-end-tags -r -o _site/ _site/
-      - name: Setup Node
-        uses: actions/setup-node@v1
-        with:
-          node-version: '12'
+      # - name: Setup Node
+      #   uses: actions/setup-node@v1
+      #   with:
+      #     node-version: '12'
 
-      - name: Install PurgeCSS
-        run: |
-          npm install -g purgecss
-      - name: Compress CSS with PurgeCSS
-        run: |
-          purgecss
+      # - name: Install PurgeCSS
+      #   run: |
+      #     npm install -g purgecss
+      # - name: Compress CSS with PurgeCSS
+      #   run: |
+      #     purgecss
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
