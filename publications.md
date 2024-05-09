@@ -31,7 +31,7 @@ ACM e-Energy 2024 *(to appear)*.
 
 **[Time Fairness in Online Knapsack Problems](https://arxiv.org/abs/2305.13293)**  <br/>
 Adam Lechowicz, Rik Sengupta, Bo Sun, Shahin Kamali, Mohammad Hajiesmaili <br/>
-ICLR 2024 *(to appear)*. ([workshop version](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper8.pdf))
+ICLR 2024. ([workshop version](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper8.pdf))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
