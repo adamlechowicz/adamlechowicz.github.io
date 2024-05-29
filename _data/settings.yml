@@ -136,6 +136,5 @@ social:
 - {icon: 'instagram', link: 'https://www.instagram.com/adamlechowicz/'}
 - {icon: 'github', link: 'https://github.com/adamlechowicz/'}
 - {icon: 'envelope', link: 'mailto:alechowicz@umass.edu'}
-- {icon: 'x', link: 'https://x.com/adamlechowicz'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
