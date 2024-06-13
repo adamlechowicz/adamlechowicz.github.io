@@ -16,7 +16,7 @@ ICML 2024 *(to appear)*.
 </p>
 
 **Data-driven Algorithm Selection for Carbon-Aware Scheduling**  <br/>
-Roozbeh Bostandoost, Walid A. Hanafy, Adam Lechowicz, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
+Roozbeh Bostandoost, Walid A. Hanafy, Adam Lechowicz, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Prashant Shenoy, Mohammad&nbsp;Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
 HotCarbon 2024 *(to appear)*.
 
 <p class="lead" style="font-variant:small-caps">
