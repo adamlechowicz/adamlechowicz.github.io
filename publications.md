@@ -21,9 +21,9 @@ ICML 2024 *(to appear)*. ([workshop version](https://learning-augmented-algorith
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-**Data-driven Algorithm Selection for Carbon-Aware Scheduling**  <br/>
+**[Data-driven Algorithm Selection for Carbon-Aware Scheduling](https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final23.pdf)**  <br/>
 Roozbeh Bostandoost, Walid A. Hanafy, Adam Lechowicz, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Prashant Shenoy, Mohammad&nbsp;Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
-HotCarbon 2024 *(to appear)*.
+HotCarbon 2024.
 
 <p class="lead" style="font-variant:small-caps">
 </p>
