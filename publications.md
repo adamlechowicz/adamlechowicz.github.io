@@ -16,7 +16,7 @@ Mohammadreza Daneshvaramoli, Helia Karisani, Adam Lechowicz, Bo Sun, <span class
 
 **[Chasing Convex Functions with Long-term Constraints](https://arxiv.org/abs/2402.14012)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
-ICML 2024 *(to appear)*. ([workshop version](https://learning-augmented-algorithms.github.io/papers/sigmetrics24-lata-posters-paper4.pdf))
+ICML 2024. ([workshop version](https://learning-augmented-algorithms.github.io/papers/sigmetrics24-lata-posters-paper4.pdf))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -60,14 +60,14 @@ ACM SIGMETRICS / IFIP Performance 2024.  Also in ACM POMACS, Dec. 2023.
 
 **[Equitable Network-aware Decarbonization of Residential Heating at City Scale](https://arxiv.org/abs/2301.04747)**  <br/>
 Adam Lechowicz, Noman Bashir, John Wamburu, Mohammad Hajiesmaili, Prashant Shenoy  <br/>
-ACM e-Energy 2023. ([Slides](https://drive.google.com/file/d/15THywHT1sZXHZGaaIW3LfboftIIu1gnj/view?usp=sharing))
+ACM e-Energy 2023. ([slides](https://drive.google.com/file/d/15THywHT1sZXHZGaaIW3LfboftIIu1gnj/view?usp=sharing))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 **[Local Edge Dynamics and Opinion Polarization](https://arxiv.org/abs/2111.14020)**  <br/>
 Nikita Bhalla, Adam Lechowicz, Cameron Musco  *(α-β)* <br/>
-ACM WSDM 2023. ([Slides](https://drive.google.com/file/d/1-4MGgvfCO8j_KpKpoNZEjdSCyPbE3IvX/view?usp=share_link), [Recorded Talk](https://www.youtube.com/watch?v=nGhN00sH-dE&list=PLn0nrSd4xjjaL3eKbJfrBuwm97ynTQzLJ&index=10))
+ACM WSDM 2023. ([slides](https://drive.google.com/file/d/1-4MGgvfCO8j_KpKpoNZEjdSCyPbE3IvX/view?usp=share_link), [recorded talk](https://www.youtube.com/watch?v=nGhN00sH-dE&list=PLn0nrSd4xjjaL3eKbJfrBuwm97ynTQzLJ&index=10))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
