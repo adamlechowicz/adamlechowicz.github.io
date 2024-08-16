@@ -8,7 +8,7 @@ publications in reverse chronological order.  *(α-β)* denotes alphabetical aut
 
 #### 2024
 
-**[<span style="font-variant: small-caps">CarbonClipper</span>: Optimal Algorithms for Carbon-Aware Spatiotemporal Workload Management](https://arxiv.org/abs/2408.07831)**  <br/>
+**[<span style="font-variant: small-caps; font-family: system-ui;">CarbonClipper</span>: Optimal Algorithms for Carbon-Aware Spatiotemporal Workload Management](https://arxiv.org/abs/2408.07831)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
 
 <p class="lead" style="font-variant:small-caps">
