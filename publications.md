@@ -22,7 +22,7 @@ Mohammadreza Daneshvaramoli, Helia Karisani, Adam Lechowicz, Bo Sun, <span class
 
 **[Chasing Convex Functions with Long-term Constraints](https://arxiv.org/abs/2402.14012)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
-ICML 2024. ([workshop version](https://learning-augmented-algorithms.github.io/papers/sigmetrics24-lata-posters-paper4.pdf))
+ICML 2024. ([workshop version](https://learning-augmented-algorithms.github.io/2023/papers/sigmetrics23-lata-posters-paper8.pdf))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
