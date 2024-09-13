@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Publications', url: 'publications'}
+- {name: 'Research', url: 'publications'}
 # - {name: 'Projects', url: 'pages/projects.html'}
 - {name: 'CV', url: 'AdamLechowiczCurriculumVitae.pdf'}
 # - {name: 'Contact', url: 'pages/contact.html'}
@@ -46,8 +46,8 @@ about: >
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <!-- <a href="https://www.umass.edu"><img src="/assets/img/5x3.jpeg" align="right" alt="Campus of UMass Amherst" style="width: 47.8%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/></a> -->
-  <a href="https://www.nrel.gov"><img src="/assets/img/5x3nrel.jpeg" align="right" alt="ESIF Building at the National Renewable Energy Laboratory" style="width: 47.8%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/></a>
+  <a href="https://www.umass.edu"><img src="/assets/img/5x3.jpeg" align="right" alt="Campus of UMass Amherst" style="width: 47.8%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/></a> 
+  <!-- <a href="https://www.nrel.gov"><img src="/assets/img/5x3nrel.jpeg" align="right" alt="ESIF Building at the National Renewable Energy Laboratory" style="width: 47.8%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/></a> -->
   <img src="/assets/img/bio_photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
   
   <p class="small" style="font-variant:small-caps">
@@ -60,14 +60,24 @@ about: >
   <p class="small" style="font-variant:small-caps">
   </p>
 
-  I'm currently a PhD intern at the [National Renewable Energy Laboratory's](https://www.nrel.gov) Power Systems Engineering Center, working with [Joshua Comden](https://www.nrel.gov/research/staff/joshua-comden.html).
-  I am also a second-year PhD student in the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu) at the University of Massachusetts Amherst, where I am advised by [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/index.html).  
+  I am a third-year PhD student in the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu) at the University of Massachusetts Amherst, advised by [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/index.html).  
   
   <p class="small" style="font-variant:small-caps">
   </p>
+
+  <p style="text-align:center; font-weight: bolder; font-size: 16px;"><i> sustainability for computing, computing for sustainability </i></p>
+
+  <p class="small" style="font-variant:small-caps">
+  </p>
   
-  I work at the intersection of theory and systems, with an emphasis on problems that hold implications for energy, equity, and climate change.  From a theoretical perspective, I am interested in designing algorithms for online optimization, particularly of the learning-augmented or provably fair types.  On the application side, I am especially interested in efforts which promote the decarbonization of energy systems and computing infrastructure.
-  My work is supported by a [U.S. Department of Energy Computational Science Graduate Fellowship (CSGF)](https://www.krellinst.org/csgf/about-doe-csgf).
+  I work at the intersection of theory and systems, with an emphasis on problems that hold implications for energy, equity, and climate change.  From a theoretical perspective, I am interested in designing algorithms for online optimization, particularly of the learning-augmented or provably fair types.  On the application side, I am especially interested in efforts which promote the decarbonization of energy systems and computing infrastructure. My work is supported by a [U.S. Department of Energy Computational Science Graduate Fellowship (CSGF)](https://www.krellinst.org/csgf/about-doe-csgf).
+
+  <p class="small" style="font-variant:small-caps">
+  </p>
+
+  In Summer 2024, I worked with [Joshua Comden](https://research-hub.nrel.gov/en/persons/joshua-comden) at the [National Renewable Energy Laboratory](https://www.nrel.gov) on incentives and human-driven uncertainties in energy systems.  
+  Before my Ph.D., I completed my undergraduate thesis with [Cameron Musco](https://people.cs.umass.edu/~cmusco/), studying polarization in social networks.
+  
 
   <p class="small" style="font-variant:small-caps">
   </p>
@@ -134,10 +144,11 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/adamlechowicz'}
-- {icon: 'instagram', link: 'https://www.instagram.com/adamlechowicz/'}
-- {icon: 'github', link: 'https://github.com/adamlechowicz/'}
-- {icon: 'envelope', link: 'mailto:alechowicz@umass.edu'}
-- {icon: 'google-plus', link: 'https://scholar.google.com/citations?user=fZ2-jm0AAAAJ&hl=en&oi=ao'}
+- {icon: 'fa-brands fa-google-scholar', link: 'https://scholar.google.com/citations?user=fZ2-jm0AAAAJ&hl=en&oi=ao'}
+- {icon: 'fa-brands fa-linkedin-in', link: 'https://www.linkedin.com/in/adamlechowicz'}
+- {icon: 'fa-brands fa-instagram', link: 'https://www.instagram.com/adamlechowicz/'}
+- {icon: 'fa-brands fa-x-twitter', link: 'https://x.com/adamlechowicz/'}
+- {icon: 'fa-brands fa-github', link: 'https://github.com/adamlechowicz/'}
+- {icon: 'fa-solid fa-envelope', link: 'mailto:alechowicz@umass.edu'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

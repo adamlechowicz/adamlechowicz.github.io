@@ -1,0 +1,13 @@
+---
+layout: default-front
+---
+
+<section>
+  <div class="work-container">
+    <div class="project-load">{{ content }}</div>
+  </div>
+  {% if site.data.settings.disqus.comments %}
+    {% include disqus.html %}
+  {% endif %}
+</section>
+{% include footer.html %}

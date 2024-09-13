@@ -4,8 +4,8 @@ animation: "bounceOut"
 
 # Colors
 
-# accent: "#881c1c"
-accent: "#0079C2"
+accent: "#881c1c"
+# accent: "#0079C2"
 
 textColor: "#666"
 headlineColor: "#333"

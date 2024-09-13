@@ -1,10 +1,26 @@
 ---
 layout: post
-title: 'Publications'
+title: 'Selected Talks & Publications'
 ---
-***full list***
 
-publications in reverse chronological order.  *(α-β)* denotes alphabetical author list.
+<div class="talk recordings" id="recordings">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+      <!-- Shorter Talk -->
+      <div style="text-align: center; width: 49%;">
+          <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">ACM SIGMETRICS quick recording on Online Conversion with Switching Costs, June 2024</div>
+          <iframe width="100%" height="auto" src="https://www.youtube.com/embed/1xBzBBH_x40?si=NWnV3kTUAzzl8fCH" title="ACM SIGMETRICS quick recording on Online Conversion with Switching Costs, June 2024" frameborder="0" style="aspect-ratio: 16/9;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+      </div>
+      <!-- Longer Talk -->
+      <div style="text-align: center; width: 49%;">
+          <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">ACM WSDM talk on "Local Edge Dynamics and Opinion Polarization", February 2023</div>
+          <iframe width="100%" height="auto" src="https://www.youtube.com/embed/nGhN00sH-dE?si=Q78M4hIuEA7d9t2h" title="ACM WSDM talk on Local Edge Dynamics and Opinion Polarization, February 2023" frameborder="0" style="aspect-ratio: 16/9;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+      </div>
+  </div>
+</div>
+
+<hr/>
+
+**Full list of publications in reverse chronological order.  *(α-β)* denotes alphabetical author list.**
 
 #### 2024
 
