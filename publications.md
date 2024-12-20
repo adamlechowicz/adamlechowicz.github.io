@@ -45,8 +45,8 @@ Mohammadreza Daneshvaramoli, Helia Karisani, Adam Lechowicz, Bo Sun, <span class
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-**[Examining the Adoption of Electromobility Concepts Across Social Contexts for Energy Transition](https://dl.acm.org/doi/10.1145/3671127.3698185)**  <br/>
-Julia Köhlke, Adam Lechowicz, Oluwole Fabikun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Abel Souza, Prashant Shenoy, Sebastian Lehnhoff' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
+**[Examining The Adoption of Electromobility Concepts Across Social Contexts for Energy Transition](https://dl.acm.org/doi/10.1145/3671127.3698185)**  <br/>
+Julia Köhlke, Adam Lechowicz, Oluwole Fabikun, Noman Bashir, Abel Souza, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Prashant Shenoy, Sebastian Lehnhoff' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
 ACM BuildSys 2024.
 
 <p class="lead" style="font-variant:small-caps">
