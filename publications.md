@@ -24,6 +24,13 @@ title: 'Selected Talks & Publications'
 
 #### 2025
 
+**[Optimizing Individualized Incentives from Grid Measurements and Limited Knowledge of Agent Behavior](https://arxiv.org/abs/2410.14936)**  <br/>
+Adam Lechowicz, Joshua Comden, Andrey Bernstein<br/>
+ACM e-Energy 2025.
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 **[Learning-Augmented Competitive Algorithms for Spatiotemporal Online Allocation with Deadline Constraints](https://arxiv.org/abs/2408.07831)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
 ACM SIGMETRICS 2025.
@@ -32,12 +39,6 @@ ACM SIGMETRICS 2025.
 </p>
 
 #### 2024
-
-**[Optimizing Individualized Incentives from Grid Measurements and Limited Knowledge of Agent Behavior](https://arxiv.org/abs/2410.14936)**  <br/>
-Adam Lechowicz, Joshua Comden, Andrey Bernstein<br/>
-
-<p class="lead" style="font-variant:small-caps">
-</p>
 
 **[Competitive Algorithms for Online Knapsack with Succinct Predictions](https://arxiv.org/abs/2406.18752)**  <br/>
 Mohammadreza Daneshvaramoli, Helia Karisani, Adam Lechowicz, Bo Sun, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Cameron Musco, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
