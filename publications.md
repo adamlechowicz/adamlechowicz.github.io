@@ -38,6 +38,13 @@ ACM e-Energy 2025.
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+**Lost in Siting: The Hidden Carbon Cost of Inequitable Residential Solar Installations**  <br/>
+Cooper Sigrist, Adam Lechowicz, Jovan Champ, Noman Bashir, Mohammad Hajiesmaili<br/>
+ACM e-Energy 2025.
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 #### 2024
 
 **[Competitive Algorithms for Online Knapsack with Succinct Predictions](https://arxiv.org/abs/2406.18752)**  <br/>
