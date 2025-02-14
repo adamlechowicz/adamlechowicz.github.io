@@ -45,6 +45,12 @@ ACM e-Energy 2025.
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+**[Dynamic Incentive Allocation for City-scale Deep Decarbonization](https://arxiv.org/abs/2502.08877)**  <br/>
+Anupama Sitaraman, Adam Lechowicz, Noman Bashir, Xutong Liu, Mohammad Hajiesmaili, Prashant Shenoy<br/>
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 #### 2024
 
 **[Competitive Algorithms for Online Knapsack with Succinct Predictions](https://arxiv.org/abs/2406.18752)**  <br/>
