@@ -45,8 +45,14 @@ ACM e-Energy 2025.
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+**[Carbon- and Precedence-Aware Scheduling for Data Processing Clusters](https://arxiv.org/abs/2502.09717)**  <br/>
+Adam Lechowicz, Rohan Shenoy, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Christina Delimitrou<br/>
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 **[Dynamic Incentive Allocation for City-scale Deep Decarbonization](https://arxiv.org/abs/2502.08877)**  <br/>
-Anupama Sitaraman, Adam Lechowicz, Noman Bashir, Xutong Liu, Mohammad Hajiesmaili, Prashant Shenoy<br/>
+Anupama Sitaraman, Adam Lechowicz, Noman Bashir, Xutong Liu, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Mohammad Hajiesmaili, Prashant&nbsp;Shenoy' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
 
 <p class="lead" style="font-variant:small-caps">
 </p>
