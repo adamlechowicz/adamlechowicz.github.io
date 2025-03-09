@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Getting Started"
+preamble: "Here is a test of the preamble for my blog posts"
 ---
 
 This is a portfolio Jekyll theme built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P).
