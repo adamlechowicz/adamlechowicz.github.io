@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Research', url: 'publications'}
-# - {name: 'Projects', url: 'pages/projects.html'}
+- {name: 'Blog', url: 'blog'}
 - {name: 'CV', url: 'AdamLechowiczCurriculumVitae.pdf'}
 # - {name: 'Contact', url: 'pages/contact.html'}
 
