@@ -12,9 +12,7 @@ Recently, I have been personally interested in a more hands-on experience with s
 
 Inspired by the recent trend of [vertical balcony solar in Europe](https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off), I planned my solar system around a [single solar panel rated for 120W](https://www.aliexpress.us/item/3256805821220339.html?spm=a2g0o.order_list.order_list_main.48.71d418022eJxvD&gatewayAdapt=glo2usa), a lithium-ion [power station with a modest capacity](https://us.ecoflow.com/products/river-2-portable-power-station) to store any excess generation for use at other times, and a sufficiently long cable to provide flexibility in the panel mounting location while keeping the power station in a convenient place.
 
-My partner and I live on the second floor of an old Victorian house in Northampton, MA.  
-Over the years, as a previous owner subdivided the house into apartments, they left a small "bonus room" off the second-floor landing that I use as a home office.  
-The space is isolated from the main apartment, so it isn't effectively heated or cooled by our mini-split heat pumps.  
+My partner and I live on the second floor of an old Victorian house in Northampton, MA.  Over the years, as a previous owner subdivided the house into apartments, they left a small "bonus room" off the second-floor landing that I use as a home office.  The space is isolated from the main apartment, so it isn't effectively heated or cooled by our mini-split heat pumps.  
 
 Given the New England climate, I won't realistically eliminate the need for an electric space heater in the deepest winter months, but I'll plan to use my system to help manage temperature during the milder months.
 Right behind temperature management, the next major use of energy in my office is my desk setup, which includes a 27" monitor, keyboard, mouse, and my MacBook Pro -- all of this will be primarily powered using my solar system.
