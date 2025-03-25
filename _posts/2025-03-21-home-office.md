@@ -76,14 +76,14 @@ While it's not going to make a meaningful impact on my electric bill, I've been 
 
 My total cost for this project is outlined below.  Prices may change as deals/tariffs/promotions come and go.
 
-| **Component**                 | **Price (USD, as of purchase, Jan. 2025)** |
+| **Component**                 | **Price (USD, as of Jan. 2025)** |
 |-------------------------------|--------------------------------------------|
-| EcoFlow RIVER 2 Power Station | $168.00                                    |
-| 120W Flexible Solar Panel     | $60.20                                     |
-| 50ft Solar to XT60 Cable      | $57.52                                     |
-| 550 Paracord (50 ft)          | $5.12                                      |
-| 12V Car USB-C adapter         | $13.80                                     |
-| **Total**                     | **$304.64**                                |
+| EcoFlow RIVER 2 Power Station   | $168.00                                    |
+| 120W Flexible Solar Panel       | $60.20                                     |
+| 50ft Solar to XT60 Cable        | $57.52                                     |
+| 550 Paracord (50 ft)            | $5.12                                      |
+| 12V Car USB-C adapter           | $13.80                                     |
+| **Total**                       | **$304.64**                                |
 
 
 [^1]: By the time you are reading this, the link to the AliExpress solar panel I bought may not work -- if so, I'll note that there isn't anything particularly special about the panel I bought, and any generic alternative should work equally well.
