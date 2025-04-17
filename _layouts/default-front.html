@@ -33,10 +33,15 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
   </script> -->
 
-  {% include analytics.html %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YXKSP560GD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  <!-- Use Jekyll SEO plugin -->
-  {% seo %}
+    gtag('config', 'G-YXKSP560GD');
+  </script>
 
 </head>
 <body>
