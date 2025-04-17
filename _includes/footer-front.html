@@ -1,0 +1,39 @@
+<footer>
+  <div class="footer-wrap">
+    <div class="footer-tagline">
+      <p>{{ site.data.settings.footer }}</p>
+    </div>
+    <div class="social-media">
+      <nav>
+        {% for item in site.data.settings.social %}
+          <a href="{{ item.link }}" target="_blank"><i class="{{ item.icon }}" aria-hidden="true"></i></a>
+        {% endfor %}
+      </nav>
+    </div>
+    <!-- Webcarbon badge -->
+    <div id="wcb" class="carbonbadge wcb-d"></div>
+    <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+    <!-- Badge styling: needs to be in here as the script overwrite with defaults otherwise... -->
+    <style>
+    #wcb.carbonbadge {
+        --b1: #881C1C;
+        --b2: #e5eaee;
+        font-size: 15px;
+        color: var(--b1);
+        line-height: 1.15;
+    }
+
+    #wcb #wcb_g {
+        border-radius: 0.3em 0 0 0.3em;
+        background: #881c1c;
+        border-right: 0;
+        min-width: 8.2em;
+        color: #FFFFFF;
+    }
+
+    #wcb.wcb-d #wcb_2 {
+        color: #1e0606;
+    }
+    </style>
+  </div>
+</footer>
