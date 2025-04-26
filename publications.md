@@ -26,7 +26,7 @@ title: 'Selected Talks & Publications'
 
 **[Learning-Augmented Competitive Algorithms for Spatiotemporal Online Allocation with Deadline Constraints](https://arxiv.org/abs/2408.07831)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
-ACM SIGMETRICS 2025.
+ACM SIGMETRICS 2025.  Also in ACM POMACS, Mar. 2025.
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -56,10 +56,17 @@ Anupama Sitaraman, Adam Lechowicz, Noman Bashir, Xutong Liu, <span class="more-a
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-#### 2024
-
 **[Competitive Algorithms for Online Knapsack with Succinct Predictions](https://arxiv.org/abs/2406.18752)**  <br/>
 Mohammadreza Daneshvaramoli, Helia Karisani, Adam Lechowicz, Bo Sun, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Cameron Musco, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
+#### 2024
+
+**[Data-driven Algorithm Selection for Carbon-Aware Scheduling](https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final23.pdf)**  <br/>
+Roozbeh Bostandoost, Walid A. Hanafy, Adam Lechowicz, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Prashant Shenoy, Mohammad&nbsp;Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+ACM SIGEnergy Energy Informatics Review, Dec. 2024.  Also in HotCarbon 2024.
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -74,13 +81,6 @@ ACM BuildSys 2024.
 **[Chasing Convex Functions with Long-term Constraints](https://arxiv.org/abs/2402.14012)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
 ICML 2024. ([workshop version](https://learning-augmented-algorithms.github.io/2024/papers/sigmetrics24-lata-posters-paper4.pdf))
-
-<p class="lead" style="font-variant:small-caps">
-</p>
-
-**[Data-driven Algorithm Selection for Carbon-Aware Scheduling](https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final23.pdf)**  <br/>
-Roozbeh Bostandoost, Walid A. Hanafy, Adam Lechowicz, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Prashant Shenoy, Mohammad&nbsp;Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
-HotCarbon 2024.
 
 <p class="lead" style="font-variant:small-caps">
 </p>
