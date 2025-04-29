@@ -24,6 +24,13 @@ title: 'Selected Talks & Publications'
 
 #### 2025
 
+**[Dynamic Incentive Allocation for City-scale Deep Decarbonization](https://arxiv.org/abs/2502.08877)**  <br/>
+Anupama Sitaraman, Adam Lechowicz, Noman Bashir, Xutong Liu, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Mohammad Hajiesmaili, Prashant&nbsp;Shenoy' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+ACM JCSS, June 2025.
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 **[Learning-Augmented Competitive Algorithms for Spatiotemporal Online Allocation with Deadline Constraints](https://arxiv.org/abs/2408.07831)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
 ACM SIGMETRICS 2025.  Also in ACM POMACS, Mar. 2025.
@@ -47,12 +54,6 @@ ACM e-Energy 2025.
 
 **[Carbon- and Precedence-Aware Scheduling for Data Processing Clusters](https://arxiv.org/abs/2502.09717)**  <br/>
 Adam Lechowicz, Rohan Shenoy, Noman Bashir, Mohammad Hajiesmaili, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Adam Wierman, Christina Delimitrou' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
-<p class="lead" style="font-variant:small-caps">
-</p>
-
-**[Dynamic Incentive Allocation for City-scale Deep Decarbonization](https://arxiv.org/abs/2502.08877)**  <br/>
-Anupama Sitaraman, Adam Lechowicz, Noman Bashir, Xutong Liu, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Mohammad Hajiesmaili, Prashant&nbsp;Shenoy' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
-
 <p class="lead" style="font-variant:small-caps">
 </p>
 
@@ -133,4 +134,4 @@ ACM WSDM 2023. ([slides](https://drive.google.com/file/d/1-4MGgvfCO8j_KpKpoNZEjd
 
 **[FlowSense: Monitoring Airflow in Building Ventilation Systems Using Audio Sensing](https://arxiv.org/abs/2202.11136)**  <br/>
 Bhawana Chhaglani, Camellia Zakaria, Adam Lechowicz, Prashant Shenoy, Jeremy Gummeson  <br/>
-ACM IMWUT, March 2022.
+ACM IMWUT, Mar. 2022.
