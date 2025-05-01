@@ -5,7 +5,7 @@ title: 'News'
 
 #### 2025
 
-  - **(April 29th, 2024)** Our paper on [dynamic incentive allocation for city-scale deep decarbonization](https://arxiv.org/abs/2502.08877) was accepted to the ACM Journal on Computing and Sustainable Societies (JCSS)!
+  - **(April 29th, 2025)** Our paper on [dynamic incentive allocation for deep decarbonization](https://arxiv.org/abs/2502.08877) was accepted to the ACM Journal on Computing and Sustainable Societies (JCSS)!
 
 
 #### 2024
