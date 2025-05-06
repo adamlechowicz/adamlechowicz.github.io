@@ -68,4 +68,4 @@ title: 'News'
 
   - **(July 1st, 2022)** I began a one-year term as the Amherst campus student trustee on the [UMass Board of Trustees](https://www.umassp.edu/bot).
 
-  - **(May 12th, 2022)** I received my B.S. in computer science and a B.A. in political science.  Humbled to be honored as a [21st Century Leader](https://www.umass.edu/news/article/ten-outstanding-graduates-be-honored-21st-century-leaders-umass-amherst-commencement) and [Rising Researcher](https://www.umass.edu/gateway/article/computing-greater-good).
+  - **(May 12th, 2022)** I received my B.S. in computer science and a B.A. in political science.  Honored to be named as a [21st Century Leader](https://www.umass.edu/news/article/ten-outstanding-graduates-be-honored-21st-century-leaders-umass-amherst-commencement) and [Rising Researcher](https://www.umass.edu/gateway/article/computing-greater-good).
