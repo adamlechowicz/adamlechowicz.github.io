@@ -5,6 +5,8 @@ title: 'News'
 
 #### 2025
 
+  - **(May 8th, 2025)** I am giving an invited talk at the RSRG / FALCON group meeting at Caltech.  See my slides [here](https://drive.google.com/file/d/1Z6ypQdUXYm4QoVHN88GcbdkKgjWDNpU3/view?usp=share_link).  
+
   - **(May 1st, 2025)** Our paper on [near-optimal consistency-robustness trade-offs for learning-augmented online knapsack](https://arxiv.org/abs/2406.18752) was accepted to ICML 2025!
 
   - **(April 29th, 2025)** Our paper on [dynamic incentive allocation for deep decarbonization](https://arxiv.org/abs/2502.08877) was accepted to the ACM Journal on Computing and Sustainable Societies (JCSS)!
@@ -51,9 +53,9 @@ title: 'News'
 
   - **(June 16th, 2023)** I am at ACM FCRC 2023 in Orlando, Florida this week!  We have a paper at e-Energy on [network-aware decarbonization of residential heating at city scale](https://arxiv.org/abs/2301.04747), and I am also presenting at the [LATA workshop](https://learning-augmented-algorithms.github.io/2023/).  
 
-  - **(May 20th, 2023)** Excited to visit [Caltech](https://rsrg.cms.caltech.edu/) this summer, hosted by [Adam Wierman](https://adamwierman.com).
+  - **(May 20th, 2023)** Excited to visit [Caltech](https://rsrg.cms.caltech.edu/) this summer, advised by [Adam Wierman](https://adamwierman.com).
 
-  - **(March 29th, 2023)** I am extremely pleased and honored to be selected as a recipient of the [U.S. Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/about-doe-csgf)!
+  - **(March 29th, 2023)** I am extremely pleased to be selected as a recipient of the [U.S. Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/about-doe-csgf)!
 
   - **(February 27th, 2023)** I am at ACM WSDM 2023 in Singapore this week to present my undergraduate thesis work on [local edge dynamics and opinion polarization](https://arxiv.org/abs/2111.14020).
 
