@@ -5,7 +5,7 @@ title: 'News'
 
 #### 2025
 
-  - **(June 9th, 2025)** I am at ACM SIGMETRICS in Stony Brook, New York this week!  I'll be presenting [our paper](https://dl.acm.org/doi/10.1145/3711701) on spatiotemporal online allocation with deadline constraints in the Online Learning II session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. 
+  - **(June 9th, 2025)** I am at ACM SIGMETRICS in Stony Brook, New York this week!  I'll be presenting our paper on [spatiotemporal online allocation with deadline constraints](https://dl.acm.org/doi/10.1145/3711701) in the Online Learning II session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. 
 
   - **(May 8th, 2025)** I am giving an invited talk at the RSRG / FALCON group meeting at Caltech.  See my slides [here](https://drive.google.com/file/d/1Z6ypQdUXYm4QoVHN88GcbdkKgjWDNpU3/view?usp=share_link).  
 
