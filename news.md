@@ -5,6 +5,8 @@ title: 'News'
 
 #### 2025
 
+  - **(June 16th, 2025)** I am at ACM e-Energy in Rotterdam, Netherlands this week!  I am presenting our paper on [optimizing individualized incentives with unknown agent behavior](https://dl.acm.org/doi/10.1145/3679240.3734594) in the Demand-side Management session, and we have a paper about [the carbon cost of residential solar](https://dl.acm.org/doi/10.1145/3679240.3734603) in the Low-Carbon Systems session.
+
   - **(June 9th, 2025)** I am at ACM SIGMETRICS in Stony Brook, New York this week!  I'll be presenting our paper on [spatiotemporal online allocation with deadline constraints](https://dl.acm.org/doi/10.1145/3711701) in the Online Learning II session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. 
 
   - **(May 8th, 2025)** I am giving an invited talk at the RSRG / FALCON group meeting at Caltech.  See my slides [here](https://drive.google.com/file/d/1Z6ypQdUXYm4QoVHN88GcbdkKgjWDNpU3/view?usp=share_link).  
@@ -15,7 +17,7 @@ title: 'News'
 
   - **(February 7th, 2025)** I passed my Ph.D. portfolio with distinction.
 
-  - **(January 17th, 2025)** Our papers on [incentives in distribution grids](https://arxiv.org/abs/2410.14936) and [the carbon cost of residential solar installations](https://arxiv.org/abs/2501.13868) were accepted to ACM e-Energy 2025!
+  - **(January 17th, 2025)** Our papers on [incentives in distribution grids](https://arxiv.org/abs/2410.14936) and  were accepted to ACM e-Energy 2025!
 
 
 
