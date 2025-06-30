@@ -138,6 +138,8 @@ about: >
   <em style="margin-top: auto; margin-left: auto; margin-bottom: 0.85em; margin-right: 0.75em;"><a href="news.html">more news →&nbsp;</a></em>
   </div>
 
+  - **(June 30th, 2025)** I am at the INFORMS APS conference in Atlanta, Georgia this week!  I'll be giving an invited talk on [online optimization with switching costs and long-term constraints](https://arxiv.org/abs/2402.14012) in the Learning-Augmented Online Optimization session.
+
   - **(June 16th, 2025)** I am at ACM e-Energy in Rotterdam, Netherlands this week!  We have two papers on [optimizing individualized incentives with unknown agent behavior](https://dl.acm.org/doi/10.1145/3679240.3734594) and [the carbon cost of residential solar](https://dl.acm.org/doi/10.1145/3679240.3734603).
   
   - **(June 9th, 2025)** I am at ACM SIGMETRICS in Stony Brook, New York this week!  I'll be presenting our paper on [spatiotemporal online allocation with deadline constraints](https://dl.acm.org/doi/10.1145/3711701) in the Online Learning II session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. 
@@ -147,8 +149,6 @@ about: >
   - **(May 1st, 2025)** Our paper on [near-optimal consistency-robustness trade-offs for learning-augmented online knapsack](https://arxiv.org/abs/2406.18752) was accepted to ICML 2025!
 
   - **(April 29th, 2025)** Our paper on [dynamic incentive allocation for city-scale deep decarbonization](https://arxiv.org/abs/2502.08877) was accepted to the ACM Journal on Computing and Sustainable Societies (JCSS)!
-
-  - **(November 27th, 2024)** I am giving a talk at the [ACM SIGEnergy Seminar](https://sites.google.com/view/sigenergy-seminar/).  See my slides [here](https://drive.google.com/file/d/1WVtGPCmFuA6V1216q5EvRr71mUlgG5Tk/view?usp=sharing).
 
   - **(September 3rd, 2024)** I am at the [Seventh Workshop on Autonomous Energy Systems](https://www.nrel.gov/grid/seventh-workshop-autonomous-energy-systems.html) in Golden, CO to present my work on incentives in distribution grids.  
   
