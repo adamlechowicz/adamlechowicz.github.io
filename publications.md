@@ -39,8 +39,8 @@ ICML 2025.
 </p>
 
 **[Learning to Site: A Multi-objective Optimization of Rooftop Solar Installations using Evolutionary Neural Networks](https://dl.acm.org/doi/abs/10.1145/3764944.3764955)**  <br/>
-Cooper Sigrist, Archimedes Li, Pichsinee Lertsaroj, Ryan Boldi, Adam Lechowicz <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Noman Bashir, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
-AI Crossroads Workshop @ ACM SIGMETRICS, 2025.  Also in ACM SIGMETRICS Performance Evaluation Review, Aug. 2025.
+Cooper Sigrist, Archimedes Li, Pichsinee Lertsaroj, Ryan Boldi, Adam Lechowicz, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Noman Bashir, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+AI Crossroads Workshop, 2025.  Also in ACM SIGMETRICS Performance Evaluation Review, Aug. 2025.
 
 <p class="lead" style="font-variant:small-caps">
 </p>
