@@ -5,6 +5,8 @@ title: 'News'
 
 #### 2025
 
+  - **(September 9th, 2025)** I am at the ACM SIGCOMM conference in Coimbra, Portugal this week!  I'll be presenting our short paper on [carbon- and precedence-aware scheduling for data processing](https://arxiv.org/abs/2502.09717) in the SIGCOMM Shorts session.
+
   - **(July 2nd, 2025)** I am at the INFORMS APS conference at Georgia Tech this week!  I'll be giving an invited talk on [online optimization with switching costs and long-term constraints](https://arxiv.org/abs/2402.14012) in the Learning-Augmented Online Optimization session.
 
   - **(June 20th, 2025)** I am at ACM e-Energy in Rotterdam, Netherlands this week!  We have two papers on [optimizing individualized incentives with unknown agent behavior](https://dl.acm.org/doi/10.1145/3679240.3734594) and [the carbon cost of residential solar](https://dl.acm.org/doi/10.1145/3679240.3734603).
