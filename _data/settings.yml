@@ -60,7 +60,7 @@ about: >
   <p class="small" style="font-variant:small-caps">
   </p>
 
-  I am a third-year Ph.D. student in the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu) at the University of Massachusetts Amherst, advised by [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/index.html).  
+  I am a fourth-year Ph.D. student in the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu) at the University of Massachusetts Amherst, advised by [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/index.html).  
   
   <p class="small" style="font-variant:small-caps">
   </p>
@@ -70,7 +70,7 @@ about: >
   <p class="small" style="font-variant:small-caps">
   </p>
   
-  I work at the intersection of theory and systems, with an emphasis on problems that hold implications for energy, equity, and climate change.  From a theoretical perspective, I am interested in designing algorithms for online optimization, particularly of the learning-augmented or provably fair types.  On the application side, I am especially interested in efforts which promote the decarbonization of energy systems and computing infrastructure. My work is supported by a [U.S. Department of Energy Computational Science Graduate Fellowship (CSGF)](https://www.krellinst.org/csgf/about-doe-csgf).
+  I work at the intersection of theory and systems, with an emphasis on emerging problems with implications for energy and sustainability.  From a theoretical perspective, I am interested in decision-making under uncertainty, particularly using the learning-augmented algorithms framework, which combines the provable guarantees of traditional algorithm design with AI-driven increases in performance.  On the application side, I am interested in novel system designs that increase the flexibility, efficiency, and sustainability of energy systems or computing infrastructure. My work is supported by a [U.S. Department of Energy Computational Science Graduate Fellowship (CSGF)](https://www.krellinst.org/csgf/about-doe-csgf).
 
   <p class="small" style="font-variant:small-caps">
   </p>
@@ -138,6 +138,8 @@ about: >
   <em style="margin-top: auto; margin-left: auto; margin-bottom: 0.85em; margin-right: 0.75em;"><a href="news.html">more news →&nbsp;</a></em>
   </div>
 
+  - **(September 9th, 2025)** I am at the ACM SIGCOMM conference in Coimbra, Portugal this week!  I'll be presenting our short paper on [carbon- and precedence-aware scheduling for data processing](https://arxiv.org/abs/2502.09717) in the SIGCOMM Shorts session.
+
   - **(July 2nd, 2025)** I am at the INFORMS APS conference at Georgia Tech this week!  I'll be giving an invited talk on [online optimization with switching costs and long-term constraints](https://arxiv.org/abs/2402.14012) in the Learning-Augmented Online Optimization session.
 
   - **(June 20th, 2025)** I am at ACM e-Energy in Rotterdam, Netherlands this week!  We have two papers on [optimizing individualized incentives with unknown agent behavior](https://dl.acm.org/doi/10.1145/3679240.3734594) and [the carbon cost of residential solar](https://dl.acm.org/doi/10.1145/3679240.3734603).
@@ -147,8 +149,6 @@ about: >
   - **(May 8th, 2025)** I am giving an invited talk at the RSRG / FALCON group meeting at Caltech.  See my slides [here](https://drive.google.com/file/d/1Z6ypQdUXYm4QoVHN88GcbdkKgjWDNpU3/view?usp=share_link).  
 
   - **(May 1st, 2025)** Our paper on [near-optimal consistency-robustness trade-offs for learning-augmented online knapsack](https://arxiv.org/abs/2406.18752) was accepted to ICML 2025!
-
-  - **(April 29th, 2025)** Our paper on [dynamic incentive allocation for city-scale deep decarbonization](https://arxiv.org/abs/2502.08877) was accepted to the ACM Journal on Computing and Sustainable Societies (JCSS)!
 
   - **(September 3rd, 2024)** I am at the [Seventh Workshop on Autonomous Energy Systems](https://www.nrel.gov/grid/seventh-workshop-autonomous-energy-systems.html) in Golden, CO to present my work on incentives in distribution grids.  
   
