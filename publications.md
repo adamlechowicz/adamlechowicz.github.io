@@ -24,6 +24,13 @@ title: 'Selected Talks & Publications'
 
 #### 2025
 
+**[Learning to Site: A Multi-objective Optimization of Rooftop Solar Installations using Evolutionary Neural Networks](https://dl.acm.org/doi/abs/10.1145/3764944.3764955)**  <br/>
+Cooper Sigrist, Archimedes Li, Pichsinee Lertsaroj, Ryan Boldi, Adam Lechowicz, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Noman Bashir, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+ACM BuildSys 2025.  ([workshop version](https://dl.acm.org/doi/abs/10.1145/3764944.3764955))
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 [**Carbon- and Precedence-Aware Scheduling for Data Processing Clusters** *(SIGCOMM short)*](https://arxiv.org/abs/2502.09717)  <br/>
 Adam Lechowicz, Rohan Shenoy, Noman Bashir, Mohammad Hajiesmaili, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Adam Wierman, Christina Delimitrou' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
 ACM SIGCOMM 2025.
@@ -34,13 +41,6 @@ ACM SIGCOMM 2025.
 **[Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems](https://arxiv.org/abs/2406.18752)**  <br/>
 Mohammadreza Daneshvaramoli, Helia Karisani, Adam Lechowicz, Bo Sun, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Cameron Musco, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
 ICML 2025. ([workshop version](https://learning-augmented-algorithms.github.io/papers/sigmetrics25-lata-final7.pdf))
-
-<p class="lead" style="font-variant:small-caps">
-</p>
-
-**[Learning to Site: A Multi-objective Optimization of Rooftop Solar Installations using Evolutionary Neural Networks](https://dl.acm.org/doi/abs/10.1145/3764944.3764955)**  <br/>
-Cooper Sigrist, Archimedes Li, Pichsinee Lertsaroj, Ryan Boldi, Adam Lechowicz, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Noman Bashir, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
-AI Crossroads Workshop, 2025.  Also in SIGMETRICS Performance Evaluation Review, Aug. 2025.
 
 <p class="lead" style="font-variant:small-caps">
 </p>
