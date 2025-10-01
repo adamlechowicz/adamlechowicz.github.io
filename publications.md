@@ -73,6 +73,12 @@ ACM e-Energy 2025.
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+[**Signal-Aware Workload Shifting Algorithms with Uncertainty-Quantified Predictors**](https://arxiv.org/abs/2509.26511)  <br/>
+Ezra Johnson, Adam Lechowicz, Mohammad Hajiesmaili<br/>
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 #### 2024
 
 **[Data-driven Algorithm Selection for Carbon-Aware Scheduling](https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final23.pdf)**  <br/>
