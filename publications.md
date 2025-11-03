@@ -22,6 +22,15 @@ title: 'Selected Talks & Publications'
 
 **Full list of publications in reverse chronological order.  *(α-β)* denotes alphabetical author list.**
 
+#### 2026
+
+[**Signal-Aware Workload Shifting Algorithms with Uncertainty-Quantified Predictors**](https://arxiv.org/abs/2509.26511)  <br/>
+Ezra Johnson, Adam Lechowicz, Mohammad Hajiesmaili<br/>
+ACM e-Energy 2026.  (*to appear*)
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 #### 2025
 
 **[Learning to Site: A Multi-objective Optimization of Rooftop Solar Installations using Evolutionary Neural Networks](https://dl.acm.org/doi/abs/10.1145/3764944.3764955)**  <br/>
@@ -69,12 +78,6 @@ ACM e-Energy 2025.
 **[Lost in Siting: The Hidden Carbon Cost of Inequitable Residential Solar Installations](https://arxiv.org/abs/2501.13868)**  <br/>
 Cooper Sigrist, Adam Lechowicz, Jovan Champ, Noman Bashir, Mohammad Hajiesmaili<br/>
 ACM e-Energy 2025.
-
-<p class="lead" style="font-variant:small-caps">
-</p>
-
-[**Signal-Aware Workload Shifting Algorithms with Uncertainty-Quantified Predictors**](https://arxiv.org/abs/2509.26511)  <br/>
-Ezra Johnson, Adam Lechowicz, Mohammad Hajiesmaili<br/>
 
 <p class="lead" style="font-variant:small-caps">
 </p>
