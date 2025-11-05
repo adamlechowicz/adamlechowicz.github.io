@@ -33,7 +33,7 @@ ACM e-Energy 2026.  (*to appear*)
 
 #### 2025
 
-**[Learning to Site: A Multi-objective Optimization of Rooftop Solar Installations using Evolutionary Neural Networks](https://dl.acm.org/doi/abs/10.1145/3764944.3764955)**  <br/>
+**[Multi-objective Evolutionary Learning for Near Pareto-Optimal Optimization of Solar Deployment](https://dl.acm.org/doi/abs/10.1145/3764944.3764955)**  <br/>
 Cooper Sigrist, Archimedes Li, Pichsinee Lertsaroj, Ryan Boldi, Adam Lechowicz, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Noman Bashir, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
 ACM BuildSys 2025.  ([workshop version](https://dl.acm.org/doi/abs/10.1145/3764944.3764955))<br/>
 ***best paper candidate!***
