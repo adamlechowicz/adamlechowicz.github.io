@@ -3,11 +3,20 @@ layout: post
 title: 'News'
 ---
 
+#### Upcoming Talks
+
+  - **(December 5th, 2025)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.  
+
+
 #### 2025
+
+  - **(November 4th, 2025)** Our paper on [signal-aware workload shifting](https://arxiv.org/abs/2509.26511) was accepted to e-Energy 2026!
 
   - **(October 27th, 2025)** I am at the INFORMS Annual Meeting in Atlanta, GA this week!  I'll be giving an invited talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2627) in the [Algorithms for Grid Integration of AI](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=1345) session. See my slides [here](https://drive.google.com/file/d/1rbBkBUCwowlAGhMvxDA8RDkWHGF7MF8_/view?usp=sharing).
 
   - **(September 9th, 2025)** I am at the ACM SIGCOMM conference in Coimbra, Portugal this week!  I'll be presenting our short paper on [carbon- and precedence-aware scheduling for data processing](https://arxiv.org/abs/2502.09717) in the SIGCOMM Shorts session.
+
+  - **(July 13th, 2025)** We have a paper at ICML 2025 on [near-optimal consistency-robustness trade-offs for learning-augmented online knapsack](https://arxiv.org/abs/2406.18752).
 
   - **(July 2nd, 2025)** I am at the INFORMS APS conference at Georgia Tech this week!  I'll be giving an invited talk on [online optimization with switching costs and long-term constraints](https://arxiv.org/abs/2402.14012) in the Learning-Augmented Online Optimization session.
 
@@ -16,8 +25,6 @@ title: 'News'
   - **(June 12th, 2025)** I am at the ACM SIGMETRICS conference at Stony Brook University this week!  I'll be presenting our paper on [spatiotemporal online allocation with deadline constraints](https://dl.acm.org/doi/10.1145/3711701) in the Online Learning II session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. 
 
   - **(May 8th, 2025)** I am giving an invited talk at the RSRG / FALCON group meeting at Caltech.  See my slides [here](https://drive.google.com/file/d/1Z6ypQdUXYm4QoVHN88GcbdkKgjWDNpU3/view?usp=share_link).  
-
-  - **(May 1st, 2025)** Our paper on [near-optimal consistency-robustness trade-offs for learning-augmented online knapsack](https://arxiv.org/abs/2406.18752) was accepted to ICML 2025!
 
   - **(April 29th, 2025)** Our paper on [dynamic incentive allocation for deep decarbonization](https://arxiv.org/abs/2502.08877) was accepted to the ACM Journal on Computing and Sustainable Societies (JCSS)!
 
