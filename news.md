@@ -5,12 +5,12 @@ title: 'News'
 
 #### Upcoming Talks
 
-  - **(December 5th, 2025)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.  
+  - **(December 4th, 2025)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.  
 
 
 #### 2025
 
-  - **(November 4th, 2025)** Our paper on [signal-aware workload shifting](https://arxiv.org/abs/2509.26511) was accepted to e-Energy 2026!
+  - **(November 5th, 2025)** Our paper on [signal-aware workload shifting](https://arxiv.org/abs/2509.26511) was accepted to e-Energy 2026!
 
   - **(October 27th, 2025)** I am at the INFORMS Annual Meeting in Atlanta, GA this week!  I'll be giving an invited talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2627) in the [Algorithms for Grid Integration of AI](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=1345) session. See my slides [here](https://drive.google.com/file/d/1rbBkBUCwowlAGhMvxDA8RDkWHGF7MF8_/view?usp=sharing).
 
