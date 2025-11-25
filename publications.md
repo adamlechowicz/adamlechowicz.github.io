@@ -24,6 +24,12 @@ title: 'Selected Talks & Publications'
 
 #### 2026
 
+[**Online Smoothed Demand Management**](https://arxiv.org/abs/2511.18554)  <br/>
+Adam Lechowicz, Nicolas Christianson, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy<br/>
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 [**Signal-Aware Workload Shifting Algorithms with Uncertainty-Quantified Predictors**](https://arxiv.org/abs/2509.26511)  <br/>
 Ezra Johnson, Adam Lechowicz, Mohammad Hajiesmaili<br/>
 ACM e-Energy 2026.  (*to appear*)
