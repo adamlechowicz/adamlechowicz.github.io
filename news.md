@@ -5,7 +5,7 @@ title: 'News'
 
 #### Upcoming Talks
 
-  - **(December 4th, 2025)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.  
+  - **(Spring 2026)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.  
 
 
 #### 2025
