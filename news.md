@@ -10,6 +10,8 @@ title: 'News'
 
 #### 2025
 
+  - **(November 20th, 2025)** We have a paper at ACM BuildSys 2025 (***best paper candidate!***) on [evolutionary learning for solar deployment optimization](https://dl.acm.org/doi/10.1145/3736425.3770115).  
+
   - **(November 5th, 2025)** Our paper on [signal-aware workload shifting](https://arxiv.org/abs/2509.26511) was accepted to e-Energy 2026!
 
   - **(October 27th, 2025)** I am at the INFORMS Annual Meeting in Atlanta, GA this week!  I'll be giving an invited talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2627) in the [Algorithms for Grid Integration of AI](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=1345) session. See my slides [here](https://drive.google.com/file/d/1rbBkBUCwowlAGhMvxDA8RDkWHGF7MF8_/view?usp=sharing).
