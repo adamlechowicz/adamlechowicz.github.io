@@ -10,6 +10,8 @@ title: 'News'
 
 #### 2025
 
+  - **(December 12th, 2025)** Our paper on [online smoothed demand management](https://arxiv.org/abs/2511.18554) was accepted to SIGMETRICS 2026!
+
   - **(November 20th, 2025)** We have a paper at ACM BuildSys 2025 (***best paper candidate!***) on [evolutionary learning for solar deployment optimization](https://dl.acm.org/doi/10.1145/3736425.3770115).  
 
   - **(November 5th, 2025)** Our paper on [signal-aware workload shifting](https://arxiv.org/abs/2509.26511) was accepted to e-Energy 2026!
