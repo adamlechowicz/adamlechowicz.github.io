@@ -26,6 +26,7 @@ title: 'Selected Talks & Publications'
 
 [**Online Smoothed Demand Management**](https://arxiv.org/abs/2511.18554)  <br/>
 Adam Lechowicz, Nicolas Christianson, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy<br/>
+ACM SIGMETRICS 2026.  (*to appear*)
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -85,6 +86,12 @@ ACM e-Energy 2025.
 **[Lost in Siting: The Hidden Carbon Cost of Inequitable Residential Solar Installations](https://arxiv.org/abs/2501.13868)**  <br/>
 Cooper Sigrist, Adam Lechowicz, Jovan Champ, Noman Bashir, Mohammad Hajiesmaili<br/>
 ACM e-Energy 2025.
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
+**[Quantifying the Carbon Reduction of DAG Workloads: A Job Shop Scheduling Perspective](https://arxiv.org/abs/2512.07799)**  <br/>
+Roozbeh Bostandoost, Adam Lechowicz, Walid A Hanafy, Prashant Shenoy, Mohammad Hajiesmaili<br/>
 
 <p class="lead" style="font-variant:small-caps">
 </p>
