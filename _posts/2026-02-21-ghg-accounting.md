@@ -29,7 +29,7 @@ For 2025, my inventory reports that my total emissions were around 9 metric tons
 
 Perhaps the most surprising component of my inventory as-is is that the emissions associated with my air travel exceed those associated with the rest of my year (i.e., Scope 1 and Scope 2, vehicle travel and all energy usage at home).  I do travel a lot for both work and leisure, but I was still surprised to see just how much of an outsized impact a few yearly trips can have on my overall emissions.
 
-### What if I used heating oil instead?
+#### What if I used heating oil instead?
 
 Our apartment contains both mini-split heat pumps and a "backup" boiler that uses heating oil.[^1]  Since we moved in, we've exclusively used the heat pumps for both heating and cooling, but a natural question I can ask using my inventory is "what would happen to my emissions if I used the boiler instead of the heat pumps for heating?"  
 
@@ -37,11 +37,11 @@ To estimate the answer to this question, I can "shave off" my electricity usage 
 
 Assuming an average [coefficient of performance (COP)](https://en.wikipedia.org/wiki/Coefficient_of_performance) of at least 2.5 for our heat pumps ([a reasonable estimate for recent cold-climate models](https://www.energystar.gov/products/heat_pump_water_heaters/key-product-criteria)), this translates to ~7,618 kWh of heat delivered into our apartment, which would have required at least 185 gallons of heating oil (assuming 41 kWh of heat energy stored per gallon of heating oil[^2] and 100% boiler efficiency).
 
-![Screenshot of my hypothetical GHG inventory results for 2025 if heating oil was used.](https://adamlechowicz.github.io/assets/img/projects/ghg-accounting/pie-chart.png)
+![Screenshot of my hypothetical GHG inventory results for 2025 if heating oil was used.](https://adamlechowicz.github.io/assets/img/projects/ghg-accounting/pie-chart-oil.png)
 
 Interestingly, even using electricity from the New England grid (which relies heavily on natural gas), heating our apartment using heating oil would have generated an extra metric ton of GHG emissions over the course of the year compared to using heat pumps.  This all boils down to efficiency -- even though  furnaces/boilers are often >90% efficient in converting fuel to heat, the COP (effective efficiency) of a heat pump means that it can comfortably satisfy our heat needs using much less energy and thus results in fewer emissions. 
 
-### What if I drove an electric vehicle?
+#### What if I drove an electric vehicle?
 
 I don't drive an EV, but I can also use my inventory to estimate the impact of switching to an EV compared to my current gasoline car.  To estimate this, I can take my total mileage for the year (around 8,000 miles) and divide it by the average efficiency of small EVs (e.g., around 3.5-4.5 miles per kWh) to get an estimate of the electricity usage that would be required to satisfy my driving needs with an EV.  
 
