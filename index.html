@@ -3,5 +3,5 @@ layout: front
 title: Home
 ---
 
-{{ site.data.settings.about | markdownify }}
+{{ site.data.settings.about | replace: 'BIO_INTRO_PLACEHOLDER', site.data.settings.bio_intro | markdownify }}
 

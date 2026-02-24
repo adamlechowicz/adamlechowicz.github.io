@@ -41,14 +41,45 @@ disqus:
 #-------------------------------
 # About Section
 
+# First sentence of bio — edit here to update both the main card tooltip and the bio paragraph.
+bio_intro: >-
+  I am a fourth-year Ph.D. candidate in the <a href="https://www.cics.umass.edu">Manning College of Information and Computer Sciences</a> at the University of Massachusetts Amherst, advised by <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a> and <a href="https://people.cs.umass.edu/~shenoy/index.html">Prashant Shenoy</a>.
+
 about: >
   
   <p class="lead" style="font-variant:small-caps">
   </p>
   
-  <a href="https://www.umass.edu"><img src="/assets/img/5x3.jpg" align="right" alt="Campus of UMass Amherst" style="width: 47.8%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/></a> 
-  <!-- <a href="https://www.nrel.gov"><img src="/assets/img/5x3nrel.jpeg" align="right" alt="ESIF Building at the National Renewable Energy Laboratory" style="width: 47.8%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/></a> -->
-  <img src="/assets/img/bio_photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+  <div class="campus-stack-wrapper" id="campus-stack-wrapper">
+    <div class="campus-stack-sizer"></div>
+
+    <div class="campus-card past-card" data-url="https://www.umass.edu" data-label="UMass →">
+      <div class="campus-card-bg" style="background-image: url('/assets/img/500x300.png');"></div>
+      <div class="campus-card-overlay"><span>UMass (undergrad) <em>→</em></span></div>
+      <div class="campus-card-tooltip"><p>I received a B.S. in Computer Science and a B.A. in Political Science from UMass Amherst in May 2022. I completed an honors thesis on opinion polarization in social networks working with <a href="https://people.cs.umass.edu/~cmusco/">Cameron Musco</a>. I was honored as a <a href="https://www.umass.edu/gateway/article/computing-greater-good">Rising Researcher</a> and a <a href="https://www.umass.edu/news/article/ten-outstanding-graduates-be-honored-21st-century-leaders-umass-amherst-commencement">21st Century Leader</a>, which are the highest undergraduate honors at UMass.</p></div>
+    </div>
+
+    <div class="campus-card past-card" data-url="https://www.caltech.edu" data-label="Caltech →">
+      <div class="campus-card-bg" style="background-image: url('/assets/img/5x3caltech.jpeg');"></div>
+      <div class="campus-card-overlay"><span>Caltech <em>→</em></span></div>
+      <div class="campus-card-tooltip"><p>In Summer 2023, I was a visiting researcher at <a href="https://www.caltech.edu">Caltech</a> in Computing and Mathematical Sciences, advised by <a href="https://adamwierman.com">Adam Wierman</a>. I worked on algorithms to solve online optimization problems that arise in sustainable computing, such as <a href="https://dl.acm.org/doi/10.1145/3626776">carbon-aware load shifting</a>.</p></div>
+    </div>
+
+    <div class="campus-card past-card" data-url="https://www.nrel.gov" data-label="NREL →">
+      <div class="campus-card-bg" style="background-image: url('/assets/img/5x3nrel.jpeg');"></div>
+      <div class="campus-card-overlay"><span>NREL <em>→</em></span></div>
+      <div class="campus-card-tooltip"><p>I completed my DOE CSGF practicum in Summer 2024 at the Power Systems Engineering Center of the <a href="https://nrel.gov">National Renewable Energy Laboratory</a> (currently National Laboratory of the Rockies), mentored by <a href="https://research-hub.nrel.gov/en/persons/joshua-comden/">Joshua Comden</a> and <a href="https://scholar.google.com/citations?user=oLPQszQAAAAJ&amp;hl=en">Andrey Bernstein</a>. I worked on optimizing incentives under human-driven uncertainties in power grids.</p></div>
+    </div>
+
+    <div class="campus-past-btn" id="campus-past-btn"><span>past →</span></div>
+
+    <div class="campus-card main-card" id="campus-main-card" data-url="https://www.umass.edu">
+      <div class="campus-card-bg" style="background-image: url('/assets/img/5x3.jpg');"></div>
+      <div class="campus-card-overlay"><span>UMass <em>→</em></span></div>
+      <div class="campus-card-tooltip"><p>BIO_INTRO_PLACEHOLDER</p></div>
+    </div>
+  </div>
+  <img src="/assets/img/bio_photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.28);"/>
   
   <p class="small" style="font-variant:small-caps">
   </p>
@@ -60,13 +91,8 @@ about: >
   <p class="small" style="font-variant:small-caps">
   </p>
 
-  I am a fourth-year Ph.D. candidate in the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu) at the University of Massachusetts Amherst, advised by [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/index.html).  
+  BIO_INTRO_PLACEHOLDER
   
-  <p class="small" style="font-variant:small-caps">
-  </p>
-
-  <p style="text-align:center; font-weight: bolder; font-size: 16px;"><i> sustainability for computing, computing for sustainability </i></p>
-
   <p class="small" style="font-variant:small-caps">
   </p>
   
