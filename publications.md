@@ -50,7 +50,7 @@ ACM BuildSys 2025.  ([workshop version](https://dl.acm.org/doi/abs/10.1145/37649
 
 [**Carbon- and Precedence-Aware Scheduling for Data Processing Clusters** *(SIGCOMM short)*](https://arxiv.org/abs/2502.09717)  <br/>
 Adam Lechowicz, Rohan Shenoy, Noman Bashir, Mohammad Hajiesmaili, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Adam Wierman, Christina Delimitrou' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
-ACM SIGCOMM 2025.
+ACM SIGCOMM 2025. ([slides](https://drive.google.com/file/d/1TAjnf-x2OYngmTikVPHDe2KIWdkIxu83/view?usp=share_link))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -71,14 +71,14 @@ ACM JCSS, June 2025.
 
 **[Learning-Augmented Competitive Algorithms for Spatiotemporal Online Allocation with Deadline Constraints](https://arxiv.org/abs/2408.07831)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
-ACM SIGMETRICS 2025.  Also in ACM POMACS, Mar. 2025.
+ACM SIGMETRICS 2025.  Also in ACM POMACS, Mar. 2025. ([slides](https://drive.google.com/file/d/1rwgPikw7zf-GVQyrfHOjLUwQ6Cy_wBGu/view?usp=share_link))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 **[Optimizing Individualized Incentives from Grid Measurements and Limited Knowledge of Agent Behavior](https://arxiv.org/abs/2410.14936)**  <br/>
 Adam Lechowicz, Joshua Comden, Andrey Bernstein<br/>
-ACM e-Energy 2025.
+ACM e-Energy 2025. ([slides](https://drive.google.com/file/d/1FLcjKg_hznVB1a3bguJgHzSLhIC4ZrDB/view?usp=share_link))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -121,7 +121,7 @@ ICML 2024. ([workshop version](https://learning-augmented-algorithms.github.io/2
 
 **[Online Conversion with Switching Costs: *Robust and Learning-Augmented Algorithms*](https://arxiv.org/abs/2310.20598)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
-ACM SIGMETRICS / IFIP Performance 2024.
+ACM SIGMETRICS / IFIP Performance 2024. ([slides](https://drive.google.com/file/d/1CeoBCoU6jmDcb4VxmHkO8C1E5Vrb2axJ/view?usp=share_link))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -144,7 +144,7 @@ ICLR 2024. ([workshop version](https://learning-augmented-algorithms.github.io/p
 
 **[The Online Pause and Resume Problem: <br/> *Optimal Algorithms and An Application to Carbon-aware Load Shifting*](https://arxiv.org/abs/2303.17551)**  <br/>
 Adam Lechowicz, Nicolas Christianson, Jinhang Zuo, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
-ACM SIGMETRICS / IFIP Performance 2024.  Also in ACM POMACS, Dec. 2023.
+ACM SIGMETRICS / IFIP Performance 2024.  Also in ACM POMACS, Dec. 2023. ([slides](https://drive.google.com/file/d/1YNAvyiGuE9KO5xxAm65xeRVJ6P3oeHdE/view?usp=share_link))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
