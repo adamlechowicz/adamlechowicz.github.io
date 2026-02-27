@@ -38,6 +38,13 @@ $(function() {
     }, delay !== undefined ? delay : 220);
   }
 
+  // Tooltip link clicks: open in new tab only, stop bubbling to card handler.
+  $allTooltips.find('a').on('click', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    window.open($(this).attr('href'), '_blank');
+  });
+
   // Keep tooltip alive when mouse slides from card edge onto the tooltip.
   // On leave, schedule hide via the tracked active card.
   $allTooltips.on('mouseenter', function() {
