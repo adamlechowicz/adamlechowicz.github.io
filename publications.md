@@ -7,8 +7,8 @@ title: 'Selected Talks & Publications'
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
       <!-- Shorter Talk -->
       <div style="text-align: center; width: 49%;">
-          <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">ACM SIGMETRICS quick recording on Spatiotemporal Online Allocation with Deadline Constraints, June 2025</div>
-          <iframe width="100%" height="auto" src="https://www.youtube.com/embed/TB5QrxW86gI?si=1yUwUfrvAsyVi-Rr" title="ACM SIGMETRICS quick recording on Spatiotemporal Online Allocation with Deadline Constraints, June 2025" frameborder="0" style="aspect-ratio: 16/9;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+          <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">ACM SIGMETRICS quick recording on Online Conversion with Switching Costs, June 2024</div>
+          <iframe width="100%" height="auto" src="https://www.youtube.com/embed/1xBzBBH_x40?si=NWnV3kTUAzzl8fCH" title="ACM SIGMETRICS quick recording on Online Conversion with Switching Costs, June 2024" frameborder="0" style="aspect-ratio: 16/9;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
       </div>
       <!-- Longer Talk -->
       <div style="text-align: center; width: 49%;">
