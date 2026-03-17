@@ -5,8 +5,11 @@ title: 'News'
 
 #### Upcoming Talks
 
-  - **(March 26th, 2025)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.  
+  - **(March 26th, 2026)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.  
 
+#### 2026
+
+  - **(March 17th, 2026)** I am at the [Workshop on Foundation Models of the Electric Grid](https://gridfm.org/harvard/) this week, presenting our work on online smoothed demand management.  
 
 #### 2025
 
