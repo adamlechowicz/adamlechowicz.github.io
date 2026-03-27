@@ -24,6 +24,13 @@ title: 'Selected Talks & Publications'
 
 #### 2026
 
+♠ **<tt>SPADE</tt>: Signal-Aware DAG Scheduling and Dynamic Provisioning for Data Processing Clusters**  <br/>
+Adam Lechowicz, Rohan Shenoy, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, and Christina Delimitrou<br/>
+OSDI 2026.  (*to appear*)
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 [**Online Smoothed Demand Management**](https://arxiv.org/abs/2511.18554)  <br/>
 Adam Lechowicz, Nicolas Christianson, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy<br/>
 ACM SIGMETRICS 2026.  (*to appear*)

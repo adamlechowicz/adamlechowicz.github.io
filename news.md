@@ -3,11 +3,15 @@ layout: post
 title: 'News'
 ---
 
-#### Upcoming Talks
+<!-- #### Upcoming Talks
 
-  - **(March 26th, 2026)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.  
+  - **(March 26th, 2026)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.   -->
 
 #### 2026
+
+  - **(March 27th, 2026)** Our <tt>SPADE</tt> paper on [signal-aware DAG scheduling and dynamic provisioning](https://arxiv.org/abs/2502.09717) was accepted to OSDI 2026!
+
+  - **(March 26th, 2026)** I gave a talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://cadmy.yale.edu/events/2026-03-26-csorecon-theory-lunch-adam-lechowicz-umass-amherst) at the Yale CS / OR / Econ theory lunch.  Thank you [CADMY](https://cadmy.yale.edu) for the invitation!  See my slides [here](https://drive.google.com/file/d/1OyF4oUQ7PolJkcbgpoy2SjHx9HJbdryt/view?usp=sharing).
 
   - **(March 17th, 2026)** I am at the [Workshop on Foundation Models of the Electric Grid](https://gridfm.org/harvard/) this week, presenting our work on online smoothed demand management.  
 
