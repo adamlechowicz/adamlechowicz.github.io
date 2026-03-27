@@ -25,7 +25,7 @@ title: 'Selected Talks & Publications'
 #### 2026
 
 ♠ **<tt>SPADE</tt>: Signal-Aware DAG Scheduling and Dynamic Provisioning for Data Processing Clusters**  <br/>
-Adam Lechowicz, Rohan Shenoy, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, and Christina Delimitrou<br/>
+Adam Lechowicz, Rohan Shenoy, Noman Bashir, Mohammad Hajiesmaili, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Adam Wierman, Christina Delimitrou' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
 OSDI 2026.  (*to appear*)
 
 <p class="lead" style="font-variant:small-caps">
