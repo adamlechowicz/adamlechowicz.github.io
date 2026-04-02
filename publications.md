@@ -52,6 +52,13 @@ ACM BuildSys 2026.  (*to appear*)
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+**[Quantifying the Carbon Reduction of DAG Workloads: A Job Shop Scheduling Perspective](https://arxiv.org/abs/2512.07799)**  <br/>
+Roozbeh Bostandoost, Adam Lechowicz, Walid A Hanafy, Prashant Shenoy, Mohammad Hajiesmaili<br/>
+GreenSys 2026.  (*to appear*)
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 #### 2025
 
 **[Multi-objective Evolutionary Learning for Near Pareto-Optimal Optimization of Solar Deployment](https://dl.acm.org/doi/10.1145/3736425.3770115)**  <br/>
@@ -100,12 +107,6 @@ ACM e-Energy 2025. ([slides](https://drive.google.com/file/d/1FLcjKg_hznVB1a3bgu
 **[Lost in Siting: The Hidden Carbon Cost of Inequitable Residential Solar Installations](https://arxiv.org/abs/2501.13868)**  <br/>
 Cooper Sigrist, Adam Lechowicz, Jovan Champ, Noman Bashir, Mohammad Hajiesmaili<br/>
 ACM e-Energy 2025.
-
-<p class="lead" style="font-variant:small-caps">
-</p>
-
-**[Quantifying the Carbon Reduction of DAG Workloads: A Job Shop Scheduling Perspective](https://arxiv.org/abs/2512.07799)**  <br/>
-Roozbeh Bostandoost, Adam Lechowicz, Walid A Hanafy, Prashant Shenoy, Mohammad Hajiesmaili<br/>
 
 <p class="lead" style="font-variant:small-caps">
 </p>
