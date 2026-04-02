@@ -53,7 +53,7 @@ ACM BuildSys 2026.  (*to appear*)
 </p>
 
 **[Quantifying the Carbon Reduction of DAG Workloads: A Job Shop Scheduling Perspective](https://arxiv.org/abs/2512.07799)**  <br/>
-Roozbeh Bostandoost, Adam Lechowicz, Walid A Hanafy, Prashant Shenoy, Mohammad Hajiesmaili<br/>
+Roozbeh Bostandoost, Adam Lechowicz, Walid A. Hanafy, Prashant Shenoy, Mohammad Hajiesmaili<br/>
 GreenSys 2026.  (*to appear*)
 
 <p class="lead" style="font-variant:small-caps">
