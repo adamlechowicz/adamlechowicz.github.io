@@ -45,6 +45,13 @@ ACM e-Energy 2026.  (*to appear*)
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+**City-Scale Decarbonization of Residential Heating Under Transformer Constraints**  <br/>
+Fabian Mkocheko, Walid A. Hanafy, Adam Lechowicz, David Irwin, Prashant Shenoy<br/>
+ACM BuildSys 2026.  (*to appear*)
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 #### 2025
 
 **[Multi-objective Evolutionary Learning for Near Pareto-Optimal Optimization of Solar Deployment](https://dl.acm.org/doi/10.1145/3736425.3770115)**  <br/>
