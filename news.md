@@ -9,6 +9,10 @@ title: 'News'
 
 #### 2026
 
+  - **(April 21st, 2026)** I am presenting two guest lectures this week on the impacts of data centers and related algorithmic challenges in [INFO 203: A Networked World](https://groups.cs.umass.edu/hajiesmaili/info-203-a-networked-world-fall-2022/), an undergraduate course at UMass.
+
+  - **(April 14th, 2026)** Congratulations to [Rohan Shenoy](https://scholar.google.com/citations?user=oHxrOoUAAAAJ&hl=en) for receiving a NSF Graduate Research Fellowship to support his Ph.D. studies!
+
   - **(March 27th, 2026)** Our <tt>SPADE</tt> paper on [signal-aware DAG scheduling and dynamic provisioning](https://arxiv.org/abs/2502.09717) was accepted to OSDI 2026!
 
   - **(March 26th, 2026)** I gave a talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://cadmy.yale.edu/events/2026-03-26-csorecon-theory-lunch-adam-lechowicz-umass-amherst) at the Yale CS / OR / Econ theory lunch.  Thank you [CADMY](https://cadmy.yale.edu) for the invitation!  See my slides [here](https://drive.google.com/file/d/1OyF4oUQ7PolJkcbgpoy2SjHx9HJbdryt/view?usp=sharing).
