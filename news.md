@@ -19,6 +19,8 @@ title: 'News'
 
   - **(March 17th, 2026)** I am at the [Workshop on Foundation Models of the Electric Grid](https://gridfm.org/harvard/) this week, presenting our work on online smoothed demand management.  
 
+  - **(February 6th, 2026)** I released [GlassTerm](https://github.com/adamlechowicz/GlassTerm), my personal terminal app for macOS.
+
 #### 2025
 
   - **(December 12th, 2025)** Our paper on [online smoothed demand management](https://arxiv.org/abs/2511.18554) was accepted to SIGMETRICS 2026!
