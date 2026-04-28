@@ -45,6 +45,13 @@ ACM e-Energy 2026.  (*to appear*)
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+**The Price to Site: Cost-Effective Incentives for Solar Deployment**  <br/>
+Cooper Sigrist, Anupama Sitaraman, Alice Zhang, Adam Lechowicz, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Yuvraj Agarwal, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+ACM BuildSys 2026.  (*to appear*)
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 **City-Scale Decarbonization of Residential Heating Under Transformer Constraints**  <br/>
 Fabian Mkocheko, Walid A. Hanafy, Adam Lechowicz, David Irwin, Prashant Shenoy<br/>
 ACM BuildSys 2026.  (*to appear*)

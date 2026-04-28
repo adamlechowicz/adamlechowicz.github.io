@@ -9,6 +9,8 @@ title: 'News'
 
 #### 2026
 
+  - **(April 28th, 2026)** Our papers on cost-effective incentives for rooftop solar and city-scale transformer-aware decarbonization were accepted to BuildSys 2026!
+
   - **(April 21st, 2026)** I am presenting two guest lectures this week on the impacts of data centers and related algorithmic challenges in [INFO 203: A Networked World](https://groups.cs.umass.edu/hajiesmaili/info-203-a-networked-world-fall-2022/), an undergraduate course at UMass.
 
   - **(April 14th, 2026)** Congratulations to [Rohan Shenoy](https://scholar.google.com/citations?user=oHxrOoUAAAAJ&hl=en) for receiving a NSF Graduate Research Fellowship to support his Ph.D. studies!

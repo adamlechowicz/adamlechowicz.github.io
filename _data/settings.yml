@@ -164,6 +164,8 @@ about: >
   <em style="margin-top: auto; margin-left: auto; margin-bottom: 0.85em; margin-right: 0.75em;"><a href="news.html">more news →&nbsp;</a></em>
   </div>
 
+  - **(April 28th, 2026)** Our papers on cost-effective incentives for rooftop solar and city-scale transformer-aware decarbonization were accepted to BuildSys 2026!
+
   - **(April 21st, 2026)** I am presenting two guest lectures this week on the impacts of data centers and related algorithmic challenges in [INFO 203: A Networked World](https://groups.cs.umass.edu/hajiesmaili/info-203-a-networked-world-fall-2022/), an undergraduate course at UMass.
 
   - **(March 27th, 2026)** Our <tt>SPADE</tt> paper on [signal-aware DAG scheduling and dynamic provisioning](https://arxiv.org/abs/2502.09717) was accepted to OSDI 2026!
@@ -181,8 +183,6 @@ about: >
   - **(October 27th, 2025)** I am at the INFORMS Annual Meeting in Atlanta, GA this week!  I'll be giving an invited talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2627) in the [Algorithms for Grid Integration of AI](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=1345) session.  See my slides [here](https://drive.google.com/file/d/1rbBkBUCwowlAGhMvxDA8RDkWHGF7MF8_/view?usp=sharing).
 
   - **(September 9th, 2025)** I am at the ACM SIGCOMM conference in Coimbra, Portugal this week!  I'll be presenting our short paper on [carbon- and precedence-aware scheduling for data processing](https://arxiv.org/abs/2502.09717) in the SIGCOMM Shorts session.
-
-  - **(July 2nd, 2025)** I am at the INFORMS APS conference at Georgia Tech this week!  I'll be giving an invited talk on [online optimization with switching costs and long-term constraints](https://arxiv.org/abs/2402.14012) in the Learning-Augmented Online Optimization session.
                 
 
 #-------------------------------
