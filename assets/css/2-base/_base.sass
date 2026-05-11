@@ -63,6 +63,28 @@ a:hover, a:focus
   color: darken($accent, 25%)
   border-bottom: 1px dotted
 
+.author-list
+  &:not(.author-list-ready)
+    .author + .author:before
+      content: ', '
+
+  .author-toggle
+    display: inline
+    color: inherit
+    background: none
+    border-bottom: 1px dashed
+    border-radius: 0
+    padding: 0
+    font: inherit
+    line-height: 1.1
+    cursor: pointer
+    -webkit-appearance: none
+    appearance: none
+
+    &:hover, &:focus
+      color: darken($accent, 25%)
+      outline: 0
+
 
 /* Selection colors (easy to forget)
   ------------------------------------	*/

@@ -9,6 +9,8 @@ title: 'News'
 
 #### 2026
 
+  - **(May 11th, 2026)** Excited to spend a summer at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) -- I'll be interning with the [Networking Research Group](https://www.microsoft.com/en-us/research/group/networking-research/).
+
   - **(April 28th, 2026)** Our papers on cost-effective incentives for rooftop solar and city-scale transformer-aware decarbonization were accepted to BuildSys 2026!
 
   - **(April 21st, 2026)** I am presenting two guest lectures this week on the impacts of data centers and related algorithmic challenges in [INFO 203: A Networked World](https://groups.cs.umass.edu/hajiesmaili/info-203-a-networked-world-fall-2022/), an undergraduate course at UMass.

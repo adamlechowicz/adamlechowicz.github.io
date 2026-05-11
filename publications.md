@@ -24,8 +24,8 @@ title: 'Selected Talks & Publications'
 
 #### 2026
 
-♠ **<tt>SPADE</tt>: Signal-Aware DAG Scheduling and Dynamic Provisioning for Data Processing Clusters**  <br/>
-Adam Lechowicz, Rohan Shenoy, Noman Bashir, Mohammad Hajiesmaili, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Adam Wierman, Christina Delimitrou' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+[♠ **<tt>SPADE</tt>: Signal-Aware DAG Scheduling and Dynamic Provisioning for Data Processing Clusters**](https://www.usenix.org/conference/osdi26/presentation/lechowicz)  <br/>
+<span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Rohan Shenoy</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam Wierman</span><span class="author">Christina Delimitrou</span></span><br/>
 OSDI 2026.  (*to appear*)
 
 <p class="lead" style="font-variant:small-caps">
@@ -46,7 +46,7 @@ ACM e-Energy 2026.  (*to appear*)
 </p>
 
 **The Price to Site: Cost-Effective Incentives for Solar Deployment**  <br/>
-Cooper Sigrist, Anupama Sitaraman, Alice Zhang, Adam Lechowicz, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Yuvraj Agarwal, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+<span class="author-list"><span class="author">Cooper Sigrist</span><span class="author">Anupama Sitaraman</span><span class="author">Alice Zhang</span><span class="author">Adam Lechowicz</span><span class="author">Yuvraj Agarwal</span><span class="author">Mohammad Hajiesmaili</span></span><br/>
 ACM BuildSys 2026.  (*to appear*)
 
 <p class="lead" style="font-variant:small-caps">
@@ -69,7 +69,7 @@ GreenSys 2026.  (*to appear*)
 #### 2025
 
 **[Multi-objective Evolutionary Learning for Near Pareto-Optimal Optimization of Solar Deployment](https://dl.acm.org/doi/10.1145/3736425.3770115)**  <br/>
-Cooper Sigrist, Archimedes Li, Pichsinee Lertsaroj, Ryan Boldi, Adam Lechowicz, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Noman Bashir, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+<span class="author-list"><span class="author">Cooper Sigrist</span><span class="author">Archimedes Li</span><span class="author">Pichsinee Lertsaroj</span><span class="author">Ryan Boldi</span><span class="author">Adam Lechowicz</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span></span><br/>
 ACM BuildSys 2025.  ([workshop version](https://dl.acm.org/doi/abs/10.1145/3764944.3764955))<br/>
 ***best paper candidate!***
 
@@ -77,28 +77,28 @@ ACM BuildSys 2025.  ([workshop version](https://dl.acm.org/doi/abs/10.1145/37649
 </p>
 
 [**Carbon- and Precedence-Aware Scheduling for Data Processing Clusters** *(SIGCOMM short)*](https://arxiv.org/abs/2502.09717)  <br/>
-Adam Lechowicz, Rohan Shenoy, Noman Bashir, Mohammad Hajiesmaili, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Adam Wierman, Christina Delimitrou' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+<span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Rohan Shenoy</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam Wierman</span><span class="author">Christina Delimitrou</span></span><br/>
 ACM SIGCOMM 2025. ([slides](https://drive.google.com/file/d/1TAjnf-x2OYngmTikVPHDe2KIWdkIxu83/view?usp=share_link))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 **[Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems](https://arxiv.org/abs/2406.18752)**  <br/>
-Mohammadreza Daneshvaramoli, Helia Karisani, Adam Lechowicz, Bo Sun, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Cameron Musco, Mohammad Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+<span class="author-list"><span class="author">Mohammadreza Daneshvaramoli</span><span class="author">Helia Karisani</span><span class="author">Adam Lechowicz</span><span class="author">Bo Sun</span><span class="author">Cameron Musco</span><span class="author">Mohammad Hajiesmaili</span></span><br/>
 ICML 2025. ([workshop version](https://learning-augmented-algorithms.github.io/papers/sigmetrics25-lata-final7.pdf))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 **[Dynamic Incentive Allocation for City-scale Deep Decarbonization](https://arxiv.org/abs/2502.08877)**  <br/>
-Anupama Sitaraman, Adam Lechowicz, Noman Bashir, Xutong Liu, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Mohammad Hajiesmaili, Prashant&nbsp;Shenoy' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+<span class="author-list"><span class="author">Anupama Sitaraman</span><span class="author">Adam Lechowicz</span><span class="author">Noman Bashir</span><span class="author">Xutong Liu</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Prashant&nbsp;Shenoy</span></span><br/>
 ACM JCSS, June 2025.
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 **[Learning-Augmented Competitive Algorithms for Spatiotemporal Online Allocation with Deadline Constraints](https://arxiv.org/abs/2408.07831)**  <br/>
-Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
+<span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Nicolas Christianson</span><span class="author">Bo Sun</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam&nbsp;Wierman</span><span class="author">Prashant Shenoy</span></span><br/>
 ACM SIGMETRICS 2025.  Also in ACM POMACS, Mar. 2025. ([slides](https://drive.google.com/file/d/1rwgPikw7zf-GVQyrfHOjLUwQ6Cy_wBGu/view?usp=share_link))
 
 <p class="lead" style="font-variant:small-caps">
@@ -121,35 +121,35 @@ ACM e-Energy 2025.
 #### 2024
 
 **[Data-driven Algorithm Selection for Carbon-Aware Scheduling](https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final23.pdf)**  <br/>
-Roozbeh Bostandoost, Walid A. Hanafy, Adam Lechowicz, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Prashant Shenoy, Mohammad&nbsp;Hajiesmaili' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+<span class="author-list"><span class="author">Roozbeh Bostandoost</span><span class="author">Walid A. Hanafy</span><span class="author">Adam Lechowicz</span><span class="author">Noman Bashir</span><span class="author">Prashant Shenoy</span><span class="author">Mohammad&nbsp;Hajiesmaili</span></span><br/>
 ACM SIGEnergy Energy Informatics Review, Dec. 2024.  Also in HotCarbon 2024.
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 **[Examining The Adoption of Electromobility Concepts Across Social Contexts for Energy Transition](https://dl.acm.org/doi/10.1145/3671127.3698185)**  <br/>
-Julia Köhlke, Adam Lechowicz, Oluwole Fabikun, Noman Bashir, Abel Souza, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Prashant Shenoy, Sebastian Lehnhoff' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+<span class="author-list"><span class="author">Julia Köhlke</span><span class="author">Adam Lechowicz</span><span class="author">Oluwole Fabikun</span><span class="author">Noman Bashir</span><span class="author">Abel Souza</span><span class="author">Prashant Shenoy</span><span class="author">Sebastian Lehnhoff</span></span><br/>
 ACM BuildSys 2024.
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 **[Chasing Convex Functions with Long-term Constraints](https://arxiv.org/abs/2402.14012)**  <br/>
-Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
+<span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Nicolas Christianson</span><span class="author">Bo Sun</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam&nbsp;Wierman</span><span class="author">Prashant Shenoy</span></span><br/>
 ICML 2024. ([workshop version](https://learning-augmented-algorithms.github.io/2024/papers/sigmetrics24-lata-posters-paper4.pdf))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 **[Online Conversion with Switching Costs: *Robust and Learning-Augmented Algorithms*](https://arxiv.org/abs/2310.20598)**  <br/>
-Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
+<span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Nicolas Christianson</span><span class="author">Bo Sun</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam&nbsp;Wierman</span><span class="author">Prashant Shenoy</span></span><br/>
 ACM SIGMETRICS / IFIP Performance 2024. ([slides](https://drive.google.com/file/d/1CeoBCoU6jmDcb4VxmHkO8C1E5Vrb2axJ/view?usp=share_link))
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 **[<tt>LACS</tt>: Learning-augmented Algorithms for Carbon-aware Resource Scaling with Uncertain Demand](https://arxiv.org/abs/2404.15211)**  <br/>
-Roozbeh Bostandoost, Adam Lechowicz, Walid A. Hanafy, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Mohammad Hajiesmaili, Prashant&nbsp;Shenoy' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> <br/>
+<span class="author-list"><span class="author">Roozbeh Bostandoost</span><span class="author">Adam Lechowicz</span><span class="author">Walid A. Hanafy</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Prashant&nbsp;Shenoy</span></span><br/>
 ACM e-Energy 2024.
 
 <p class="lead" style="font-variant:small-caps">
@@ -165,7 +165,7 @@ ICLR 2024. ([workshop version](https://learning-augmented-algorithms.github.io/p
 #### 2023
 
 **[The Online Pause and Resume Problem: <br/> *Optimal Algorithms and An Application to Carbon-aware Load Shifting*](https://arxiv.org/abs/2303.17551)**  <br/>
-Adam Lechowicz, Nicolas Christianson, Jinhang Zuo, Noman Bashir, <span class="more-authors" style="border-bottom: 1px dashed" title="" onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Mohammad Hajiesmaili, Adam&nbsp;Wierman, Prashant Shenoy' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> <br/>
+<span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Nicolas Christianson</span><span class="author">Jinhang Zuo</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam&nbsp;Wierman</span><span class="author">Prashant Shenoy</span></span><br/>
 ACM SIGMETRICS / IFIP Performance 2024.  Also in ACM POMACS, Dec. 2023. ([slides](https://drive.google.com/file/d/1YNAvyiGuE9KO5xxAm65xeRVJ6P3oeHdE/view?usp=share_link))
 
 <p class="lead" style="font-variant:small-caps">
