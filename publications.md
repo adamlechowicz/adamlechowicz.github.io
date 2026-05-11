@@ -46,7 +46,7 @@ ACM e-Energy 2026.  (*to appear*)
 </p>
 
 **The Price to Site: Cost-Effective Incentives for Solar Deployment**  <br/>
-<span class="author-list"><span class="author">Cooper Sigrist</span><span class="author">Anupama Sitaraman</span><span class="author">Alice Zhang</span><span class="author">Adam Lechowicz</span><span class="author">Yuvraj Agarwal</span><span class="author">Mohammad Hajiesmaili</span></span><br/>
+<span class="author-list"><span class="author">Cooper Sigrist</span><span class="author">Anupama Sitaraman</span><span class="author">Alice Zhang</span><span class="author">Adam Lechowicz</span><span class="author">Yuvraj Agarwal</span><span class="author">Mohammad&nbsp;Hajiesmaili</span></span><br/>
 ACM BuildSys 2026.  (*to appear*)
 
 <p class="lead" style="font-variant:small-caps">
@@ -97,16 +97,20 @@ ACM JCSS, June 2025.
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+<!-- homepage-publication:start -->
 **[Learning-Augmented Competitive Algorithms for Spatiotemporal Online Allocation with Deadline Constraints](https://arxiv.org/abs/2408.07831)**  <br/>
 <span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Nicolas Christianson</span><span class="author">Bo Sun</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam&nbsp;Wierman</span><span class="author">Prashant Shenoy</span></span><br/>
 ACM SIGMETRICS 2025.  Also in ACM POMACS, Mar. 2025. ([slides](https://drive.google.com/file/d/1rwgPikw7zf-GVQyrfHOjLUwQ6Cy_wBGu/view?usp=share_link))
+<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+<!-- homepage-publication:start -->
 **[Optimizing Individualized Incentives from Grid Measurements and Limited Knowledge of Agent Behavior](https://arxiv.org/abs/2410.14936)**  <br/>
 Adam Lechowicz, Joshua Comden, Andrey Bernstein<br/>
 ACM e-Energy 2025. ([slides](https://drive.google.com/file/d/1FLcjKg_hznVB1a3bguJgHzSLhIC4ZrDB/view?usp=share_link))
+<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -134,9 +138,11 @@ ACM BuildSys 2024.
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+<!-- homepage-publication:start -->
 **[Chasing Convex Functions with Long-term Constraints](https://arxiv.org/abs/2402.14012)**  <br/>
 <span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Nicolas Christianson</span><span class="author">Bo Sun</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam&nbsp;Wierman</span><span class="author">Prashant Shenoy</span></span><br/>
 ICML 2024. ([workshop version](https://learning-augmented-algorithms.github.io/2024/papers/sigmetrics24-lata-posters-paper4.pdf))
+<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -155,25 +161,31 @@ ACM e-Energy 2024.
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+<!-- homepage-publication:start -->
 **[Time Fairness in Online Knapsack Problems](https://arxiv.org/abs/2305.13293)**  <br/>
 Adam Lechowicz, Rik Sengupta, Bo Sun, Shahin Kamali, Mohammad Hajiesmaili <br/>
 ICLR 2024. ([workshop version](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper8.pdf))
+<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 #### 2023
 
+<!-- homepage-publication:start -->
 **[The Online Pause and Resume Problem: <br/> *Optimal Algorithms and An Application to Carbon-aware Load Shifting*](https://arxiv.org/abs/2303.17551)**  <br/>
 <span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Nicolas Christianson</span><span class="author">Jinhang Zuo</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam&nbsp;Wierman</span><span class="author">Prashant Shenoy</span></span><br/>
 ACM SIGMETRICS / IFIP Performance 2024.  Also in ACM POMACS, Dec. 2023. ([slides](https://drive.google.com/file/d/1YNAvyiGuE9KO5xxAm65xeRVJ6P3oeHdE/view?usp=share_link))
+<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+<!-- homepage-publication:start -->
 **[Equitable Network-aware Decarbonization of Residential Heating at City Scale](https://arxiv.org/abs/2301.04747)**  <br/>
 Adam Lechowicz, Noman Bashir, John Wamburu, Mohammad Hajiesmaili, Prashant Shenoy  <br/>
 ACM e-Energy 2023. ([slides](https://drive.google.com/file/d/15THywHT1sZXHZGaaIW3LfboftIIu1gnj/view?usp=sharing))
+<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>

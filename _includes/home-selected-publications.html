@@ -1,0 +1,19 @@
+{% assign publications_page = site.pages | where: "path", "publications.md" | first %}
+{% assign publication_blocks = publications_page.content | split: "<!-- homepage-publication:start -->" %}
+
+{% if publication_blocks.size > 1 %}
+<div style="display: flex;">
+<div>
+  <h4 id="selected-publications" style="margin-bottom:0.5em;">Selected Publications</h4>
+</div>
+<em style="margin-top: auto; margin-left: auto; margin-bottom: 0.85em; margin-right: 0.75em;"><a href="publications.html">full list →&nbsp;</a></em>
+</div>
+
+{% for block in publication_blocks offset:1 %}
+  {% assign selected_publication = block | split: "<!-- homepage-publication:end -->" | first | strip %}
+  {{ selected_publication | markdownify }}
+
+  <p class="lead" style="font-variant:small-caps">
+  </p>
+{% endfor %}
+{% endif %}

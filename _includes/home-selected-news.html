@@ -1,0 +1,27 @@
+{% assign news_page = site.pages | where: "path", "news.md" | first %}
+{% assign news_lines = news_page.content | split: "
+" %}
+
+{% capture selected_news_items %}
+{% for line in news_lines %}
+  {% if line contains "<!-- homepage-news -->" %}
+    {% assign selected_news_item = line | remove: "<!-- homepage-news -->" | strip | remove_first: "- " %}
+    <li>{{ selected_news_item | markdownify | remove: "<p>" | remove: "</p>" | strip }}</li>
+  {% endif %}
+{% endfor %}
+{% endcapture %}
+
+{% assign selected_news_items = selected_news_items | strip %}
+
+{% if selected_news_items != "" %}
+<div style="display: flex;">
+<div>
+  <h4 id="news" style="margin-bottom:0.5em;">Recent News</h4>
+</div>
+<em style="margin-top: auto; margin-left: auto; margin-bottom: 0.85em; margin-right: 0.75em;"><a href="news.html">more news →&nbsp;</a></em>
+</div>
+
+<ul>
+{{ selected_news_items }}
+</ul>
+{% endif %}
