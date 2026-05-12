@@ -43,7 +43,7 @@ disqus:
 
 # First sentence of bio — edit here to update both the main card tooltip and the bio paragraph.
 bio_intro: >-
-  I am a fourth-year Ph.D. candidate in the <a href="https://www.cics.umass.edu">Manning College of Information and Computer Sciences</a> at the University of Massachusetts Amherst, advised by <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a> and <a href="https://people.cs.umass.edu/~shenoy/index.html">Prashant Shenoy</a>.
+  I'm currently a Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">Microsoft Research Redmond</a> in the <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">Networking Research Group</a>, working with  <a href="https://www.microsoft.com/en-us/research/people/bearzani/projects/">Behnaz Arzani</a>, <a href="https://poorianamyar.github.io">Pooria Namyar</a>, and <a href="https://www.microsoft.com/en-us/research/people/kmellou/">Konstantina Mellou</a>.
 
 about: >
   
@@ -71,15 +71,21 @@ about: >
       <div class="campus-card-tooltip"><p>I completed my DOE CSGF practicum in Summer 2024 at the Power Systems Engineering Center of the <a href="https://nrel.gov">National Renewable Energy Laboratory</a> (currently National Laboratory of the Rockies), mentored by <a href="https://research-hub.nrel.gov/en/persons/joshua-comden/">Joshua Comden</a> and <a href="https://scholar.google.com/citations?user=oLPQszQAAAAJ&amp;hl=en">Andrey Bernstein</a>. I worked on optimizing incentives under human-driven uncertainties in power grids.</p></div>
     </div>
 
+    <div class="campus-card past-card" data-url="https://www.umass.edu" data-label="UMass →">
+      <div class="campus-card-bg" style="background-image: url('/assets/img/5x3.jpeg');"></div>
+      <div class="campus-card-overlay"><span>UMass <em>→</em></span></div>
+      <div class="campus-card-tooltip"><p>I am a fourth-year Ph.D. candidate in the <a href="https://www.cics.umass.edu">Manning College of Information and Computer Sciences</a> at the University of Massachusetts Amherst, advised by <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a> and <a href="https://people.cs.umass.edu/~shenoy/index.html">Prashant Shenoy</a>.</p></div>
+    </div>
+
     <div class="campus-past-btn" id="campus-past-btn"><span>past →</span></div>
 
-    <div class="campus-card main-card" id="campus-main-card" data-url="https://www.umass.edu">
-      <div class="campus-card-bg" style="background-image: url('/assets/img/5x3.jpg');"></div>
-      <div class="campus-card-overlay"><span>UMass <em>→</em></span></div>
+    <div class="campus-card main-card" id="campus-main-card" data-url="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">
+      <div class="campus-card-bg" style="background-image: url('/assets/img/5x3msr.jpeg');"></div>
+      <div class="campus-card-overlay"><span>MSR <em>→</em></span></div>
       <div class="campus-card-tooltip"><p>BIO_INTRO_PLACEHOLDER</p></div>
     </div>
   </div>
-  <img src="/assets/img/bio_photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.28);"/>
+  <img src="/assets/img/bio2_photo.jpeg" alt="Photo of Adam Lechowicz" style="width: 33%; border-radius: 25px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.28);"/>
   
   <p class="small" style="font-variant:small-caps">
   </p>
@@ -92,6 +98,8 @@ about: >
   </p>
 
   BIO_INTRO_PLACEHOLDER
+
+  I am also a fourth-year Ph.D. candidate in the <a href="https://www.cics.umass.edu">Manning College of Information and Computer Sciences</a> at the University of Massachusetts Amherst, advised by <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a> and <a href="https://people.cs.umass.edu/~shenoy/index.html">Prashant Shenoy</a>.
   
   <p class="small" style="font-variant:small-caps">
   </p>

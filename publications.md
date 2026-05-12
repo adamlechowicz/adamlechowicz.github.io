@@ -24,22 +24,33 @@ title: 'Selected Talks & Publications'
 
 #### 2026
 
+<!-- homepage-publication:start -->
 [♠ **<tt>SPADE</tt>: Signal-Aware DAG Scheduling and Dynamic Provisioning for Data Processing Clusters**](https://www.usenix.org/conference/osdi26/presentation/lechowicz)  <br/>
 <span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Rohan Shenoy</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam Wierman</span><span class="author">Christina Delimitrou</span></span><br/>
 OSDI 2026.  (*to appear*)
+<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
+<!-- homepage-publication:start -->
 [**Online Smoothed Demand Management**](https://arxiv.org/abs/2511.18554)  <br/>
 Adam Lechowicz, Nicolas Christianson, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy<br/>
 ACM SIGMETRICS 2026.  (*to appear*)
+<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 [**Signal-Aware Workload Shifting Algorithms with Uncertainty-Quantified Predictors**](https://arxiv.org/abs/2509.26511)  <br/>
 Ezra Johnson, Adam Lechowicz, Mohammad Hajiesmaili<br/>
+ACM e-Energy 2026.  (*to appear*)
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
+**Competitive and Learned Online Algorithms for HVAC Demand Management in Thermal Networks**  <br/>
+Adam Lechowicz, Nicolas Christianson, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy<br/>
 ACM e-Energy 2026.  (*to appear*)
 
 <p class="lead" style="font-variant:small-caps">
@@ -98,15 +109,6 @@ ACM JCSS, June 2025.
 </p>
 
 <!-- homepage-publication:start -->
-**[Learning-Augmented Competitive Algorithms for Spatiotemporal Online Allocation with Deadline Constraints](https://arxiv.org/abs/2408.07831)**  <br/>
-<span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Nicolas Christianson</span><span class="author">Bo Sun</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam&nbsp;Wierman</span><span class="author">Prashant Shenoy</span></span><br/>
-ACM SIGMETRICS 2025.  Also in ACM POMACS, Mar. 2025. ([slides](https://drive.google.com/file/d/1rwgPikw7zf-GVQyrfHOjLUwQ6Cy_wBGu/view?usp=share_link))
-<!-- homepage-publication:end -->
-
-<p class="lead" style="font-variant:small-caps">
-</p>
-
-<!-- homepage-publication:start -->
 **[Optimizing Individualized Incentives from Grid Measurements and Limited Knowledge of Agent Behavior](https://arxiv.org/abs/2410.14936)**  <br/>
 Adam Lechowicz, Joshua Comden, Andrey Bernstein<br/>
 ACM e-Energy 2025. ([slides](https://drive.google.com/file/d/1FLcjKg_hznVB1a3bguJgHzSLhIC4ZrDB/view?usp=share_link))
@@ -118,6 +120,15 @@ ACM e-Energy 2025. ([slides](https://drive.google.com/file/d/1FLcjKg_hznVB1a3bgu
 **[Lost in Siting: The Hidden Carbon Cost of Inequitable Residential Solar Installations](https://arxiv.org/abs/2501.13868)**  <br/>
 Cooper Sigrist, Adam Lechowicz, Jovan Champ, Noman Bashir, Mohammad Hajiesmaili<br/>
 ACM e-Energy 2025.
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
+<!-- homepage-publication:start -->
+**[Learning-Augmented Competitive Algorithms for Spatiotemporal Online Allocation with Deadline Constraints](https://arxiv.org/abs/2408.07831)**  <br/>
+<span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Nicolas Christianson</span><span class="author">Bo Sun</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam&nbsp;Wierman</span><span class="author">Prashant Shenoy</span></span><br/>
+ACM SIGMETRICS 2025.  Also in ACM POMACS, Mar. 2025. ([slides](https://drive.google.com/file/d/1rwgPikw7zf-GVQyrfHOjLUwQ6Cy_wBGu/view?usp=share_link))
+<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -138,11 +149,9 @@ ACM BuildSys 2024.
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-<!-- homepage-publication:start -->
 **[Chasing Convex Functions with Long-term Constraints](https://arxiv.org/abs/2402.14012)**  <br/>
 <span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Nicolas Christianson</span><span class="author">Bo Sun</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam&nbsp;Wierman</span><span class="author">Prashant Shenoy</span></span><br/>
 ICML 2024. ([workshop version](https://learning-augmented-algorithms.github.io/2024/papers/sigmetrics24-lata-posters-paper4.pdf))
-<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
@@ -161,11 +170,9 @@ ACM e-Energy 2024.
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-<!-- homepage-publication:start -->
 **[Time Fairness in Online Knapsack Problems](https://arxiv.org/abs/2305.13293)**  <br/>
 Adam Lechowicz, Rik Sengupta, Bo Sun, Shahin Kamali, Mohammad Hajiesmaili <br/>
 ICLR 2024. ([workshop version](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper8.pdf))
-<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
