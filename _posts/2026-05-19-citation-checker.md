@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Checking Citations Against Authoritative Sources in the AI Era"
-preamble: "For a couple of years now, I've been doing a yearly greenhouse gas (GHG) inventory to quantify my personal emissions.  In this post, I'll share some observations from my experience."
+preamble: "I built a Python tool that checks references in .bib or PDF files against authoritative databases and flags possible hallucinations or typos for further investigation."
 ---
 
 A few months ago, I was reviewing a paper when I came across something strange: the paper cited a well-known paper that I recognized (in terms of title, topic), but the first author’s surname was very much incorrect.
