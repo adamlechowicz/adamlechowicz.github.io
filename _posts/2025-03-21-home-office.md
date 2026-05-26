@@ -36,7 +36,7 @@ As a renter, my primary constraint is the limited set of mounting options at my 
 
 Fortunately, the exterior casing of the windows in my apartment includes permanent hooks above either side of the window, along with a loop at the bottom center -- based on the geometry of these mounting points, I used 550 paracord to hang and anchor the panel.  
 
-![Picture of the solar panel mounted using three mounting points on the exterior casing of a window.](https://adamlechowicz.github.io/assets/img/projects/solar-battery/window.heic)
+![Picture of the solar panel mounted using three mounting points on the exterior casing of a window.](https://adamlechowicz.github.io/assets/img/projects/solar-battery/window.jpeg)
 
 I found that the bottom anchor was important to keep the panel from "flapping" due to wind -- since adding the anchor, this mounting solution has survived several storms without any significant unwanted movement.  
 
@@ -46,7 +46,7 @@ The window that I mounted my panel to is a south-facing window that gets the bes
 
 Unfortunately, the window I mentioned above is not very close to my home office -- see the floor plan below.
 
-![Floor plan of the west end of my apartment with a diagram of my solar panel installation.](https://adamlechowicz.github.io/assets/img/projects/solar-battery/plan.heic)
+![Floor plan of the west end of my apartment with a diagram of my solar panel installation.](https://adamlechowicz.github.io/assets/img/projects/solar-battery/plan.jpeg)
 
 To address this, I purchased a [long 50 foot cable](https://www.amazon.com/dp/B0CLNTLJXQ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1) with solar connectors on one end and the XT60 plug the RIVER 2 is expecting on the other end.
 
@@ -59,7 +59,7 @@ Long cable runs such as this one can introduce enough resistance to hurt energy 
 Once I had the panel mounted and the cable routed almost into my office, I hooked up the RIVER 2 in a semi-permanent location next to my desk.  I connected my LG monitor directly to the AC output of the RIVER 2, relying on the monitor's passthrough power for my MacBook.
 I also connected the RIVER 2 to a regular power outlet for backup purposes, using software features (see the next section) to prevent it from pulling grid electricity unless needed.
 
-![Picture of my home office, showing my desk and adjacent area, where the RIVER 2 power station is plugged into both solar and AC inputs under a small table.](https://adamlechowicz.github.io/assets/img/projects/solar-battery/desk.heic)
+![Picture of my home office, showing my desk and adjacent area, where the RIVER 2 power station is plugged into both solar and AC inputs under a small table.](https://adamlechowicz.github.io/assets/img/projects/solar-battery/desk.jpeg)
 
 ## Software Configuration and Observations
 
