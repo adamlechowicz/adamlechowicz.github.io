@@ -9,6 +9,8 @@ title: 'News'
 
 #### 2026
 
+  - **(June 8th, 2026)** I am at the ACM SIGMETRICS conference at the University of Michigan this week!  I'll be presenting our paper on [online smoothed demand management](https://arxiv.org/abs/2511.18554) in the Learning-Augmented and Sequential Learning session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. <!-- homepage-news -->
+
   - **(May 11th, 2026)** Excited to spend a summer at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) -- I'll be interning with the [Networking Research Group](https://www.microsoft.com/en-us/research/group/networking-research/). <!-- homepage-news -->
 
   - **(April 28th, 2026)** Our papers on cost-effective incentives for rooftop solar and city-scale transformer-aware decarbonization were accepted to BuildSys 2026! <!-- homepage-news -->
@@ -26,8 +28,6 @@ title: 'News'
   - **(February 6th, 2026)** I released [GlassTerm](https://github.com/adamlechowicz/GlassTerm), my personal terminal app for macOS.
 
 #### 2025
-
-  - **(December 12th, 2025)** Our paper on [online smoothed demand management](https://arxiv.org/abs/2511.18554) was accepted to SIGMETRICS 2026! <!-- homepage-news -->
 
   - **(November 20th, 2025)** We have a paper at ACM BuildSys 2025 (***best paper candidate!***) on [evolutionary learning for solar deployment optimization](https://dl.acm.org/doi/10.1145/3736425.3770115). <!-- homepage-news -->
 

@@ -36,7 +36,7 @@ OSDI 2026.  (*to appear*)
 <!-- homepage-publication:start -->
 [**Online Smoothed Demand Management**](https://arxiv.org/abs/2511.18554)  <br/>
 Adam Lechowicz, Nicolas Christianson, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy<br/>
-ACM SIGMETRICS 2026.  (*to appear*)
+ACM SIGMETRICS 2026.
 <!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
