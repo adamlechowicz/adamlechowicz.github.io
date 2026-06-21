@@ -65,10 +65,10 @@ about: >
       <div class="campus-card-tooltip"><p>In Summer 2023, I was a visiting researcher at <a href="https://www.caltech.edu">Caltech</a> in Computing and Mathematical Sciences, advised by <a href="https://adamwierman.com">Adam Wierman</a>. I worked on algorithms to solve online optimization problems that arise in sustainable computing, such as <a href="https://dl.acm.org/doi/10.1145/3626776">carbon-aware load shifting</a>.</p></div>
     </div>
 
-    <div class="campus-card past-card" data-url="https://www.nrel.gov" data-label="NREL →">
+    <div class="campus-card past-card" data-url="https://www.nlr.gov" data-label="NREL →">
       <div class="campus-card-bg" style="background-image: url('/assets/img/5x3nrel.jpeg');"></div>
       <div class="campus-card-overlay"><span>NREL <em>→</em></span></div>
-      <div class="campus-card-tooltip"><p>I completed my DOE CSGF practicum in Summer 2024 at the Power Systems Engineering Center of the <a href="https://nrel.gov">National Renewable Energy Laboratory</a> (currently National Laboratory of the Rockies), mentored by <a href="https://research-hub.nrel.gov/en/persons/joshua-comden/">Joshua Comden</a> and <a href="https://scholar.google.com/citations?user=oLPQszQAAAAJ&amp;hl=en">Andrey Bernstein</a>. I worked on optimizing incentives under human-driven uncertainties in power grids.</p></div>
+      <div class="campus-card-tooltip"><p>I completed my DOE CSGF practicum in Summer 2024 at the Power Systems Engineering Center of the <a href="https://nlr.gov">National Renewable Energy Laboratory</a> (currently National Laboratory of the Rockies), mentored by <a href="https://research-hub.nlr.gov/en/persons/joshua-comden/">Joshua Comden</a> and <a href="https://scholar.google.com/citations?user=oLPQszQAAAAJ&amp;hl=en">Andrey Bernstein</a>. I worked on optimizing incentives under human-driven uncertainties in power grids.</p></div>
     </div>
 
     <div class="campus-card past-card" data-url="https://www.umass.edu" data-label="UMass →">
@@ -109,7 +109,7 @@ about: >
   <p class="small" style="font-variant:small-caps">
   </p>
 
-  In Summer 2024, I worked with [Joshua Comden](https://research-hub.nrel.gov/en/persons/joshua-comden) at the [National Renewable Energy Laboratory](https://www.nrel.gov) (currently National Laboratory of the Rockies) on incentives and human-driven uncertainties in energy systems.  
+  In Summer 2024, I worked with [Joshua Comden](https://research-hub.nlr.gov/en/persons/joshua-comden) at the [National Renewable Energy Laboratory](https://www.nlr.gov) (currently National Laboratory of the Rockies) on incentives and human-driven uncertainties in energy systems.  
   Before my Ph.D., I completed my undergraduate thesis with [Cameron Musco](https://people.cs.umass.edu/~cmusco/), studying polarization in social networks.
 
   <p class="small" style="font-variant:small-caps">
