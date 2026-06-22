@@ -44,35 +44,35 @@ ACM SIGMETRICS 2026.
 
 [**Signal-Aware Workload Shifting Algorithms with Uncertainty-Quantified Predictors**](https://arxiv.org/abs/2509.26511)  <br/>
 Ezra Johnson, Adam Lechowicz, Mohammad Hajiesmaili<br/>
-ACM e-Energy 2026.  (*to appear*)
+ACM e-Energy 2026. 
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-**Competitive and Learned Online Algorithms for HVAC Demand Management in Thermal Networks**  <br/>
+[**Competitive and Learned Online Algorithms for HVAC Demand Management in Thermal Networks**](https://dl.acm.org/doi/10.1145/3744255.3811734)  <br/>
 Adam Lechowicz, Nicolas Christianson, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy<br/>
-ACM e-Energy 2026.  (*to appear*)
+ACM e-Energy 2026.  
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-**The Price to Site: Cost-Effective Incentives for Solar Deployment**  <br/>
+[**The Price to Site: Cost-Effective Incentives for Solar Deployment**](https://dl.acm.org/doi/10.1145/3744256.3812576)  <br/>
 <span class="author-list"><span class="author">Cooper Sigrist</span><span class="author">Anupama Sitaraman</span><span class="author">Alice Zhang</span><span class="author">Adam Lechowicz</span><span class="author">Yuvraj Agarwal</span><span class="author">Mohammad&nbsp;Hajiesmaili</span></span><br/>
-ACM BuildSys 2026.  (*to appear*)
+ACM BuildSys 2026.  
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-**City-Scale Decarbonization of Residential Heating Under Transformer Constraints**  <br/>
+[**City-Scale Decarbonization of Residential Heating Under Transformer Constraints**](https://dl.acm.org/doi/10.1145/3744256.3812563)  <br/>
 Fabian Mkocheko, Walid A. Hanafy, Adam Lechowicz, David Irwin, Prashant Shenoy<br/>
-ACM BuildSys 2026.  (*to appear*)
+ACM BuildSys 2026.  
 
 <p class="lead" style="font-variant:small-caps">
 </p>
 
 **[Quantifying the Carbon Reduction of DAG Workloads: A Job Shop Scheduling Perspective](https://arxiv.org/abs/2512.07799)**  <br/>
 Roozbeh Bostandoost, Adam Lechowicz, Walid A. Hanafy, Prashant Shenoy, Mohammad Hajiesmaili<br/>
-GreenSys 2026.  (*to appear*)
+GreenSys 2026. 
 
 <p class="lead" style="font-variant:small-caps">
 </p>
