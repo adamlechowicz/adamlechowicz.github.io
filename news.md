@@ -9,11 +9,13 @@ title: 'News'
 
 #### 2026
 
+  - **(June 23rd, 2026)** We have two papers on [HVAC demand manangement in thermal networks](https://dl.acm.org/doi/10.1145/3744255.3811734) and [signal-aware workload shifting](https://arxiv.org/abs/2509.26511) at ACM e-Energy 2026 in Banff, Alberta this week.  <!-- homepage-news -->
+
+  - **(June 22nd, 2026)** We have two papers on [cost-effective incentives for rooftop solar](https://dl.acm.org/doi/10.1145/3744256.3812576) and [city-scale transformer-aware decarbonization](https://dl.acm.org/doi/10.1145/3744256.3812563) at ACM BuildSys 2026.  <!-- homepage-news -->
+
   - **(June 8th, 2026)** I am at the ACM SIGMETRICS conference at the University of Michigan this week!  I'll be presenting our paper on [online smoothed demand management](https://arxiv.org/abs/2511.18554) in the Learning-Augmented and Sequential Learning session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. <!-- homepage-news -->
 
   - **(May 11th, 2026)** Excited to spend a summer at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) -- I'll be interning with the [Networking Research Group](https://www.microsoft.com/en-us/research/group/networking-research/). <!-- homepage-news -->
-
-  - **(April 28th, 2026)** Our papers on cost-effective incentives for rooftop solar and city-scale transformer-aware decarbonization were accepted to BuildSys 2026! <!-- homepage-news -->
 
   - **(April 21st, 2026)** I am presenting two guest lectures this week on the impacts of data centers and related algorithmic challenges in [INFO 203: A Networked World](https://groups.cs.umass.edu/hajiesmaili/info-203-a-networked-world-fall-2022/), an undergraduate course at UMass. <!-- homepage-news -->
 
@@ -29,11 +31,9 @@ title: 'News'
 
 #### 2025
 
-  - **(November 20th, 2025)** We have a paper at ACM BuildSys 2025 (***best paper candidate!***) on [evolutionary learning for solar deployment optimization](https://dl.acm.org/doi/10.1145/3736425.3770115). <!-- homepage-news -->
+  - **(November 20th, 2025)** We have a paper at ACM BuildSys 2025 (***best paper candidate!***) on [evolutionary learning for solar deployment optimization](https://dl.acm.org/doi/10.1145/3736425.3770115).
 
-  - **(November 5th, 2025)** Our paper on [signal-aware workload shifting](https://arxiv.org/abs/2509.26511) was accepted to e-Energy 2026! <!-- homepage-news -->
-
-  - **(October 27th, 2025)** I am at the INFORMS Annual Meeting in Atlanta, GA this week!  I'll be giving an invited talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2627) in the [Algorithms for Grid Integration of AI](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=1345) session. See my slides [here](https://drive.google.com/file/d/1rbBkBUCwowlAGhMvxDA8RDkWHGF7MF8_/view?usp=sharing). <!-- homepage-news -->
+  - **(October 27th, 2025)** I am at the INFORMS Annual Meeting in Atlanta, GA this week!  I'll be giving an invited talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2627) in the [Algorithms for Grid Integration of AI](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=1345) session. See my slides [here](https://drive.google.com/file/d/1rbBkBUCwowlAGhMvxDA8RDkWHGF7MF8_/view?usp=sharing).
 
   - **(September 9th, 2025)** I am at the ACM SIGCOMM conference in Coimbra, Portugal this week!  I'll be presenting our short paper on [carbon- and precedence-aware scheduling for data processing](https://arxiv.org/abs/2502.09717) in the SIGCOMM Shorts session.
 
