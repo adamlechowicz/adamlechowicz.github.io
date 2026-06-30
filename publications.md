@@ -7,7 +7,7 @@ title: 'Selected Talks & Publications'
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
       <!-- Shorter Talk -->
       <div style="text-align: center; width: 49%;">
-          <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">ACM SIGMETRICS quick recording on Online Conversion with Switching Costs, June 2024</div>
+          <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">ACM SIGMETRICS quick recording on Online Smoothed Demand Management, June 2026</div>
           <iframe width="100%" height="auto" src="https://www.youtube.com/embed/5fgzzT2n9SE?si=_6SUK5VaTRva7C7B" title="ACM SIGMETRICS quick recording on Online Smoothed Demand Management, June 2026" frameborder="0" style="aspect-ratio: 16/9;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
       </div>
       <!-- Longer Talk -->
