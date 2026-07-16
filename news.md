@@ -9,6 +9,8 @@ title: 'News'
 
 #### 2026
 
+  - **(July 15, 2026)** I am at OSDI 2026 in Seattle, WA this week!  I'll be presenting our <tt>SPADE</tt> paper on [signal-aware DAG scheduling and dynamic provisioning](https://arxiv.org/abs/2502.09717) in the Power, Energy, Sustainability session! <!-- homepage-news -->
+
   - **(June 23rd, 2026)** We have two papers on [HVAC demand manangement in thermal networks](https://dl.acm.org/doi/10.1145/3744255.3811734) and [signal-aware workload shifting](https://arxiv.org/abs/2509.26511) at ACM e-Energy 2026 in Banff, Alberta this week.  <!-- homepage-news -->
 
   - **(June 22nd, 2026)** We have two papers on [cost-effective incentives for rooftop solar](https://dl.acm.org/doi/10.1145/3744256.3812576) and [city-scale transformer-aware decarbonization](https://dl.acm.org/doi/10.1145/3744256.3812563) at ACM BuildSys 2026.  <!-- homepage-news -->

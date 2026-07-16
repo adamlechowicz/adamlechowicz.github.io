@@ -27,7 +27,7 @@ title: 'Selected Talks & Publications'
 <!-- homepage-publication:start -->
 [♠ **<tt>SPADE</tt>: Signal-Aware DAG Scheduling and Dynamic Provisioning for Data Processing Clusters**](https://www.usenix.org/conference/osdi26/presentation/lechowicz)  <br/>
 <span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Rohan Shenoy</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam Wierman</span><span class="author">Christina Delimitrou</span></span><br/>
-OSDI 2026.  (*to appear*)
+OSDI 2026. 
 <!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
