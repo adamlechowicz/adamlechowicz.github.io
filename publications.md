@@ -20,6 +20,19 @@ title: 'Selected Talks & Publications'
 
 <hr/>
 
+<div class="profile-links">
+  <a class="profile-link" href="https://scholar.google.com/citations?user=fZ2-jm0AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener" aria-label="Google Scholar profile">
+    <i class="fa-brands fa-google-scholar" aria-hidden="true"></i>
+    <span class="profile-link-label">Google Scholar</span>
+    <span class="profile-link-arrow">&rarr;</span>
+  </a>
+  <a class="profile-link" href="https://dblp.org/pid/307/5199.html" target="_blank" rel="noopener" aria-label="DBLP bibliography">
+    <i class="fa-solid fa-list-ul" aria-hidden="true"></i>
+    <span class="profile-link-label">DBLP</span>
+    <span class="profile-link-arrow">&rarr;</span>
+  </a>
+</div>
+
 **Full list of publications in reverse chronological order.  *(α-β)* denotes alphabetical author list.**
 
 #### 2026
@@ -79,10 +92,12 @@ GreenSys 2026.
 
 #### 2025
 
+<!-- homepage-publication:start -->
 **[Multi-objective Evolutionary Learning for Near Pareto-Optimal Optimization of Solar Deployment](https://dl.acm.org/doi/10.1145/3736425.3770115)**  <br/>
 <span class="author-list"><span class="author">Cooper Sigrist</span><span class="author">Archimedes Li</span><span class="author">Pichsinee Lertsaroj</span><span class="author">Ryan Boldi</span><span class="author">Adam Lechowicz</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span></span><br/>
 ACM BuildSys 2025.  ([workshop version](https://dl.acm.org/doi/abs/10.1145/3764944.3764955))<br/>
 ***best paper candidate!***
+<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>

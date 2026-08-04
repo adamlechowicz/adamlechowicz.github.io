@@ -32,6 +32,8 @@ _site/
 
 ### Gemfile ###
 Gemfile.lock
+.bundle/
+vendor/
 
 # AGENTS
 AGENTS.md

@@ -43,12 +43,17 @@ disqus:
 
 # First sentence of bio — edit here to update both the main card tooltip and the bio paragraph.
 bio_intro: >-
-  I'm currently a Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">Microsoft Research Redmond</a> in the <a href="https://www.microsoft.com/en-us/research/group/networking-research/">Networking Research Group</a>, working with  <a href="https://www.microsoft.com/en-us/research/people/bearzani/projects/">Behnaz Arzani</a>, <a href="https://poorianamyar.github.io">Pooria Namyar</a>, and <a href="https://www.microsoft.com/en-us/research/people/kmellou/">Konstantina Mellou</a>.
+  I'm currently a Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">Microsoft Research Redmond</a> in the <a href="https://www.microsoft.com/en-us/research/research-area/systems-and-networking/">Systems and Networking Group</a>, working with  <a href="https://www.microsoft.com/en-us/research/people/bearzani/projects/">Behnaz Arzani</a>, <a href="https://poorianamyar.github.io">Pooria Namyar</a>, and <a href="https://www.microsoft.com/en-us/research/people/kmellou/">Konstantina Mellou</a>.
 
 about: >
   
   <p class="lead" style="font-variant:small-caps">
   </p>
+  
+  <div class="job-market-banner">
+    <p><i>I am on the academic job market this year and looking forward to finding the right fit!<br>
+    Please get in touch at <a href="mailto:alechowicz@umass.edu">alechowicz@umass.edu</a>.</i></p>
+  </div>
   
   <div class="campus-stack-wrapper" id="campus-stack-wrapper">
     <div class="campus-stack-sizer"></div>
@@ -96,15 +101,15 @@ about: >
   
   <p class="small" style="font-variant:small-caps">
   </p>
+  
+  I work at the intersection of theory and systems, with an emphasis on emerging problems in energy and sustainability.  From a theoretical perspective, I am interested in decision-making under uncertainty, particularly using the learning-augmented algorithms framework, which combines the provable guarantees of traditional algorithm design with AI-driven performance.  On the application side, I am interested in novel system designs that increase the flexibility, efficiency, and sustainability of energy systems or computing infrastructure. 
+
+  <p class="small" style="font-variant:small-caps">
+  </p>
 
   BIO_INTRO_PLACEHOLDER
 
-  I am also a fourth-year Ph.D. candidate in the <a href="https://www.cics.umass.edu">Manning College of Information and Computer Sciences</a> at the University of Massachusetts Amherst, advised by <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a> and <a href="https://people.cs.umass.edu/~shenoy/index.html">Prashant Shenoy</a>.
-  
-  <p class="small" style="font-variant:small-caps">
-  </p>
-  
-  I work at the intersection of theory and systems, with an emphasis on emerging problems in energy and sustainability.  From a theoretical perspective, I am interested in decision-making under uncertainty, particularly using the learning-augmented algorithms framework, which combines the provable guarantees of traditional algorithm design with AI-driven performance.  On the application side, I am interested in novel system designs that increase the flexibility, efficiency, and sustainability of energy systems or computing infrastructure. My work is supported by a [U.S. Department of Energy Computational Science Graduate Fellowship (CSGF)](https://www.krellinst.org/csgf/about-doe-csgf).
+  I am also a fourth-year Ph.D. candidate in the <a href="https://www.cics.umass.edu">Manning College of Information and Computer Sciences</a> at the University of Massachusetts Amherst, advised by <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a> and <a href="https://people.cs.umass.edu/~shenoy/index.html">Prashant Shenoy</a>.  My work is supported by a [U.S. Department of Energy Computational Science Graduate Fellowship (CSGF)](https://www.krellinst.org/csgf/about-doe-csgf).
 
   <p class="small" style="font-variant:small-caps">
   </p>
@@ -117,7 +122,7 @@ about: >
   
   <!-- <p style="margin-bottom: 5px !important;">Through my research, I strive to advance ideals of social, racial, economic, and environmental justice.</p> -->
   
-  email: alechowicz [at] umass [dot] edu
+  email: <a href="mailto:alechowicz@umass.edu">alechowicz@umass.edu</a>
 
 #-------------------------------
 # Work Section
