@@ -12,7 +12,7 @@ title: 'Selected Talks & Publications'
       </div>
       <!-- Longer Talk -->
       <div style="text-align: center; width: 49%;">
-          <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">ACM WSDM talk on "Local Edge Dynamics and Opinion Polarization", February 2023</div>
+          <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">ACM WSDM talk on Local Edge Dynamics and Opinion Polarization, February 2023</div>
           <iframe width="100%" height="auto" src="https://www.youtube.com/embed/nGhN00sH-dE?si=Q78M4hIuEA7d9t2h" title="ACM WSDM talk on Local Edge Dynamics and Opinion Polarization, February 2023" frameborder="0" style="aspect-ratio: 16/9;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
       </div>
   </div>
