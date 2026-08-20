@@ -43,7 +43,7 @@ disqus:
 
 # First sentence of bio — edit here to update both the main card tooltip and the bio paragraph.
 bio_intro: >-
-  I'm currently a Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">Microsoft Research Redmond</a> in the <a href="https://www.microsoft.com/en-us/research/research-area/systems-and-networking/">Systems and Networking Group</a>, working with  <a href="https://www.microsoft.com/en-us/research/people/bearzani/projects/">Behnaz Arzani</a>, <a href="https://poorianamyar.github.io">Pooria Namyar</a>, and <a href="https://www.microsoft.com/en-us/research/people/kmellou/">Konstantina Mellou</a>.
+  I am a final-year Ph.D. candidate in the <a href="https://www.cics.umass.edu">Manning College of Information and Computer Sciences</a> at the University of Massachusetts Amherst, advised by <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a> and <a href="https://people.cs.umass.edu/~shenoy/index.html">Prashant Shenoy</a>.  I am supported by a [U.S. Department of Energy Computational Science Graduate Fellowship (CSGF)](https://www.krellinst.org/csgf/about-doe-csgf).
 
 about: >
   
@@ -76,17 +76,17 @@ about: >
       <div class="campus-card-tooltip"><p>I completed my DOE CSGF practicum in Summer 2024 at the Power Systems Engineering Center of the <a href="https://nlr.gov">National Renewable Energy Laboratory</a> (currently National Laboratory of the Rockies), mentored by <a href="https://research-hub.nlr.gov/en/persons/joshua-comden/">Joshua Comden</a> and <a href="https://scholar.google.com/citations?user=oLPQszQAAAAJ&amp;hl=en">Andrey Bernstein</a>. I worked on optimizing incentives under human-driven uncertainties in power grids.</p></div>
     </div>
 
-    <div class="campus-card past-card" data-url="https://www.umass.edu" data-label="UMass →">
-      <div class="campus-card-bg" style="background-image: url('/assets/img/5x3.jpeg');"></div>
-      <div class="campus-card-overlay"><span>UMass <em>→</em></span></div>
-      <div class="campus-card-tooltip"><p>I am a fourth-year Ph.D. candidate in the <a href="https://www.cics.umass.edu">Manning College of Information and Computer Sciences</a> at the University of Massachusetts Amherst, advised by <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a> and <a href="https://people.cs.umass.edu/~shenoy/index.html">Prashant Shenoy</a>.</p></div>
+    <div class="campus-card past-card" data-url="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/" data-label="MSR →">
+      <div class="campus-card-bg" style="background-image: url('/assets/img/5x3msr.jpeg');"></div>
+      <div class="campus-card-overlay"><span>MSR <em>→</em></span></div>
+      <div class="campus-card-tooltip"><p>In Summer 2026, I was a Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">Microsoft Research Redmond</a> in the <a href="https://www.microsoft.com/en-us/research/research-area/systems-and-networking/">Systems and Networking Group</a>, working with  <a href="https://www.microsoft.com/en-us/research/people/bearzani/projects/">Behnaz Arzani</a>, <a href="https://poorianamyar.github.io">Pooria Namyar</a>, and <a href="https://www.microsoft.com/en-us/research/people/kmellou/">Konstantina Mellou</a>.</p></div>
     </div>
 
     <div class="campus-past-btn" id="campus-past-btn"><span>past →</span></div>
 
-    <div class="campus-card main-card" id="campus-main-card" data-url="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">
-      <div class="campus-card-bg" style="background-image: url('/assets/img/5x3msr.jpeg');"></div>
-      <div class="campus-card-overlay"><span>MSR <em>→</em></span></div>
+    <div class="campus-card main-card" id="campus-main-card" data-url="https://www.umass.edu">
+      <div class="campus-card-bg" style="background-image: url('/assets/img/5x3.jpeg');"></div>
+      <div class="campus-card-overlay"><span>UMass <em>→</em></span></div>
       <div class="campus-card-tooltip"><p>BIO_INTRO_PLACEHOLDER</p></div>
     </div>
   </div>
@@ -109,11 +109,10 @@ about: >
 
   BIO_INTRO_PLACEHOLDER
 
-  I am also a fourth-year Ph.D. candidate in the <a href="https://www.cics.umass.edu">Manning College of Information and Computer Sciences</a> at the University of Massachusetts Amherst, advised by <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a> and <a href="https://people.cs.umass.edu/~shenoy/index.html">Prashant Shenoy</a>.  My work is supported by a [U.S. Department of Energy Computational Science Graduate Fellowship (CSGF)](https://www.krellinst.org/csgf/about-doe-csgf).
-
   <p class="small" style="font-variant:small-caps">
   </p>
 
+  In Summer 2026, I was a Research Intern at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) in the [Systems and Networking Group](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/), working with  [Behnaz Arzani](https://www.microsoft.com/en-us/research/people/bearzani/projects/), [Pooria Namyar](https://poorianamyar.github.io), and [Konstantina Mellou](https://www.microsoft.com/en-us/research/people/kmellou/) on capacity planning in Azure.
   In Summer 2024, I worked with [Joshua Comden](https://research-hub.nlr.gov/en/persons/joshua-comden) at the [National Renewable Energy Laboratory](https://www.nlr.gov) (currently National Laboratory of the Rockies) on incentives and human-driven uncertainties in energy systems.  
   Before my Ph.D., I completed my undergraduate thesis with [Cameron Musco](https://people.cs.umass.edu/~cmusco/), studying polarization in social networks.
 

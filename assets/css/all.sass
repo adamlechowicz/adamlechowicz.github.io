@@ -8,9 +8,10 @@ $projects: {% for project in site.data.settings.projects %} "{{ project.folder }
 //------------------------------------------------
 // Set some colors as sass variables
 
-$accent-color: #699900
-// $accent-color: #881c1c
+$accent-color: #840028
+// $accent-color: #699900
 // $accent-color: #0079C2
+// $accent-color: #881c1c
 $accent: {{ site.data.layout.accent }}
 $accent-light: adjust-hue(saturate(lighten($accent, 11%), 12.6%), 14%)
 $selectionColor: darken($accent, 25%)
