@@ -37,6 +37,13 @@ title: 'Selected Talks & Publications'
 
 #### 2026
 
+**Online Joint Pricing and Scheduling in Distributed Networked Platforms** <br/>
+Mahsa Sahebdel, Ali Zeynali, Adam Lechowicz, Bo Sun, Mohammad Hajiesmaili<br/>
+ACM MobiHoc 2026 (*to appear*).
+
+<p class="lead" style="font-variant:small-caps">
+</p>
+
 <!-- homepage-publication:start -->
 [♠ **<tt>SPADE</tt>: Signal-Aware DAG Scheduling and Dynamic Provisioning for Data Processing Clusters**](https://www.usenix.org/conference/osdi26/presentation/lechowicz)  <br/>
 <span class="author-list"><span class="author">Adam Lechowicz</span><span class="author">Rohan Shenoy</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span><span class="author">Adam Wierman</span><span class="author">Christina Delimitrou</span></span><br/>

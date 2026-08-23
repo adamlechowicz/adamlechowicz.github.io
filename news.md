@@ -5,104 +5,104 @@ title: 'News'
 
 <!-- #### Upcoming Talks
 
-  - **(March 26th, 2026)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.   -->
+  - **(March 26, 2026)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.   -->
 
 #### 2026
 
+  - **(August 23, 2026)** Our paper on online joint pricing and scheduling in distributed networked platforms was accepted to MobiHoc 2026! <!-- homepage-news -->
+
   - **(July 15, 2026)** I am at OSDI 2026 in Seattle, WA this week!  I'll be presenting our <tt>SPADE</tt> paper on [signal-aware DAG scheduling and dynamic provisioning](https://arxiv.org/abs/2502.09717) in the Power, Energy, Sustainability session! <!-- homepage-news -->
 
-  - **(June 23rd, 2026)** We have two papers on [HVAC demand manangement in thermal networks](https://dl.acm.org/doi/10.1145/3744255.3811734) and [signal-aware workload shifting](https://arxiv.org/abs/2509.26511) at ACM e-Energy 2026 in Banff, Alberta this week.  <!-- homepage-news -->
+  - **(June 23, 2026)** We have two papers on [HVAC demand manangement in thermal networks](https://dl.acm.org/doi/10.1145/3744255.3811734) and [signal-aware workload shifting](https://arxiv.org/abs/2509.26511) at ACM e-Energy 2026 in Banff, Alberta this week.  <!-- homepage-news -->
 
-  - **(June 22nd, 2026)** We have two papers on [cost-effective incentives for rooftop solar](https://dl.acm.org/doi/10.1145/3744256.3812576) and [city-scale transformer-aware decarbonization](https://dl.acm.org/doi/10.1145/3744256.3812563) at ACM BuildSys 2026.  <!-- homepage-news -->
+  - **(June 22, 2026)** We have two papers on [cost-effective incentives for rooftop solar](https://dl.acm.org/doi/10.1145/3744256.3812576) and [city-scale transformer-aware decarbonization](https://dl.acm.org/doi/10.1145/3744256.3812563) at ACM BuildSys 2026.  <!-- homepage-news -->
 
-  - **(June 8th, 2026)** I am at the ACM SIGMETRICS conference at the University of Michigan this week!  I'll be presenting our paper on [online smoothed demand management](https://arxiv.org/abs/2511.18554) in the Learning-Augmented and Sequential Learning session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. <!-- homepage-news -->
+  - **(June 8, 2026)** I am at the ACM SIGMETRICS conference at the University of Michigan this week!  I'll be presenting our paper on [online smoothed demand management](https://arxiv.org/abs/2511.18554) in the Learning-Augmented and Sequential Learning session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. <!-- homepage-news -->
 
-  - **(May 11th, 2026)** Excited to spend a summer at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) -- I'll be interning with the [Systems and Networking Group](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/). <!-- homepage-news -->
+  - **(May 11, 2026)** Excited to spend a summer at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) -- I'll be interning with the [Systems and Networking Group](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/). <!-- homepage-news -->
 
-  - **(April 21st, 2026)** I am presenting two guest lectures this week on the impacts of data centers and related algorithmic challenges in [INFO 203: A Networked World](https://groups.cs.umass.edu/hajiesmaili/info-203-a-networked-world-fall-2022/), an undergraduate course at UMass. <!-- homepage-news -->
+  - **(April 21, 2026)** I am presenting two guest lectures this week on the impacts of data centers and related algorithmic challenges in [INFO 203: A Networked World](https://groups.cs.umass.edu/hajiesmaili/info-203-a-networked-world-fall-2022/), an undergraduate course at UMass. <!-- homepage-news -->
 
-  - **(April 14th, 2026)** Congratulations to [Rohan Shenoy](https://scholar.google.com/citations?user=oHxrOoUAAAAJ&hl=en) for receiving a NSF Graduate Research Fellowship to support his Ph.D. studies!
+  - **(April 14, 2026)** Congratulations to [Rohan Shenoy](https://scholar.google.com/citations?user=oHxrOoUAAAAJ&hl=en) for receiving a NSF Graduate Research Fellowship to support his Ph.D. studies!
 
-  - **(March 27th, 2026)** Our <tt>SPADE</tt> paper on [signal-aware DAG scheduling and dynamic provisioning](https://arxiv.org/abs/2502.09717) was accepted to OSDI 2026! <!-- homepage-news -->
+  - **(March 26, 2026)** I gave a talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://cadmy.yale.edu/events/2026-03-26-csorecon-theory-lunch-adam-lechowicz-umass-amherst) at the Yale CS / OR / Econ theory lunch.  Thank you [CADMY](https://cadmy.yale.edu) for the invitation!  See my slides [here](https://drive.google.com/file/d/1OyF4oUQ7PolJkcbgpoy2SjHx9HJbdryt/view?usp=sharing). <!-- homepage-news -->
 
-  - **(March 26th, 2026)** I gave a talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://cadmy.yale.edu/events/2026-03-26-csorecon-theory-lunch-adam-lechowicz-umass-amherst) at the Yale CS / OR / Econ theory lunch.  Thank you [CADMY](https://cadmy.yale.edu) for the invitation!  See my slides [here](https://drive.google.com/file/d/1OyF4oUQ7PolJkcbgpoy2SjHx9HJbdryt/view?usp=sharing). <!-- homepage-news -->
+  - **(March 17, 2026)** I am at the [Workshop on Foundation Models of the Electric Grid](https://gridfm.org/harvard/) this week, presenting our work on online smoothed demand management. <!-- homepage-news -->
 
-  - **(March 17th, 2026)** I am at the [Workshop on Foundation Models of the Electric Grid](https://gridfm.org/harvard/) this week, presenting our work on online smoothed demand management. <!-- homepage-news -->
-
-  - **(February 6th, 2026)** I released [GlassTerm](https://github.com/adamlechowicz/GlassTerm), my personal terminal app for macOS.
+  - **(February 6, 2026)** I released [GlassTerm](https://github.com/adamlechowicz/GlassTerm), my personal terminal app for macOS.
 
 #### 2025
 
-  - **(November 20th, 2025)** We have a paper at ACM BuildSys 2025 (***best paper candidate!***) on [evolutionary learning for solar deployment optimization](https://dl.acm.org/doi/10.1145/3736425.3770115).
+  - **(November 20, 2025)** We have a paper at ACM BuildSys 2025 (***best paper candidate!***) on [evolutionary learning for solar deployment optimization](https://dl.acm.org/doi/10.1145/3736425.3770115).
 
-  - **(October 27th, 2025)** I am at the INFORMS Annual Meeting in Atlanta, GA this week!  I'll be giving an invited talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2627) in the [Algorithms for Grid Integration of AI](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=1345) session. See my slides [here](https://drive.google.com/file/d/1rbBkBUCwowlAGhMvxDA8RDkWHGF7MF8_/view?usp=sharing).
+  - **(October 27, 2025)** I am at the INFORMS Annual Meeting in Atlanta, GA this week!  I'll be giving an invited talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2627) in the [Algorithms for Grid Integration of AI](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=1345) session. See my slides [here](https://drive.google.com/file/d/1rbBkBUCwowlAGhMvxDA8RDkWHGF7MF8_/view?usp=sharing).
 
-  - **(September 9th, 2025)** I am at the ACM SIGCOMM conference in Coimbra, Portugal this week!  I'll be presenting our short paper on [carbon- and precedence-aware scheduling for data processing](https://arxiv.org/abs/2502.09717) in the SIGCOMM Shorts session.
+  - **(September 9, 2025)** I am at the ACM SIGCOMM conference in Coimbra, Portugal this week!  I'll be presenting our short paper on [carbon- and precedence-aware scheduling for data processing](https://arxiv.org/abs/2502.09717) in the SIGCOMM Shorts session.
 
-  - **(July 13th, 2025)** We have a paper at ICML 2025 on [near-optimal consistency-robustness trade-offs for learning-augmented online knapsack](https://arxiv.org/abs/2406.18752).
+  - **(July 13, 2025)** We have a paper at ICML 2025 on [near-optimal consistency-robustness trade-offs for learning-augmented online knapsack](https://arxiv.org/abs/2406.18752).
 
-  - **(July 2nd, 2025)** I am at the INFORMS APS conference at Georgia Tech this week!  I'll be giving an invited talk on [online optimization with switching costs and long-term constraints](https://arxiv.org/abs/2402.14012) in the Learning-Augmented Online Optimization session.
+  - **(July 2, 2025)** I am at the INFORMS APS conference at Georgia Tech this week!  I'll be giving an invited talk on [online optimization with switching costs and long-term constraints](https://arxiv.org/abs/2402.14012) in the Learning-Augmented Online Optimization session.
 
-  - **(June 20th, 2025)** I am at ACM e-Energy in Rotterdam, Netherlands this week!  We have two papers on [optimizing individualized incentives with unknown agent behavior](https://dl.acm.org/doi/10.1145/3679240.3734594) and [the carbon cost of residential solar](https://dl.acm.org/doi/10.1145/3679240.3734603).
+  - **(June 20, 2025)** I am at ACM e-Energy in Rotterdam, Netherlands this week!  We have two papers on [optimizing individualized incentives with unknown agent behavior](https://dl.acm.org/doi/10.1145/3679240.3734594) and [the carbon cost of residential solar](https://dl.acm.org/doi/10.1145/3679240.3734603).
 
-  - **(June 12th, 2025)** I am at the ACM SIGMETRICS conference at Stony Brook University this week!  I'll be presenting our paper on [spatiotemporal online allocation with deadline constraints](https://dl.acm.org/doi/10.1145/3711701) in the Online Learning II session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. 
+  - **(June 12, 2025)** I am at the ACM SIGMETRICS conference at Stony Brook University this week!  I'll be presenting our paper on [spatiotemporal online allocation with deadline constraints](https://dl.acm.org/doi/10.1145/3711701) in the Online Learning II session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. 
 
-  - **(May 8th, 2025)** I am giving an invited talk at the RSRG / FALCON group meeting at Caltech.  See my slides [here](https://drive.google.com/file/d/1Z6ypQdUXYm4QoVHN88GcbdkKgjWDNpU3/view?usp=share_link).  
+  - **(May 8, 2025)** I am giving an invited talk at the RSRG / FALCON group meeting at Caltech.  See my slides [here](https://drive.google.com/file/d/1Z6ypQdUXYm4QoVHN88GcbdkKgjWDNpU3/view?usp=share_link).  
 
-  - **(April 29th, 2025)** Our paper on [dynamic incentive allocation for deep decarbonization](https://arxiv.org/abs/2502.08877) was accepted to the ACM Journal on Computing and Sustainable Societies (JCSS)!
+  - **(April 29, 2025)** Our paper on [dynamic incentive allocation for deep decarbonization](https://arxiv.org/abs/2502.08877) was accepted to the ACM Journal on Computing and Sustainable Societies (JCSS)!
 
-  - **(February 7th, 2025)** I passed my Ph.D. portfolio with distinction.
+  - **(February 7, 2025)** I passed my Ph.D. portfolio with distinction.
 
 
 #### 2024
 
-  - **(December 3rd, 2024)** Congratulations to Anisha Prathi for successfully defending her undergraduate honors thesis -- wishing her all the best at Capital One! 
+  - **(December 3, 2024)** Congratulations to Anisha Prathi for successfully defending her undergraduate honors thesis -- wishing her all the best at Capital One! 
 
-  - **(December 2nd, 2024)** My undergraduate paper on [local edge dynamics and opinion polarization](https://arxiv.org/abs/2111.14020) was accepted to a special "Best of WSDM 2023" issue of ACM Transactions on Intelligent Systems and Technology (TIST)!
+  - **(December 2, 2024)** My undergraduate paper on [local edge dynamics and opinion polarization](https://arxiv.org/abs/2111.14020) was accepted to a special "Best of WSDM 2023" issue of ACM Transactions on Intelligent Systems and Technology (TIST)!
 
-  - **(November 27th, 2024)** I am giving a talk at the [ACM SIGEnergy Seminar](https://sites.google.com/view/sigenergy-seminar/).  See my slides [here](https://drive.google.com/file/d/1WVtGPCmFuA6V1216q5EvRr71mUlgG5Tk/view?usp=sharing).
+  - **(November 27, 2024)** I am giving a talk at the [ACM SIGEnergy Seminar](https://sites.google.com/view/sigenergy-seminar/).  See my slides [here](https://drive.google.com/file/d/1WVtGPCmFuA6V1216q5EvRr71mUlgG5Tk/view?usp=sharing).
 
-  - **(November 7th, 2024)** We have a paper at ACM BuildSys 2024 on [e-bike adoption across social contexts](https://dl.acm.org/doi/10.1145/3671127.3698185).  
+  - **(November 7, 2024)** We have a paper at ACM BuildSys 2024 on [e-bike adoption across social contexts](https://dl.acm.org/doi/10.1145/3671127.3698185).  
 
-  - **(September 3rd, 2024)** I am at the [Seventh Workshop on Autonomous Energy Systems](https://www.nrel.gov/grid/seventh-workshop-autonomous-energy-systems.html) in Golden, CO to present my work on incentives in distribution grids.  
+  - **(September 3, 2024)** I am at the [Seventh Workshop on Autonomous Energy Systems](https://www.nrel.gov/grid/seventh-workshop-autonomous-energy-systems.html) in Golden, CO to present my work on incentives in distribution grids.  
   
-  - **(August 14th, 2024)** I am giving an invited talk at the SODALab group meeting at the University of Alberta.  See my slides [here](https://drive.google.com/file/d/1pCdYPfICf6RjwDLs0dSva6TVrVWREaFc/view?usp=sharing).  
+  - **(August 14, 2024)** I am giving an invited talk at the SODALab group meeting at the University of Alberta.  See my slides [here](https://drive.google.com/file/d/1pCdYPfICf6RjwDLs0dSva6TVrVWREaFc/view?usp=sharing).  
   
-  - **(July 21st, 2024)** We have a paper at ICML 2024 on [convex function chasing with long-term constraints](https://openreview.net/forum?id=hRBdOHVn7y).  
+  - **(July 21, 2024)** We have a paper at ICML 2024 on [convex function chasing with long-term constraints](https://openreview.net/forum?id=hRBdOHVn7y).  
   
-  - **(June 18th, 2024)** Excited to spend a summer at the [National Renewable Energy Laboratory’s Power Systems Engineering Center](https://www.nrel.gov/grid/) for my [DOE CSGF](https://www.krellinst.org/csgf/about-doe-csgf) practicum.  
+  - **(June 18, 2024)** Excited to spend a summer at the [National Renewable Energy Laboratory’s Power Systems Engineering Center](https://www.nrel.gov/grid/) for my [DOE CSGF](https://www.krellinst.org/csgf/about-doe-csgf) practicum.  
   
-  - **(June 12th, 2024)** I am at ACM SIGMETRICS / IFIP Performance in Venice, Italy this week!  We have [two](https://dl.acm.org/doi/abs/10.1145/3626776) [papers](https://dl.acm.org/doi/abs/10.1145/3673660.3655074) in the Sustainable Computing session on learning-augmented online algorithms for carbon-aware data centers and EV charging, and I will also be giving a talk at the [LATA workshop](https://learning-augmented-algorithms.github.io).  
+  - **(June 12, 2024)** I am at ACM SIGMETRICS / IFIP Performance in Venice, Italy this week!  We have [two](https://dl.acm.org/doi/abs/10.1145/3626776) [papers](https://dl.acm.org/doi/abs/10.1145/3673660.3655074) in the Sustainable Computing session on learning-augmented online algorithms for carbon-aware data centers and EV charging, and I will also be giving a talk at the [LATA workshop](https://learning-augmented-algorithms.github.io).  
   
-  - **(June 5th, 2024)** We have a paper at ACM e-Energy 2024 on [carbon-aware resource scaling in data centers](https://dl.acm.org/doi/10.1145/3632775.3661942).
+  - **(June 5, 2024)** We have a paper at ACM e-Energy 2024 on [carbon-aware resource scaling in data centers](https://dl.acm.org/doi/10.1145/3632775.3661942).
 
-  - **(May 17th, 2024)** Congratulations to [Oluwole Fabikun](https://wolefabikun.com) for his graduation -- wishing him all the best at Fidelity! 
+  - **(May 17, 2024)** Congratulations to [Oluwole Fabikun](https://wolefabikun.com) for his graduation -- wishing him all the best at Fidelity! 
 
-  - **(May 7th, 2024)** I am at ICLR in Vienna, Austria this week to present our work on [time fairness in online knapsack problems](https://arxiv.org/abs/2305.13293). 
+  - **(May 7, 2024)** I am at ICLR in Vienna, Austria this week to present our work on [time fairness in online knapsack problems](https://arxiv.org/abs/2305.13293). 
 
-  - **(February 16th, 2024)** Our work on [network-aware decarbonization of residential heating at city scale](https://arxiv.org/abs/2301.04747) was invited to an exhibit at the [Science & Engineering Library](https://www.library.umass.edu/sel/) at UMass Amherst. 
+  - **(February 16, 2024)** Our work on [network-aware decarbonization of residential heating at city scale](https://arxiv.org/abs/2301.04747) was invited to an exhibit at the [Science & Engineering Library](https://www.library.umass.edu/sel/) at UMass Amherst. 
 
 #### 2023
 
-  - **(October 22nd, 2023)** I was invited to participate in the [2023 NextProf Pathfinder](https://nextprof.engin.umich.edu/nextprof-pathfinder/) workshop held at the University of Michigan.
+  - **(October 22, 2023)** I was invited to participate in the [2023 NextProf Pathfinder](https://nextprof.engin.umich.edu/nextprof-pathfinder/) workshop held at the University of Michigan.
 
-  - **(June 16th, 2023)** I am at ACM FCRC 2023 in Orlando, Florida this week!  We have a paper at e-Energy on [network-aware decarbonization of residential heating at city scale](https://arxiv.org/abs/2301.04747), and I am also presenting at the [LATA workshop](https://learning-augmented-algorithms.github.io/2023/).  
+  - **(June 16, 2023)** I am at ACM FCRC 2023 in Orlando, Florida this week!  We have a paper at e-Energy on [network-aware decarbonization of residential heating at city scale](https://arxiv.org/abs/2301.04747), and I am also presenting at the [LATA workshop](https://learning-augmented-algorithms.github.io/2023/).  
 
-  - **(May 20th, 2023)** Excited to visit [Caltech](https://rsrg.cms.caltech.edu/) this summer, advised by [Adam Wierman](https://adamwierman.com).
+  - **(May 20, 2023)** Excited to visit [Caltech](https://rsrg.cms.caltech.edu/) this summer, advised by [Adam Wierman](https://adamwierman.com).
 
-  - **(March 29th, 2023)** I am extremely pleased to be selected as a recipient of the [U.S. Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/about-doe-csgf)!
+  - **(March 29, 2023)** I am extremely pleased to be selected as a recipient of the [U.S. Department of Energy Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/about-doe-csgf)!
 
-  - **(February 27th, 2023)** I am at ACM WSDM 2023 in Singapore this week to present my undergraduate thesis work on [local edge dynamics and opinion polarization](https://arxiv.org/abs/2111.14020).
+  - **(February 27, 2023)** I am at ACM WSDM 2023 in Singapore this week to present my undergraduate thesis work on [local edge dynamics and opinion polarization](https://arxiv.org/abs/2111.14020).
 
-  - **(February 10th, 2023)** I released [Venti](https://github.com/adamlechowicz/venti), a carbon-aware battery management tool for Apple silicon MacBooks.
+  - **(February 10, 2023)** I released [Venti](https://github.com/adamlechowicz/venti), a carbon-aware battery management tool for Apple silicon MacBooks.
 
 
 #### 2022
 
-  - **(November 1st, 2022)** I gave a talk at the [UMass Amherst CS Theory Seminar](https://theory.cs.umass.edu/seminar) titled "On the Necessary “Unfairness” of Competitive Online Algorithms".  See my slides [here](https://drive.google.com/file/d/1Hm2OKUGoLGYRz1-ARq5RDKh-uI6oRdwM/view).
+  - **(November 1, 2022)** I gave a talk at the [UMass Amherst CS Theory Seminar](https://theory.cs.umass.edu/seminar) titled "On the Necessary “Unfairness” of Competitive Online Algorithms".  See my slides [here](https://drive.google.com/file/d/1Hm2OKUGoLGYRz1-ARq5RDKh-uI6oRdwM/view).
 
-  - **(September 5th, 2022)** I began my Ph.D. in computer science at UMass Amherst.  I am excited to be named as an incoming [ELEVATE Fellow](https://www.energytransitionumass.org/elevate/students) by the [Energy Transition Institute](https://www.energytransitionumass.org).
+  - **(September 5, 2022)** I began my Ph.D. in computer science at UMass Amherst.  I am excited to be named as an incoming [ELEVATE Fellow](https://www.energytransitionumass.org/elevate/students) by the [Energy Transition Institute](https://www.energytransitionumass.org).
 
-  - **(July 1st, 2022)** I began a one-year term as the Amherst campus student trustee on the [UMass Board of Trustees](https://www.umassp.edu/bot).
+  - **(July 1, 2022)** I began a one-year term as the Amherst campus student trustee on the [UMass Board of Trustees](https://www.umassp.edu/bot).
 
-  - **(May 12th, 2022)** I received my B.S. in computer science and a B.A. in political science.  Honored to be named as a [21st Century Leader](https://www.umass.edu/news/article/ten-outstanding-graduates-be-honored-21st-century-leaders-umass-amherst-commencement) and [Rising Researcher](https://www.umass.edu/gateway/article/computing-greater-good).
+  - **(May 12, 2022)** I received my B.S. in computer science and a B.A. in political science.  Honored to be named as a [21st Century Leader](https://www.umass.edu/news/article/ten-outstanding-graduates-be-honored-21st-century-leaders-umass-amherst-commencement) and [Rising Researcher](https://www.umass.edu/gateway/article/computing-greater-good).
