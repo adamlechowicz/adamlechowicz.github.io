@@ -3,9 +3,13 @@ layout: post
 title: 'News'
 ---
 
-<!-- #### Upcoming Talks
+#### Upcoming Talks
 
-  - **(March 26, 2026)** I will give an invited talk at the CS / OR / Econ theory lunch at Yale.   -->
+  - **(November 9, 2026)** I will give an invited talk at the [Cornell AI for Sustainability (AI4S) Seminar](https://sustainability.ai.cornell.edu/seminars/).  
+
+  - **(November 11, 2026)** I will give an invited talk at the [Johns Hopkins Algorithms & Complexity Seminar](https://theory.cs.jhu.edu/seminar/).  
+
+  - **(December 4, 2026)** I will give an invited talk at the [Williams College CS Colloquium](https://www.cs.williams.edu/colloquium).  
 
 #### 2026
 
