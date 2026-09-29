@@ -13,6 +13,8 @@ title: 'News'
 
 #### 2026
 
+  - **(September 29, 2026)** My work was profiled by the [UMass Graduate School: *"Using Small, Invisible Applications of AI to Power Large Changes."*](https://www.umass.edu/graduate/news/adam-lechowicz-designs-ai-decision-making-systems) <!-- homepage-news -->
+
   - **(August 23, 2026)** Our paper on online joint pricing and scheduling in distributed networked platforms was accepted to MobiHoc 2026! <!-- homepage-news -->
 
   - **(July 15, 2026)** I am at OSDI 2026 in Seattle, WA this week!  I'll be presenting our <tt>SPADE</tt> paper on [signal-aware DAG scheduling and dynamic provisioning](https://arxiv.org/abs/2502.09717) in the Power, Energy, Sustainability session! <!-- homepage-news -->
@@ -31,7 +33,7 @@ title: 'News'
 
   - **(March 26, 2026)** I gave a talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://cadmy.yale.edu/events/2026-03-26-csorecon-theory-lunch-adam-lechowicz-umass-amherst) at the Yale CS / OR / Econ theory lunch.  Thank you [CADMY](https://cadmy.yale.edu) for the invitation!  See my slides [here](https://drive.google.com/file/d/1OyF4oUQ7PolJkcbgpoy2SjHx9HJbdryt/view?usp=sharing). <!-- homepage-news -->
 
-  - **(March 17, 2026)** I am at the [Workshop on Foundation Models of the Electric Grid](https://gridfm.org/harvard/) this week, presenting our work on online smoothed demand management. <!-- homepage-news -->
+  - **(March 17, 2026)** I am at the [Workshop on Foundation Models of the Electric Grid](https://gridfm.org/harvard/) this week, presenting our work on online smoothed demand management.
 
   - **(February 6, 2026)** I released [GlassTerm](https://github.com/adamlechowicz/GlassTerm), my personal terminal app for macOS.
 
