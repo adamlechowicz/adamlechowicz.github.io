@@ -101,7 +101,7 @@ about: >
   <p class="small" style="font-variant:small-caps">
   </p>
   
-  I work at the intersection of theory and systems, with an emphasis on emerging problems in energy and sustainability.  From a theoretical perspective, I am interested in decision-making under uncertainty, particularly using the learning-augmented algorithms framework, which combines the provable guarantees of traditional algorithm design with AI-driven performance.  On the application side, I am interested in novel system designs that increase the flexibility, efficiency, and sustainability of energy systems or computing infrastructure. 
+  I work towards a future in which the infrastructure behind everyday life, from data centers to energy systems, continually adapts to reduce its environmental impact while delivering dependable services. I develop systems and algorithms that expose, enable, and exploit this flexibility. A core thread of my work is learning-augmented algorithms, which pair the performance of AI with worst-case guarantees, so decisions improve when predictions are accurate and stay dependable when they are not.
 
   <p class="small" style="font-variant:small-caps">
   </p>
