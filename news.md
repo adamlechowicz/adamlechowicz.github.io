@@ -13,6 +13,8 @@ title: 'News'
 
 #### 2026
 
+  - **(October 31, 2026)** I am at the INFORMS Annual Meeting in San Francisco, CA this week!  I'll be giving an invited talk on [online smoothed demand managemenr](https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/PresentationDetail.aspx?evdid=2052) in the [Online and Robust Decision Making under Uncertainty: Methodologies and Applications](https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=444) session. Thank you [Mengfan Xu](https://mengfanxu1997.github.io/) for organizing the session! <!-- homepage-news -->
+
   - **(September 29, 2026)** My work was profiled by the [UMass Graduate School: *"Using Small, Invisible Applications of AI to Power Large Changes."*](https://www.umass.edu/graduate/news/adam-lechowicz-designs-ai-decision-making-systems) <!-- homepage-news -->
 
   - **(August 23, 2026)** Our paper on online joint pricing and scheduling in distributed networked platforms was accepted to MobiHoc 2026! <!-- homepage-news -->
@@ -27,7 +29,7 @@ title: 'News'
 
   - **(May 11, 2026)** Excited to spend a summer at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) -- I'll be interning with the [Systems and Networking Group](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/). <!-- homepage-news -->
 
-  - **(April 21, 2026)** I am presenting two guest lectures this week on the impacts of data centers and related algorithmic challenges in [INFO 203: A Networked World](https://groups.cs.umass.edu/hajiesmaili/info-203-a-networked-world-fall-2022/), an undergraduate course at UMass. <!-- homepage-news -->
+  - **(April 21, 2026)** I am presenting two guest lectures this week on the impacts of data centers and related algorithmic challenges in [INFO 203: A Networked World](https://groups.cs.umass.edu/hajiesmaili/info-203-a-networked-world-fall-2022/), an undergraduate course at UMass. 
 
   - **(April 14, 2026)** Congratulations to [Rohan Shenoy](https://scholar.google.com/citations?user=oHxrOoUAAAAJ&hl=en) for receiving a NSF Graduate Research Fellowship to support his Ph.D. studies!
 
