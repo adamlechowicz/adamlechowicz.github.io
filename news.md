@@ -13,7 +13,7 @@ title: 'News'
 
 #### 2026
 
-  - **(October 31, 2026)** I am at the INFORMS Annual Meeting in San Francisco, CA this week!  I'll be giving an invited talk on [online smoothed demand managemenr](https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/PresentationDetail.aspx?evdid=2052) in the [Online and Robust Decision Making under Uncertainty: Methodologies and Applications](https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=444) session. Thank you [Mengfan Xu](https://mengfanxu1997.github.io/) for organizing the session! <!-- homepage-news -->
+  - **(October 31, 2026)** I am at the INFORMS Annual Meeting in San Francisco, CA this week!  I'll be giving an invited talk on [online smoothed demand management](https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/PresentationDetail.aspx?evdid=2052) in the [Online and Robust Decision Making under Uncertainty: Methodologies and Applications](https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=444) session. Thank you [Mengfan Xu](https://mengfanxu1997.github.io/) for organizing the session! <!-- homepage-news -->
 
   - **(September 29, 2026)** My work was profiled by the [UMass Graduate School: *"Using Small, Invisible Applications of AI to Power Large Changes."*](https://www.umass.edu/graduate/news/adam-lechowicz-designs-ai-decision-making-systems) <!-- homepage-news -->
 
