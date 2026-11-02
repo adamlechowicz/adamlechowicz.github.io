@@ -100,7 +100,7 @@ GreenSys 2026.
 #### 2025
 
 <!-- homepage-publication:start -->
-**[Multi-objective Evolutionary Learning for Near Pareto-Optimal Optimization of Solar Deployment](https://dl.acm.org/doi/10.1145/3736425.3770115)**  <br/>
+**[Multi-Objective Evolutionary Learning for Near Pareto-Optimal Optimization of Solar Deployment](https://dl.acm.org/doi/10.1145/3736425.3770115)**  <br/>
 <span class="author-list"><span class="author">Cooper Sigrist</span><span class="author">Archimedes Li</span><span class="author">Pichsinee Lertsaroj</span><span class="author">Ryan Boldi</span><span class="author">Adam Lechowicz</span><span class="author">Noman Bashir</span><span class="author">Mohammad Hajiesmaili</span></span><br/>
 ACM BuildSys 2025.  ([workshop version](https://dl.acm.org/doi/abs/10.1145/3764944.3764955))<br/>
 ***best paper candidate!***
