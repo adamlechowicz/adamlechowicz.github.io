@@ -13,8 +13,6 @@ title: 'News'
 
   - **(November 9, 2026)** I gave a talk on [provably robust AI integration for sustainable data centers and infrastructure](https://sustainability.ai.cornell.edu/seminars/) at the [Cornell AI for Sustainability (AI4S) Seminar](https://sustainability.ai.cornell.edu/seminars/). Thank you [CAISI](https://sustainability.ai.cornell.edu/) for the invitation!  <!-- homepage-news -->
 
-  I gave a talk on [learning-augmented algorithms for spatiotemporal online allocation with deadline constraints](https://cadmy.yale.edu/events/2026-03-26-csorecon-theory-lunch-adam-lechowicz-umass-amherst) at the Yale CS / OR / Econ theory lunch.  Thank you [CADMY](https://cadmy.yale.edu) for the invitation!  See my slides [here](https://drive.google.com/file/d/1OyF4oUQ7PolJkcbgpoy2SjHx9HJbdryt/view?usp=sharing). 
-
   - **(October 31, 2026)** I am at the INFORMS Annual Meeting in San Francisco, CA this week!  I'll be giving an invited talk on [online smoothed demand management](https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/PresentationDetail.aspx?evdid=2052) in the [Online and Robust Decision Making under Uncertainty: Methodologies and Applications](https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=444) session. Thank you [Mengfan Xu](https://mengfanxu1997.github.io/) for organizing the session! <!-- homepage-news -->
 
   - **(September 29, 2026)** My work was profiled by the [UMass Graduate School: *"Using Small, Invisible Applications of AI to Power Large Changes."*](https://www.umass.edu/graduate/news/adam-lechowicz-designs-ai-decision-making-systems) <!-- homepage-news -->
