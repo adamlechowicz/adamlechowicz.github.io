@@ -5,11 +5,11 @@ title: 'News'
 
 #### Upcoming Talks
 
-  - **(November 11, 2026)** I will give an invited talk at the [Johns Hopkins Algorithms & Complexity Seminar](https://theory.cs.jhu.edu/seminar/).  
-
   - **(December 4, 2026)** I will give an invited talk at the [Williams College CS Colloquium](https://www.cs.williams.edu/colloquium).  
 
 #### 2026
+
+  - **(November 11, 2026)** I gave a talk on [robust AI decision-making for sustainable data centers and infrastructure](https://theory.cs.jhu.edu/seminar/) at the [Johns Hopkins Algorithms \& Complexity Seminar](https://theory.cs.jhu.edu/seminar/). Thank you [Nico Christianson](https://nicochristianson.com/) for the invitation!  <!-- homepage-news -->
 
   - **(November 9, 2026)** I gave a talk on [provably robust AI integration for sustainable data centers and infrastructure](https://sustainability.ai.cornell.edu/seminars/) at the [Cornell AI for Sustainability (AI4S) Seminar](https://sustainability.ai.cornell.edu/seminars/). Thank you [CAISI](https://sustainability.ai.cornell.edu/) for the invitation!  <!-- homepage-news -->
 
