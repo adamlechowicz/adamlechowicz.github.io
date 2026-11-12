@@ -210,11 +210,9 @@ ACM SIGMETRICS / IFIP Performance 2024.  Also in ACM POMACS, Dec. 2023. ([slides
 <p class="lead" style="font-variant:small-caps">
 </p>
 
-<!-- homepage-publication:start -->
 **[Equitable Network-aware Decarbonization of Residential Heating at City Scale](https://arxiv.org/abs/2301.04747)**  <br/>
 Adam Lechowicz, Noman Bashir, John Wamburu, Mohammad Hajiesmaili, Prashant Shenoy  <br/>
 ACM e-Energy 2023. ([slides](https://drive.google.com/file/d/15THywHT1sZXHZGaaIW3LfboftIIu1gnj/view?usp=sharing))
-<!-- homepage-publication:end -->
 
 <p class="lead" style="font-variant:small-caps">
 </p>
