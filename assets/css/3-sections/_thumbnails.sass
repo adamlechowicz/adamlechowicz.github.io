@@ -44,3 +44,40 @@
     .thumb-unit
       width: 80vw
       height: 40vw
+
+// Link tile for talk recordings that can't be embedded (e.g. Zoom) —
+// hover overlay matches the homepage .campus-card-overlay, sized like a 16:9 player
+.talk-tile
+  display: block
+  width: 100%
+  aspect-ratio: 16 / 9
+  border-radius: 25px
+  position: relative
+  overflow: hidden
+  // inset edge so white slide thumbnails don't blend into the page
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,0.08), inset 0 0 18px rgba(0,0,0,0.18)
+  background:
+    position: center center
+    repeat: no-repeat
+    size: cover
+  &:hover, &:focus
+    border-bottom: none
+  .talk-tile-overlay
+    position: absolute
+    inset: 0
+    background: rgba(0,0,0,0.45)
+    display: flex
+    align-items: center
+    justify-content: center
+    opacity: 0
+    transition: opacity 0.3s ease
+    border-radius: 25px
+    -webkit-backdrop-filter: blur(4px)
+    backdrop-filter: blur(4px)
+    span
+      color: white
+      font-size: 20px
+      font-weight: 400
+      letter-spacing: 0.05em
+  &:hover .talk-tile-overlay, &:focus .talk-tile-overlay
+    opacity: 1

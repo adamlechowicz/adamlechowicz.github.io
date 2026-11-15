@@ -7,13 +7,17 @@ title: 'Selected Talks & Publications'
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
       <!-- Shorter Talk -->
       <div style="text-align: center; width: 49%;">
-          <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">ACM SIGMETRICS quick recording on Online Smoothed Demand Management, June 2026</div>
-          <iframe width="100%" height="auto" src="https://www.youtube.com/embed/5fgzzT2n9SE?si=_6SUK5VaTRva7C7B" title="ACM SIGMETRICS quick recording on Online Smoothed Demand Management, June 2026" frameborder="0" style="aspect-ratio: 16/9;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+          <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">Talk at Johns Hopkins Algorithms &amp; Complexity Seminar, Nov 2026</div>
+          <a class="talk-tile" href="https://wse.zoom.us/rec/play/yvvCuO6JwdaEc3xj4mTVcf7GGYJBAWkM3hOUsuI4zLlwtFzFIVxScBl77Sx-jTWJfXhC1FTcNK5AWGbx._PnQHWeyjqZR7Qe2?accessLevel=meeting&amp;canPlayFromShare=true&amp;from=share_recording_detail&amp;continueMode=true&amp;oldStyle=true&amp;componentName=rec-play&amp;originRequestUrl=https%3A%2F%2Fwse.zoom.us%2Frec%2Fshare%2FURuoHqJ9pgnOrtIJTER5RWw_GWxvEggAw18N9jZxsu0DkQZclpVf8HU5xJMwlEh-.t21l_KSQFPB9yvj" target="_blank" rel="noopener" aria-label="Watch recording on Zoom: Talk at Johns Hopkins Algorithms &amp; Complexity Seminar, Nov 2026" style="background-image: url({{ site.github.url }}/assets/img/jhu-talk-thumb.jpeg);">
+              <div class="talk-tile-overlay">
+                  <span>watch recording on Zoom <em>→</em></span>
+              </div>
+          </a>
       </div>
       <!-- Longer Talk -->
       <div style="text-align: center; width: 49%;">
           <div style="font-weight: bolder; font-size: 16px; margin-bottom: 10px;">ACM WSDM talk on Local Edge Dynamics and Opinion Polarization, February 2023</div>
-          <iframe width="100%" height="auto" src="https://www.youtube.com/embed/nGhN00sH-dE?si=Q78M4hIuEA7d9t2h" title="ACM WSDM talk on Local Edge Dynamics and Opinion Polarization, February 2023" frameborder="0" style="aspect-ratio: 16/9;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+          <iframe width="100%" height="auto" src="https://www.youtube.com/embed/nGhN00sH-dE?si=Q78M4hIuEA7d9t2h" title="ACM WSDM talk on Local Edge Dynamics and Opinion Polarization, February 2023" frameborder="0" style="aspect-ratio: 16/9; border-radius: 25px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
       </div>
   </div>
 </div>
