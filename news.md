@@ -9,6 +9,8 @@ title: 'News'
 
 #### 2026
 
+  - **(November 18, 2026)** My home department highlighted my work and background in a [community story](https://www.cics.umass.edu/stories/adam-lechowicz-22). Thank you to Manning CICS marketing and communications folks for taking the time to speak with me!  <!-- homepage-news -->
+
   - **(November 11, 2026)** I gave a talk on [robust AI decision-making for sustainable data centers and infrastructure](https://theory.cs.jhu.edu/seminar/) at the [Johns Hopkins Algorithms & Complexity Seminar](https://theory.cs.jhu.edu/seminar/). Thank you [Nico Christianson](https://nicochristianson.com/) for the invitation!  <!-- homepage-news -->
 
   - **(November 9, 2026)** I gave a talk on [provably robust AI integration for sustainable data centers and infrastructure](https://sustainability.ai.cornell.edu/seminars/) at the [Cornell AI for Sustainability (AI4S) Seminar](https://sustainability.ai.cornell.edu/seminars/). Thank you [CAISI](https://sustainability.ai.cornell.edu/) for the invitation!  <!-- homepage-news -->
@@ -27,7 +29,7 @@ title: 'News'
 
   - **(June 8, 2026)** I am at the ACM SIGMETRICS conference at the University of Michigan this week!  I'll be presenting our paper on [online smoothed demand management](https://arxiv.org/abs/2511.18554) in the Learning-Augmented and Sequential Learning session.  I am also co-organizing the [LATA](https://learning-augmented-algorithms.github.io) and [CarbonMetrics](https://noman-bashir.github.io/CarbonMetrics/) workshops. <!-- homepage-news -->
 
-  - **(May 11, 2026)** Excited to spend a summer at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) -- I'll be interning with the [Systems and Networking Group](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/). <!-- homepage-news -->
+  - **(May 11, 2026)** Excited to spend a summer at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) -- I'll be interning with the [Systems and Networking Group](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/). 
 
   - **(April 21, 2026)** I am presenting two guest lectures this week on the impacts of data centers and related algorithmic challenges in [INFO 203: A Networked World](https://groups.cs.umass.edu/hajiesmaili/info-203-a-networked-world-fall-2022/), an undergraduate course at UMass. 
 
@@ -78,7 +80,7 @@ title: 'News'
   
   - **(July 21, 2024)** We have a paper at ICML 2024 on [convex function chasing with long-term constraints](https://openreview.net/forum?id=hRBdOHVn7y).  
   
-  - **(June 18, 2024)** Excited to spend a summer at the [National Renewable Energy Laboratory’s Power Systems Engineering Center](https://www.nrel.gov/grid/) for my [DOE CSGF](https://www.krellinst.org/csgf/about-doe-csgf) practicum.  
+  - **(June 18, 2024)** Excited to spend a summer at the [National Renewable Energy Laboratory's Power Systems Engineering Center](https://www.nrel.gov/grid/) for my [DOE CSGF](https://www.krellinst.org/csgf/about-doe-csgf) practicum.  
   
   - **(June 12, 2024)** I am at ACM SIGMETRICS / IFIP Performance in Venice, Italy this week!  We have [two](https://dl.acm.org/doi/abs/10.1145/3626776) [papers](https://dl.acm.org/doi/abs/10.1145/3673660.3655074) in the Sustainable Computing session on learning-augmented online algorithms for carbon-aware data centers and EV charging, and I will also be giving a talk at the [LATA workshop](https://learning-augmented-algorithms.github.io).  
   
